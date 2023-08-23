@@ -1,13 +1,13 @@
 # TIL
 
-'''
+```
 files            : 43
 
 derectories      : 17
 
 avg_file_length  : 2565
 
-'''
+```
 
 ./
 ╊━　[ComputerScience](.//ComputerScience)</br>
