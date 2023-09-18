@@ -6,7 +6,8 @@
 
 내 Spring boot app 은 간단하게 HelloWorld 를 출력하고 로드밸런싱이 되는걸 확인하기 위해 Hostname을 출력하도록 했다.
 
-![](Spring_Boot_App_%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/Screenshot%202023-09-18%20at%2012.10.29%20PM.png)
+<img width="445" alt="Screenshot 2023-09-18 at 12 10 29 PM" src="https://github.com/HyunSu1768/TIL/assets/108796235/0f5a5e59-3bf4-4d03-a167-1df492c7f046">
+
 
 그리고 docker build를 하고 docker hub에 올려준다.
 
@@ -103,17 +104,24 @@ selector 를 사용해서 파드의 라벨이름을 적어줍니다. 또한 port
 `kubectl apply -f helloworld-service.yaml` 을 사용해서 service를 실행할 수 있습니다.
 
 `kubectl get pods` 를 사용해서 파드의 목록을 볼 수 있습니다.
-![](Spring_Boot_App_%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/Screenshot%202023-09-18%20at%2012.35.07%20PM.png)replicas를 3으로 설정했기 때문에 같은 파드가3 개 실행되는 것을 볼 수 있습니다.
+<img width="554" alt="Screenshot 2023-09-18 at 12 35 07 PM" src="https://github.com/HyunSu1768/TIL/assets/108796235/c29d5adb-5e46-4f7f-8532-cc6d87140b8e">
+replicas를 3으로 설정했기 때문에 같은 파드가3 개 실행되는 것을 볼 수 있습니다.
 
 또한 pod에 대한 세부적인 항목을 보고싶다면
 `kubectl describe pod < 파드이름 >` 을 통해 볼 수 있습니다.
-![](Spring_Boot_App_%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/Screenshot%202023-09-18%20at%2012.36.14%20PM.png)
+<img width="545" alt="Screenshot 2023-09-18 at 12 36 14 PM" src="https://github.com/HyunSu1768/TIL/assets/108796235/b28a24d1-fbc8-464f-971c-90ddb9d2aa33">
+
+
 
 이제 한번 확인해볼 시간입니다.
 
 지금 minikube라는 테스트 클러스터를 사용하고 있는데 minkube에서는 loadbalancer의 ip를 제공하기 않기 때문에
 `minikube service helloworld-service` 를 사용해 정상적으로 작동되게 할 수 있습니다.
-![](Spring_Boot_App_%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/Screenshot%202023-09-18%20at%2012.37.52%20PM.png)이렇게 접속이 가능합니다.
+
+<img width="451" alt="Screenshot 2023-09-18 at 12 37 52 PM" src="https://github.com/HyunSu1768/TIL/assets/108796235/ceb31d80-d64e-483c-8746-e074d0536581">
+
+이렇게 접속이 가능합니다.
 
 우리는 3개의 복제본을 만들고 loadbalancer를 정의해주었기 때문에 트래픽을 다시 보내면 다른 pod에서 응답할 수 있습니다.
-![](Spring_Boot_App_%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/Screenshot%202023-09-18%20at%2012.38.35%20PM.png)이런식으로 !
+<img width="441" alt="Screenshot 2023-09-18 at 12 38 35 PM" src="https://github.com/HyunSu1768/TIL/assets/108796235/1091e9c1-338d-413f-8eea-2422beb92559">
+이런식으로 !
