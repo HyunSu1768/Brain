@@ -1,11 +1,11 @@
 # TIL
 
 ```
-files            : 44
+files            : 45
 
 derectories      : 18
 
-avg_file_length  : 2733
+avg_file_length  : 2913
 
 ```
 
@@ -25,6 +25,7 @@ avg_file_length  : 2733
 ┃　　　╊━　[Docker](.//DevOps/Docker)</br>
 ┃　　　┃　　　┗━　[Docker.md](.//DevOps/Docker/Docker.md)</br>
 ┃　　　╊━　[Kubernetes](.//DevOps/Kubernetes)</br>
+┃　　　┃　　　╊━　[Kubelet,Pod.md](.//DevOps/Kubernetes/Kubelet,Pod.md)</br>
 ┃　　　┃　　　┗━　[Spring_Boot_App_배포하기.md](.//DevOps/Kubernetes/Spring_Boot_App_배포하기.md)</br>
 ┃　　　╊━　[Linux](.//DevOps/Linux)</br>
 ┃　　　┃　　　┗━　[FileSystem.md](.//DevOps/Linux/FileSystem.md)</br>
