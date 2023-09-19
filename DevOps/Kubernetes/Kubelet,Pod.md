@@ -89,7 +89,7 @@ kubectl port-forward 8080:80
 
 이렇게 하면 [localhost:8080](http://localhost:8080) 을 사용해서 nginx에 접속할 수 있습니다.
 
-![Screenshot 2023-09-19 at 7.19.42 PM.png](The%20Kubelet%20d723575f477e405b9db14b366ece77b5/Screenshot_2023-09-19_at_7.19.42_PM.png)
+![Screenshot 2023-09-19 at 7 29 25 PM](https://github.com/HyunSu1768/TIL/assets/108796235/9ec1f00a-b12a-44f2-9bc0-220a76cfd0fa)
 
 우리는 이제 log-truncator 에 접속해 /logdir-hyunsu에 로그가 있는지 확인하면 됩니다.
 
@@ -101,13 +101,15 @@ kubectl exec -it nginx -c log-truncator -- /bin/sh
 
 이렇게 접속한 뒤 ls 를 해보면
 
-![Screenshot 2023-09-19 at 7.21.12 PM.png](The%20Kubelet%20d723575f477e405b9db14b366ece77b5/Screenshot_2023-09-19_at_7.21.12_PM.png)
+![Screenshot 2023-09-19 at 7 29 44 PM](https://github.com/HyunSu1768/TIL/assets/108796235/2f5af7b4-45bf-4af3-a1c3-475af718c7b7)
+
 
 logdir-hyunsu 라는 디렉토리가 있는것을 확인할 수 있고
 
 들어가서 cat error.log 를 확인해 보면
 
-![Screenshot 2023-09-19 at 7.22.04 PM.png](The%20Kubelet%20d723575f477e405b9db14b366ece77b5/Screenshot_2023-09-19_at_7.22.04_PM.png)
+![Screenshot 2023-09-19 at 7 29 59 PM](https://github.com/HyunSu1768/TIL/assets/108796235/d2d1ed30-21ce-41a9-9953-827af3604127)
+
 
 이렇게 잘 보이는것을 확인할 수 있다.!!
 
