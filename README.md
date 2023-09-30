@@ -1,15 +1,18 @@
 # TIL
 
 ```
-files            : 46
+files            : 48
 
-derectories      : 21
+derectories      : 22
 
-avg_file_length  : 3118
+avg_file_length  : 2988
 
 ```
 
 ./
+╊━　[Algorithm](.//Algorithm)</br>
+┃　　　╊━　[이진　트리.md](.//Algorithm/이진　트리.md)</br>
+┃　　　┗━　[모듈러　연산.md](.//Algorithm/모듈러　연산.md)</br>
 ╊━　[ComputerScience](.//ComputerScience)</br>
 ┃　　　╊━　[CpuScheduling.md](.//ComputerScience/CpuScheduling.md)</br>
 ┃　　　╊━　[ProcessAndThread.md](.//ComputerScience/ProcessAndThread.md)</br>
