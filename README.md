@@ -1,11 +1,11 @@
 # TIL
 
 ```
-files            : 50
+files            : 51
 
 derectories      : 23
 
-avg_file_length  : 2880
+avg_file_length  : 2820
 
 ```
 
@@ -29,7 +29,8 @@ avg_file_length  : 2880
 ┃　　　╊━　[Docker](.//DevOps/Docker)</br>
 ┃　　　┃　　　┗━　[Docker.md](.//DevOps/Docker/Docker.md)</br>
 ┃　　　╊━　[Kubernetes](.//DevOps/Kubernetes)</br>
-┃　　　┃　　　╊━　[Kubelet,Pod.md](.//DevOps/Kubernetes/Kubelet,Pod.md)</br>
+┃　　　┃　　　╊━　[Kubelet.md](.//DevOps/Kubernetes/Kubelet.md)</br>
+┃　　　┃　　　╊━　[Pod.md](.//DevOps/Kubernetes/Pod.md)</br>
 ┃　　　┃　　　┗━　[Spring_Boot_App_배포하기.md](.//DevOps/Kubernetes/Spring_Boot_App_배포하기.md)</br>
 ┃　　　╊━　[Linux](.//DevOps/Linux)</br>
 ┃　　　┃　　　┗━　[FileSystem.md](.//DevOps/Linux/FileSystem.md)</br>
