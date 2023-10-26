@@ -3,9 +3,9 @@
 ```
 files            : 50
 
-derectories      : 24
+derectories      : 23
 
-avg_file_length  : 2968
+avg_file_length  : 2880
 
 ```
 
