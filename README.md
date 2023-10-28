@@ -1,11 +1,11 @@
 # TIL
 
 ```
-files            : 52
+files            : 59
 
-derectories      : 23
+derectories      : 26
 
-avg_file_length  : 2779
+avg_file_length  : 2449
 
 ```
 
@@ -26,6 +26,10 @@ avg_file_length  : 2779
 ┃　　　╊━　[Database.md](.//Database/Database.md)</br>
 ┃　　　┗━　[FK,PK.md](.//Database/FK,PK.md)</br>
 ╊━　[DevOps](.//DevOps)</br>
+┃　　　╊━　[AWS](.//DevOps/AWS)</br>
+┃　　　┃　　　╊━　[AWS　BedRock.md](.//DevOps/AWS/AWS　BedRock.md)</br>
+┃　　　┃　　　╊━　[AWS　CodeCommit.md](.//DevOps/AWS/AWS　CodeCommit.md)</br>
+┃　　　┃　　　┗━　[Application　Composer.md](.//DevOps/AWS/Application　Composer.md)</br>
 ┃　　　╊━　[Docker](.//DevOps/Docker)</br>
 ┃　　　┃　　　┗━　[Docker.md](.//DevOps/Docker/Docker.md)</br>
 ┃　　　╊━　[Kubernetes](.//DevOps/Kubernetes)</br>
@@ -64,8 +68,14 @@ avg_file_length  : 2779
 ┃　　　┃　　　╊━　[JWT.md](.//Network/HTTP/JWT.md)</br>
 ┃　　　┃　　　┗━　[URI━WebBrowser.md](.//Network/HTTP/URI━WebBrowser.md)</br>
 ┃　　　┗━　[OSI━7━Layer](.//Network/OSI━7━Layer)</br>
-┃　　　　　　　┗━　[L1━Netowrk　Access　Layer](.//Network/OSI━7━Layer/L1━Netowrk　Access　Layer)</br>
-┃　　　　　　　　　　　┗━　[Network　Access　Layer(1)</br>.md](.//Network/OSI━7━Layer/L1━Netowrk　Access　Layer/Network　Access　Layer(1)</br>.md)</br>
+┃　　　　　　　╊━　[L1━Netowrk　Access　Layer](.//Network/OSI━7━Layer/L1━Netowrk　Access　Layer)</br>
+┃　　　　　　　┃　　　╊━　[Network　Access　Layer(1)</br>.md](.//Network/OSI━7━Layer/L1━Netowrk　Access　Layer/Network　Access　Layer(1)</br>.md)</br>
+┃　　　　　　　┃　　　┗━　[허브.md](.//Network/OSI━7━Layer/L1━Netowrk　Access　Layer/허브.md)</br>
+┃　　　　　　　╊━　[L2━Link　Layer](.//Network/OSI━7━Layer/L2━Link　Layer)</br>
+┃　　　　　　　┃　　　┗━　[스위치.md](.//Network/OSI━7━Layer/L2━Link　Layer/스위치.md)</br>
+┃　　　　　　　┗━　[L3━Network　Layer](.//Network/OSI━7━Layer/L3━Network　Layer)</br>
+┃　　　　　　　　　　　╊━　[IP.md](.//Network/OSI━7━Layer/L3━Network　Layer/IP.md)</br>
+┃　　　　　　　　　　　┗━　[NAT━PAT.md](.//Network/OSI━7━Layer/L3━Network　Layer/NAT━PAT.md)</br>
 ╊━　[School](.//School)</br>
 ┃　　　┗━　[ComputerArchitecture.md](.//School/ComputerArchitecture.md)</br>
 ╊━　[Spring](.//Spring)</br>
@@ -81,7 +91,9 @@ avg_file_length  : 2779
 ┃　　　╊━　[DispatcherServlet.md](.//Spring/DispatcherServlet.md)</br>
 ┃　　　╊━　[Filter.md](.//Spring/Filter.md)</br>
 ┃　　　┗━　[SpringBean.md](.//Spring/SpringBean.md)</br>
-┗━　[README.md](.//README.md)</br>
+╊━　[README.md](.//README.md)</br>
+╊━　[Screenshot　2023━10━28　at　12.11.06　AM.png](.//Screenshot　2023━10━28　at　12.11.06　AM.png)</br>
+┗━　[Screenshot　2023━10━29　at　12.06.40　AM.png](.//Screenshot　2023━10━29　at　12.06.40　AM.png)</br>
 .
 ╊━　[applypatch━msg.sample](./applypatch━msg.sample)</br>
 ╊━　[commit━msg.sample](./commit━msg.sample)</br>
