@@ -1,11 +1,11 @@
 # TIL
 
 ```
-files            : 59
+files            : 70
 
 derectories      : 27
 
-avg_file_length  : 2449
+avg_file_length  : 2124
 
 ```
 
@@ -33,14 +33,25 @@ avg_file_length  : 2449
 ┃　　　╊━　[Docker](.//DevOps/Docker)</br>
 ┃　　　┃　　　┗━　[Docker.md](.//DevOps/Docker/Docker.md)</br>
 ┃　　　╊━　[Kubernetes](.//DevOps/Kubernetes)</br>
+┃　　　┃　　　╊━　[ABAC.md](.//DevOps/Kubernetes/ABAC.md)</br>
+┃　　　┃　　　╊━　[API　Server.md](.//DevOps/Kubernetes/API　Server.md)</br>
+┃　　　┃　　　╊━　[Control　Plane.md](.//DevOps/Kubernetes/Control　Plane.md)</br>
+┃　　　┃　　　╊━　[Controller　Manager.md](.//DevOps/Kubernetes/Controller　Manager.md)</br>
+┃　　　┃　　　╊━　[Helm.md](.//DevOps/Kubernetes/Helm.md)</br>
 ┃　　　┃　　　╊━　[Kubelet.md](.//DevOps/Kubernetes/Kubelet.md)</br>
 ┃　　　┃　　　╊━　[Kubernetes.md](.//DevOps/Kubernetes/Kubernetes.md)</br>
+┃　　　┃　　　╊━　[Master　Node.md](.//DevOps/Kubernetes/Master　Node.md)</br>
+┃　　　┃　　　╊━　[Node　Agent.md](.//DevOps/Kubernetes/Node　Agent.md)</br>
 ┃　　　┃　　　╊━　[Pod.md](.//DevOps/Kubernetes/Pod.md)</br>
-┃　　　┃　　　┗━　[Spring_Boot_App_배포하기.md](.//DevOps/Kubernetes/Spring_Boot_App_배포하기.md)</br>
+┃　　　┃　　　╊━　[RBAC.md](.//DevOps/Kubernetes/RBAC.md)</br>
+┃　　　┃　　　╊━　[Scheduler.md](.//DevOps/Kubernetes/Scheduler.md)</br>
+┃　　　┃　　　╊━　[Spring_Boot_App_배포하기.md](.//DevOps/Kubernetes/Spring_Boot_App_배포하기.md)</br>
+┃　　　┃　　　┗━　[etcd.md](.//DevOps/Kubernetes/etcd.md)</br>
 ┃　　　╊━　[Linux](.//DevOps/Linux)</br>
 ┃　　　┃　　　┗━　[FileSystem.md](.//DevOps/Linux/FileSystem.md)</br>
 ┃　　　╊━　[Terraform](.//DevOps/Terraform)</br>
-┃　　　┃　　　┗━　[입력　변수.md](.//DevOps/Terraform/입력　변수.md)</br>
+┃　　　┃　　　╊━　[local.md](.//DevOps/Terraform/local.md)</br>
+┃　　　┃　　　┗━　[variable.md](.//DevOps/Terraform/variable.md)</br>
 ┃　　　┗━　[CICD.md](.//DevOps/CICD.md)</br>
 ╊━　[Development━Knowledge](.//Development━Knowledge)</br>
 ┃　　　┗━　[OAuth.md](.//Development━Knowledge/OAuth.md)</br>
@@ -92,6 +103,8 @@ avg_file_length  : 2449
 ┃　　　╊━　[Filter.md](.//Spring/Filter.md)</br>
 ┃　　　┗━　[SpringBean.md](.//Spring/SpringBean.md)</br>
 ╊━　[image](.//image)</br>
+┃　　　╊━　[Pasted　image　20231029221641.png](.//image/Pasted　image　20231029221641.png)</br>
+┃　　　╊━　[Pasted　image　20231029223659.png](.//image/Pasted　image　20231029223659.png)</br>
 ┃　　　╊━　[Screenshot　2023━10━28　at　12.11.06　AM.png](.//image/Screenshot　2023━10━28　at　12.11.06　AM.png)</br>
 ┃　　　┗━　[Screenshot　2023━10━29　at　12.06.40　AM.png](.//image/Screenshot　2023━10━29　at　12.06.40　AM.png)</br>
 ┗━　[README.md](.//README.md)</br>
