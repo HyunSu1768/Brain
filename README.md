@@ -10,214 +10,214 @@ avg_file_length  : 163229
 ```
 
 ./TIL</br>
-┗━ [📁 Algorithm](./Algorithm)</br>
-┃   ┗━ [Cpp Vector 중복값 제거](./Algorithm/Cpp Vector 중복값 제거.md)</br>
-┃   ┗━ [이진 트리](./Algorithm/이진 트리.md)</br>
-┃   ┗━ [모듈러 연산](./Algorithm/모듈러 연산.md)</br>
-┗━ [📁 ComputerScience](./ComputerScience)</br>
-┃   ┗━ [CpuScheduling](./ComputerScience/CpuScheduling.md)</br>
-┃   ┗━ [ProcessAndThread](./ComputerScience/ProcessAndThread.md)</br>
-┃   ┗━ [SchedulingAlgorithm](./ComputerScience/SchedulingAlgorithm.md)</br>
-┗━ [📁 Database](./Database)</br>
-┃   ┗━ [📁 DB설계](./Database/DB설계)</br>
-┃   ┃   ┗━ [설계과정](./Database/DB설계/설계과정.md)</br>
-┃   ┗━ [ACID](./Database/ACID.md)</br>
-┃   ┗━ [DAO,DTO,VO](./Database/DAO,DTO,VO.md)</br>
-┃   ┗━ [Database](./Database/Database.md)</br>
-┃   ┗━ [FK,PK](./Database/FK,PK.md)</br>
-┗━ [📁 DevOps](./DevOps)</br>
-┃   ┗━ [📁 AWS](./DevOps/AWS)</br>
-┃   ┃   ┗━ [AWS BedRock](./DevOps/AWS/AWS BedRock.md)</br>
-┃   ┃   ┗━ [AWS CodeCommit](./DevOps/AWS/AWS CodeCommit.md)</br>
-┃   ┃   ┗━ [Application Composer](./DevOps/AWS/Application Composer.md)</br>
-┃   ┗━ [📁 Docker](./DevOps/Docker)</br>
-┃   ┃   ┗━ [Docker](./DevOps/Docker/Docker.md)</br>
-┃   ┗━ [📁 Kubernetes](./DevOps/Kubernetes)</br>
-┃   ┃   ┗━ [📁 exmaples](./DevOps/Kubernetes/exmaples)</br>
-┃   ┃   ┃   ┗━ [Spring_Boot_App_배포하기](./DevOps/Kubernetes/exmaples/Spring_Boot_App_배포하기.md)</br>
-┃   ┃   ┗━ [ABAC](./DevOps/Kubernetes/ABAC.md)</br>
-┃   ┃   ┗━ [API Server](./DevOps/Kubernetes/API Server.md)</br>
-┃   ┃   ┗━ [Control Plane](./DevOps/Kubernetes/Control Plane.md)</br>
-┃   ┃   ┗━ [Controller Manager](./DevOps/Kubernetes/Controller Manager.md)</br>
-┃   ┃   ┗━ [Deployment](./DevOps/Kubernetes/Deployment.md)</br>
-┃   ┃   ┗━ [Helm](./DevOps/Kubernetes/Helm.md)</br>
-┃   ┃   ┗━ [Kubelet](./DevOps/Kubernetes/Kubelet.md)</br>
-┃   ┃   ┗━ [Kubernetes](./DevOps/Kubernetes/Kubernetes.md)</br>
-┃   ┃   ┗━ [Master Node](./DevOps/Kubernetes/Master Node.md)</br>
-┃   ┃   ┗━ [Node Agent](./DevOps/Kubernetes/Node Agent.md)</br>
-┃   ┃   ┗━ [Pod](./DevOps/Kubernetes/Pod.md)</br>
-┃   ┃   ┗━ [RBAC](./DevOps/Kubernetes/RBAC.md)</br>
-┃   ┃   ┗━ [ReplicaSet](./DevOps/Kubernetes/ReplicaSet.md)</br>
-┃   ┃   ┗━ [Replication Controller](./DevOps/Kubernetes/Replication Controller.md)</br>
-┃   ┃   ┗━ [Scheduler](./DevOps/Kubernetes/Scheduler.md)</br>
-┃   ┃   ┗━ [StatefulSet](./DevOps/Kubernetes/StatefulSet.md)</br>
-┃   ┃   ┗━ [etcd](./DevOps/Kubernetes/etcd.md)</br>
-┃   ┗━ [📁 Linux](./DevOps/Linux)</br>
-┃   ┃   ┗━ [FileSystem](./DevOps/Linux/FileSystem.md)</br>
-┃   ┗━ [📁 Terraform](./DevOps/Terraform)</br>
-┃   ┃   ┗━ [local](./DevOps/Terraform/local.md)</br>
-┃   ┃   ┗━ [variable](./DevOps/Terraform/variable.md)</br>
-┃   ┗━ [CICD](./DevOps/CICD.md)</br>
-┗━ [📁 Development━Knowledge](./Development━Knowledge)</br>
-┃   ┗━ [OAuth](./Development━Knowledge/OAuth.md)</br>
-┗━ [📁 Git](./Git)</br>
-┃   ┗━ [\010개념](./Git/\010개념.md)</br>
-┗━ [📁 JPA](./JPA)</br>
-┃   ┗━ [Flush,Commit](./JPA/Flush,Commit.md)</br>
-┃   ┗━ [PersistenceContext](./JPA/PersistenceContext.md)</br>
-┃   ┗━ [RelationMapping](./JPA/RelationMapping.md)</br>
-┃   ┗━ [RelationalDatabase](./JPA/RelationalDatabase.md)</br>
-┃   ┗━ [SpringDataJPA](./JPA/SpringDataJPA.md)</br>
-┃   ┗━ [Transaction](./JPA/Transaction.md)</br>
-┃   ┗━ [jpa](./JPA/jpa.md)</br>
-┗━ [📁 MicroServiceArchitecture](./MicroServiceArchitecture)</br>
-┃   ┗━ [📁 Pattern](./MicroServiceArchitecture/Pattern)</br>
-┃       ┗━ [SagaPattern](./MicroServiceArchitecture/Pattern/SagaPattern.md)</br>
-┗━ [📁 Network](./Network)</br>
-┃   ┗━ [📁 HTTP](./Network/HTTP)</br>
-┃   ┃   ┗━ [HTTP━Status](./Network/HTTP/HTTP━Status.md)</br>
-┃   ┃   ┗━ [HTTPBasic](./Network/HTTP/HTTPBasic.md)</br>
-┃   ┃   ┗━ [HTTPHeader](./Network/HTTP/HTTPHeader.md)</br>
-┃   ┃   ┗━ [HTTPMethod(2)](./Network/HTTP/HTTPMethod(2).md)</br>
-┃   ┃   ┗━ [HTTPMethod](./Network/HTTP/HTTPMethod.md)</br>
-┃   ┃   ┗━ [InternetNetwork](./Network/HTTP/InternetNetwork.md)</br>
-┃   ┃   ┗━ [JWT](./Network/HTTP/JWT.md)</br>
-┃   ┃   ┗━ [URI━WebBrowser](./Network/HTTP/URI━WebBrowser.md)</br>
-┃   ┗━ [📁 OSI━7━Layer](./Network/OSI━7━Layer)</br>
-┃       ┗━ [📁 L1━Netowrk Access Layer](./Network/OSI━7━Layer/L1━Netowrk Access Layer)</br>
-┃       ┃   ┗━ [Network Access Layer(1)](./Network/OSI━7━Layer/L1━Netowrk Access Layer/Network Access Layer(1).md)</br>
-┃       ┃   ┗━ [허브](./Network/OSI━7━Layer/L1━Netowrk Access Layer/허브.md)</br>
-┃       ┗━ [📁 L2━Link Layer](./Network/OSI━7━Layer/L2━Link Layer)</br>
-┃       ┃   ┗━ [스위치](./Network/OSI━7━Layer/L2━Link Layer/스위치.md)</br>
-┃       ┗━ [📁 L3━Network Layer](./Network/OSI━7━Layer/L3━Network Layer)</br>
-┃           ┗━ [IP](./Network/OSI━7━Layer/L3━Network Layer/IP.md)</br>
-┃           ┗━ [NAT━PAT](./Network/OSI━7━Layer/L3━Network Layer/NAT━PAT.md)</br>
-┗━ [📁 School](./School)</br>
-┃   ┗━ [ComputerArchitecture](./School/ComputerArchitecture.md)</br>
-┗━ [📁 Spring](./Spring)</br>
-┃   ┗━ [📁 Security](./Spring/Security)</br>
-┃   ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
-┃   ┃   ┗━ [Filter](./Spring/Security/Filter.md)</br>
-┃   ┃   ┗━ [Security,JWT](./Spring/Security/Security,JWT.md)</br>
-┃   ┗━ [AutowiredFiledQualifierPrimary](./Spring/AutowiredFiledQualifierPrimary.md)</br>
-┃   ┗━ [BeanLifeCycle](./Spring/BeanLifeCycle.md)</br>
-┃   ┗━ [BeanScope](./Spring/BeanScope.md)</br>
-┃   ┗━ [BuilderPattern](./Spring/BuilderPattern.md)</br>
-┃   ┗━ [ComponentScan](./Spring/ComponentScan.md)</br>
-┃   ┗━ [DispatcherServlet](./Spring/DispatcherServlet.md)</br>
-┃   ┗━ [Filter](./Spring/Filter.md)</br>
-┃   ┗━ [SpringBean](./Spring/SpringBean.md)</br>
-┗━ [📁 image](./image)</br>
-┃   ┗━ [📁 Pasted image 20231029221641.png](./image/Pasted image 20231029221641.png)</br>
-┃   ┗━ [📁 Pasted image 20231029223659.png](./image/Pasted image 20231029223659.png)</br>
-┃   ┗━ [📁 Screenshot 2023━10━28 at 12.11.06 AM.png](./image/Screenshot 2023━10━28 at 12.11.06 AM.png)</br>
-┃   ┗━ [📁 Screenshot 2023━10━29 at 12.06.40 AM.png](./image/Screenshot 2023━10━29 at 12.06.40 AM.png)</br>
-┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
-┗━ [README](./README.md)</br>
+┗━%20[📁%20Algorithm](./Algorithm)</br>
+┃%20%20%20┗━%20[Cpp%20Vector%20중복값%20제거](./Algorithm/Cpp%20Vector%20중복값%20제거.md)</br>
+┃%20%20%20┗━%20[이진%20트리](./Algorithm/이진%20트리.md)</br>
+┃%20%20%20┗━%20[모듈러%20연산](./Algorithm/모듈러%20연산.md)</br>
+┗━%20[📁%20ComputerScience](./ComputerScience)</br>
+┃%20%20%20┗━%20[CpuScheduling](./ComputerScience/CpuScheduling.md)</br>
+┃%20%20%20┗━%20[ProcessAndThread](./ComputerScience/ProcessAndThread.md)</br>
+┃%20%20%20┗━%20[SchedulingAlgorithm](./ComputerScience/SchedulingAlgorithm.md)</br>
+┗━%20[📁%20Database](./Database)</br>
+┃%20%20%20┗━%20[📁%20DB설계](./Database/DB설계)</br>
+┃%20%20%20┃%20%20%20┗━%20[설계과정](./Database/DB설계/설계과정.md)</br>
+┃%20%20%20┗━%20[ACID](./Database/ACID.md)</br>
+┃%20%20%20┗━%20[DAO,DTO,VO](./Database/DAO,DTO,VO.md)</br>
+┃%20%20%20┗━%20[Database](./Database/Database.md)</br>
+┃%20%20%20┗━%20[FK,PK](./Database/FK,PK.md)</br>
+┗━%20[📁%20DevOps](./DevOps)</br>
+┃%20%20%20┗━%20[📁%20AWS](./DevOps/AWS)</br>
+┃%20%20%20┃%20%20%20┗━%20[AWS%20BedRock](./DevOps/AWS/AWS%20BedRock.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[AWS%20CodeCommit](./DevOps/AWS/AWS%20CodeCommit.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Application%20Composer](./DevOps/AWS/Application%20Composer.md)</br>
+┃%20%20%20┗━%20[📁%20Docker](./DevOps/Docker)</br>
+┃%20%20%20┃%20%20%20┗━%20[Docker](./DevOps/Docker/Docker.md)</br>
+┃%20%20%20┗━%20[📁%20Kubernetes](./DevOps/Kubernetes)</br>
+┃%20%20%20┃%20%20%20┗━%20[📁%20exmaples](./DevOps/Kubernetes/exmaples)</br>
+┃%20%20%20┃%20%20%20┃%20%20%20┗━%20[Spring_Boot_App_배포하기](./DevOps/Kubernetes/exmaples/Spring_Boot_App_배포하기.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[ABAC](./DevOps/Kubernetes/ABAC.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[API%20Server](./DevOps/Kubernetes/API%20Server.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Control%20Plane](./DevOps/Kubernetes/Control%20Plane.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Controller%20Manager](./DevOps/Kubernetes/Controller%20Manager.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Deployment](./DevOps/Kubernetes/Deployment.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Helm](./DevOps/Kubernetes/Helm.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Kubelet](./DevOps/Kubernetes/Kubelet.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Kubernetes](./DevOps/Kubernetes/Kubernetes.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Master%20Node](./DevOps/Kubernetes/Master%20Node.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Node%20Agent](./DevOps/Kubernetes/Node%20Agent.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Pod](./DevOps/Kubernetes/Pod.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[RBAC](./DevOps/Kubernetes/RBAC.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[ReplicaSet](./DevOps/Kubernetes/ReplicaSet.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Replication%20Controller](./DevOps/Kubernetes/Replication%20Controller.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Scheduler](./DevOps/Kubernetes/Scheduler.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[StatefulSet](./DevOps/Kubernetes/StatefulSet.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[etcd](./DevOps/Kubernetes/etcd.md)</br>
+┃%20%20%20┗━%20[📁%20Linux](./DevOps/Linux)</br>
+┃%20%20%20┃%20%20%20┗━%20[FileSystem](./DevOps/Linux/FileSystem.md)</br>
+┃%20%20%20┗━%20[📁%20Terraform](./DevOps/Terraform)</br>
+┃%20%20%20┃%20%20%20┗━%20[local](./DevOps/Terraform/local.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[variable](./DevOps/Terraform/variable.md)</br>
+┃%20%20%20┗━%20[CICD](./DevOps/CICD.md)</br>
+┗━%20[📁%20Development━Knowledge](./Development━Knowledge)</br>
+┃%20%20%20┗━%20[OAuth](./Development━Knowledge/OAuth.md)</br>
+┗━%20[📁%20Git](./Git)</br>
+┃%20%20%20┗━%20[\010개념](./Git/\010개념.md)</br>
+┗━%20[📁%20JPA](./JPA)</br>
+┃%20%20%20┗━%20[Flush,Commit](./JPA/Flush,Commit.md)</br>
+┃%20%20%20┗━%20[PersistenceContext](./JPA/PersistenceContext.md)</br>
+┃%20%20%20┗━%20[RelationMapping](./JPA/RelationMapping.md)</br>
+┃%20%20%20┗━%20[RelationalDatabase](./JPA/RelationalDatabase.md)</br>
+┃%20%20%20┗━%20[SpringDataJPA](./JPA/SpringDataJPA.md)</br>
+┃%20%20%20┗━%20[Transaction](./JPA/Transaction.md)</br>
+┃%20%20%20┗━%20[jpa](./JPA/jpa.md)</br>
+┗━%20[📁%20MicroServiceArchitecture](./MicroServiceArchitecture)</br>
+┃%20%20%20┗━%20[📁%20Pattern](./MicroServiceArchitecture/Pattern)</br>
+┃%20%20%20%20%20%20%20┗━%20[SagaPattern](./MicroServiceArchitecture/Pattern/SagaPattern.md)</br>
+┗━%20[📁%20Network](./Network)</br>
+┃%20%20%20┗━%20[📁%20HTTP](./Network/HTTP)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTP━Status](./Network/HTTP/HTTP━Status.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTPBasic](./Network/HTTP/HTTPBasic.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTPHeader](./Network/HTTP/HTTPHeader.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTPMethod(2)](./Network/HTTP/HTTPMethod(2).md)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTPMethod](./Network/HTTP/HTTPMethod.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[InternetNetwork](./Network/HTTP/InternetNetwork.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[JWT](./Network/HTTP/JWT.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[URI━WebBrowser](./Network/HTTP/URI━WebBrowser.md)</br>
+┃%20%20%20┗━%20[📁%20OSI━7━Layer](./Network/OSI━7━Layer)</br>
+┃%20%20%20%20%20%20%20┗━%20[📁%20L1━Netowrk%20Access%20Layer](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer)</br>
+┃%20%20%20%20%20%20%20┃%20%20%20┗━%20[Network%20Access%20Layer(1)](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer/Network%20Access%20Layer(1).md)</br>
+┃%20%20%20%20%20%20%20┃%20%20%20┗━%20[허브](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer/허브.md)</br>
+┃%20%20%20%20%20%20%20┗━%20[📁%20L2━Link%20Layer](./Network/OSI━7━Layer/L2━Link%20Layer)</br>
+┃%20%20%20%20%20%20%20┃%20%20%20┗━%20[스위치](./Network/OSI━7━Layer/L2━Link%20Layer/스위치.md)</br>
+┃%20%20%20%20%20%20%20┗━%20[📁%20L3━Network%20Layer](./Network/OSI━7━Layer/L3━Network%20Layer)</br>
+┃%20%20%20%20%20%20%20%20%20%20%20┗━%20[IP](./Network/OSI━7━Layer/L3━Network%20Layer/IP.md)</br>
+┃%20%20%20%20%20%20%20%20%20%20%20┗━%20[NAT━PAT](./Network/OSI━7━Layer/L3━Network%20Layer/NAT━PAT.md)</br>
+┗━%20[📁%20School](./School)</br>
+┃%20%20%20┗━%20[ComputerArchitecture](./School/ComputerArchitecture.md)</br>
+┗━%20[📁%20Spring](./Spring)</br>
+┃%20%20%20┗━%20[📁%20Security](./Spring/Security)</br>
+┃%20%20%20┃%20%20%20┗━%20[CustomUserDetails,CustomUserDetailService](./Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Filter](./Spring/Security/Filter.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Security,JWT](./Spring/Security/Security,JWT.md)</br>
+┃%20%20%20┗━%20[AutowiredFiledQualifierPrimary](./Spring/AutowiredFiledQualifierPrimary.md)</br>
+┃%20%20%20┗━%20[BeanLifeCycle](./Spring/BeanLifeCycle.md)</br>
+┃%20%20%20┗━%20[BeanScope](./Spring/BeanScope.md)</br>
+┃%20%20%20┗━%20[BuilderPattern](./Spring/BuilderPattern.md)</br>
+┃%20%20%20┗━%20[ComponentScan](./Spring/ComponentScan.md)</br>
+┃%20%20%20┗━%20[DispatcherServlet](./Spring/DispatcherServlet.md)</br>
+┃%20%20%20┗━%20[Filter](./Spring/Filter.md)</br>
+┃%20%20%20┗━%20[SpringBean](./Spring/SpringBean.md)</br>
+┗━%20[📁%20image](./image)</br>
+┃%20%20%20┗━%20[📁%20Pasted%20image%2020231029221641.png](./image/Pasted%20image%2020231029221641.png)</br>
+┃%20%20%20┗━%20[📁%20Pasted%20image%2020231029223659.png](./image/Pasted%20image%2020231029223659.png)</br>
+┃%20%20%20┗━%20[📁%20Screenshot%202023━10━28%20at%2012.11.06%20AM.png](./image/Screenshot%202023━10━28%20at%2012.11.06%20AM.png)</br>
+┃%20%20%20┗━%20[📁%20Screenshot%202023━10━29%20at%2012.06.40%20AM.png](./image/Screenshot%202023━10━29%20at%2012.06.40%20AM.png)</br>
+┗━%20[📁%20+autocommit.sh](./+autocommit.sh)</br>
+┗━%20[README](./README.md)</br>
 .
-┗━ [📁 Algorithm](./Algorithm)</br>
-┃   ┗━ [Cpp Vector 중복값 제거](./Algorithm/Cpp Vector 중복값 제거.md)</br>
-┃   ┗━ [이진 트리](./Algorithm/이진 트리.md)</br>
-┃   ┗━ [모듈러 연산](./Algorithm/모듈러 연산.md)</br>
-┗━ [📁 ComputerScience](./ComputerScience)</br>
-┃   ┗━ [CpuScheduling](./ComputerScience/CpuScheduling.md)</br>
-┃   ┗━ [ProcessAndThread](./ComputerScience/ProcessAndThread.md)</br>
-┃   ┗━ [SchedulingAlgorithm](./ComputerScience/SchedulingAlgorithm.md)</br>
-┗━ [📁 Database](./Database)</br>
-┃   ┗━ [📁 DB설계](./Database/DB설계)</br>
-┃   ┃   ┗━ [설계과정](./Database/DB설계/설계과정.md)</br>
-┃   ┗━ [ACID](./Database/ACID.md)</br>
-┃   ┗━ [DAO,DTO,VO](./Database/DAO,DTO,VO.md)</br>
-┃   ┗━ [Database](./Database/Database.md)</br>
-┃   ┗━ [FK,PK](./Database/FK,PK.md)</br>
-┗━ [📁 DevOps](./DevOps)</br>
-┃   ┗━ [📁 AWS](./DevOps/AWS)</br>
-┃   ┃   ┗━ [AWS BedRock](./DevOps/AWS/AWS BedRock.md)</br>
-┃   ┃   ┗━ [AWS CodeCommit](./DevOps/AWS/AWS CodeCommit.md)</br>
-┃   ┃   ┗━ [Application Composer](./DevOps/AWS/Application Composer.md)</br>
-┃   ┗━ [📁 Docker](./DevOps/Docker)</br>
-┃   ┃   ┗━ [Docker](./DevOps/Docker/Docker.md)</br>
-┃   ┗━ [📁 Kubernetes](./DevOps/Kubernetes)</br>
-┃   ┃   ┗━ [📁 exmaples](./DevOps/Kubernetes/exmaples)</br>
-┃   ┃   ┃   ┗━ [Spring_Boot_App_배포하기](./DevOps/Kubernetes/exmaples/Spring_Boot_App_배포하기.md)</br>
-┃   ┃   ┗━ [ABAC](./DevOps/Kubernetes/ABAC.md)</br>
-┃   ┃   ┗━ [API Server](./DevOps/Kubernetes/API Server.md)</br>
-┃   ┃   ┗━ [Control Plane](./DevOps/Kubernetes/Control Plane.md)</br>
-┃   ┃   ┗━ [Controller Manager](./DevOps/Kubernetes/Controller Manager.md)</br>
-┃   ┃   ┗━ [Deployment](./DevOps/Kubernetes/Deployment.md)</br>
-┃   ┃   ┗━ [Helm](./DevOps/Kubernetes/Helm.md)</br>
-┃   ┃   ┗━ [Kubelet](./DevOps/Kubernetes/Kubelet.md)</br>
-┃   ┃   ┗━ [Kubernetes](./DevOps/Kubernetes/Kubernetes.md)</br>
-┃   ┃   ┗━ [Master Node](./DevOps/Kubernetes/Master Node.md)</br>
-┃   ┃   ┗━ [Node Agent](./DevOps/Kubernetes/Node Agent.md)</br>
-┃   ┃   ┗━ [Pod](./DevOps/Kubernetes/Pod.md)</br>
-┃   ┃   ┗━ [RBAC](./DevOps/Kubernetes/RBAC.md)</br>
-┃   ┃   ┗━ [ReplicaSet](./DevOps/Kubernetes/ReplicaSet.md)</br>
-┃   ┃   ┗━ [Replication Controller](./DevOps/Kubernetes/Replication Controller.md)</br>
-┃   ┃   ┗━ [Scheduler](./DevOps/Kubernetes/Scheduler.md)</br>
-┃   ┃   ┗━ [StatefulSet](./DevOps/Kubernetes/StatefulSet.md)</br>
-┃   ┃   ┗━ [etcd](./DevOps/Kubernetes/etcd.md)</br>
-┃   ┗━ [📁 Linux](./DevOps/Linux)</br>
-┃   ┃   ┗━ [FileSystem](./DevOps/Linux/FileSystem.md)</br>
-┃   ┗━ [📁 Terraform](./DevOps/Terraform)</br>
-┃   ┃   ┗━ [local](./DevOps/Terraform/local.md)</br>
-┃   ┃   ┗━ [variable](./DevOps/Terraform/variable.md)</br>
-┃   ┗━ [CICD](./DevOps/CICD.md)</br>
-┗━ [📁 Development━Knowledge](./Development━Knowledge)</br>
-┃   ┗━ [OAuth](./Development━Knowledge/OAuth.md)</br>
-┗━ [📁 Git](./Git)</br>
-┃   ┗━ [\010개념](./Git/\010개념.md)</br>
-┗━ [📁 JPA](./JPA)</br>
-┃   ┗━ [Flush,Commit](./JPA/Flush,Commit.md)</br>
-┃   ┗━ [PersistenceContext](./JPA/PersistenceContext.md)</br>
-┃   ┗━ [RelationMapping](./JPA/RelationMapping.md)</br>
-┃   ┗━ [RelationalDatabase](./JPA/RelationalDatabase.md)</br>
-┃   ┗━ [SpringDataJPA](./JPA/SpringDataJPA.md)</br>
-┃   ┗━ [Transaction](./JPA/Transaction.md)</br>
-┃   ┗━ [jpa](./JPA/jpa.md)</br>
-┗━ [📁 MicroServiceArchitecture](./MicroServiceArchitecture)</br>
-┃   ┗━ [📁 Pattern](./MicroServiceArchitecture/Pattern)</br>
-┃       ┗━ [SagaPattern](./MicroServiceArchitecture/Pattern/SagaPattern.md)</br>
-┗━ [📁 Network](./Network)</br>
-┃   ┗━ [📁 HTTP](./Network/HTTP)</br>
-┃   ┃   ┗━ [HTTP━Status](./Network/HTTP/HTTP━Status.md)</br>
-┃   ┃   ┗━ [HTTPBasic](./Network/HTTP/HTTPBasic.md)</br>
-┃   ┃   ┗━ [HTTPHeader](./Network/HTTP/HTTPHeader.md)</br>
-┃   ┃   ┗━ [HTTPMethod(2)](./Network/HTTP/HTTPMethod(2).md)</br>
-┃   ┃   ┗━ [HTTPMethod](./Network/HTTP/HTTPMethod.md)</br>
-┃   ┃   ┗━ [InternetNetwork](./Network/HTTP/InternetNetwork.md)</br>
-┃   ┃   ┗━ [JWT](./Network/HTTP/JWT.md)</br>
-┃   ┃   ┗━ [URI━WebBrowser](./Network/HTTP/URI━WebBrowser.md)</br>
-┃   ┗━ [📁 OSI━7━Layer](./Network/OSI━7━Layer)</br>
-┃       ┗━ [📁 L1━Netowrk Access Layer](./Network/OSI━7━Layer/L1━Netowrk Access Layer)</br>
-┃       ┃   ┗━ [Network Access Layer(1)](./Network/OSI━7━Layer/L1━Netowrk Access Layer/Network Access Layer(1).md)</br>
-┃       ┃   ┗━ [허브](./Network/OSI━7━Layer/L1━Netowrk Access Layer/허브.md)</br>
-┃       ┗━ [📁 L2━Link Layer](./Network/OSI━7━Layer/L2━Link Layer)</br>
-┃       ┃   ┗━ [스위치](./Network/OSI━7━Layer/L2━Link Layer/스위치.md)</br>
-┃       ┗━ [📁 L3━Network Layer](./Network/OSI━7━Layer/L3━Network Layer)</br>
-┃           ┗━ [IP](./Network/OSI━7━Layer/L3━Network Layer/IP.md)</br>
-┃           ┗━ [NAT━PAT](./Network/OSI━7━Layer/L3━Network Layer/NAT━PAT.md)</br>
-┗━ [📁 School](./School)</br>
-┃   ┗━ [ComputerArchitecture](./School/ComputerArchitecture.md)</br>
-┗━ [📁 Spring](./Spring)</br>
-┃   ┗━ [📁 Security](./Spring/Security)</br>
-┃   ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
-┃   ┃   ┗━ [Filter](./Spring/Security/Filter.md)</br>
-┃   ┃   ┗━ [Security,JWT](./Spring/Security/Security,JWT.md)</br>
-┃   ┗━ [AutowiredFiledQualifierPrimary](./Spring/AutowiredFiledQualifierPrimary.md)</br>
-┃   ┗━ [BeanLifeCycle](./Spring/BeanLifeCycle.md)</br>
-┃   ┗━ [BeanScope](./Spring/BeanScope.md)</br>
-┃   ┗━ [BuilderPattern](./Spring/BuilderPattern.md)</br>
-┃   ┗━ [ComponentScan](./Spring/ComponentScan.md)</br>
-┃   ┗━ [DispatcherServlet](./Spring/DispatcherServlet.md)</br>
-┃   ┗━ [Filter](./Spring/Filter.md)</br>
-┃   ┗━ [SpringBean](./Spring/SpringBean.md)</br>
-┗━ [📁 image](./image)</br>
-┃   ┗━ [📁 Pasted image 20231029221641.png](./image/Pasted image 20231029221641.png)</br>
-┃   ┗━ [📁 Pasted image 20231029223659.png](./image/Pasted image 20231029223659.png)</br>
-┃   ┗━ [📁 Screenshot 2023━10━28 at 12.11.06 AM.png](./image/Screenshot 2023━10━28 at 12.11.06 AM.png)</br>
-┃   ┗━ [📁 Screenshot 2023━10━29 at 12.06.40 AM.png](./image/Screenshot 2023━10━29 at 12.06.40 AM.png)</br>
-┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
-┗━ [README](./README.md)</br>
+┗━%20[📁%20Algorithm](./Algorithm)</br>
+┃%20%20%20┗━%20[Cpp%20Vector%20중복값%20제거](./Algorithm/Cpp%20Vector%20중복값%20제거.md)</br>
+┃%20%20%20┗━%20[이진%20트리](./Algorithm/이진%20트리.md)</br>
+┃%20%20%20┗━%20[모듈러%20연산](./Algorithm/모듈러%20연산.md)</br>
+┗━%20[📁%20ComputerScience](./ComputerScience)</br>
+┃%20%20%20┗━%20[CpuScheduling](./ComputerScience/CpuScheduling.md)</br>
+┃%20%20%20┗━%20[ProcessAndThread](./ComputerScience/ProcessAndThread.md)</br>
+┃%20%20%20┗━%20[SchedulingAlgorithm](./ComputerScience/SchedulingAlgorithm.md)</br>
+┗━%20[📁%20Database](./Database)</br>
+┃%20%20%20┗━%20[📁%20DB설계](./Database/DB설계)</br>
+┃%20%20%20┃%20%20%20┗━%20[설계과정](./Database/DB설계/설계과정.md)</br>
+┃%20%20%20┗━%20[ACID](./Database/ACID.md)</br>
+┃%20%20%20┗━%20[DAO,DTO,VO](./Database/DAO,DTO,VO.md)</br>
+┃%20%20%20┗━%20[Database](./Database/Database.md)</br>
+┃%20%20%20┗━%20[FK,PK](./Database/FK,PK.md)</br>
+┗━%20[📁%20DevOps](./DevOps)</br>
+┃%20%20%20┗━%20[📁%20AWS](./DevOps/AWS)</br>
+┃%20%20%20┃%20%20%20┗━%20[AWS%20BedRock](./DevOps/AWS/AWS%20BedRock.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[AWS%20CodeCommit](./DevOps/AWS/AWS%20CodeCommit.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Application%20Composer](./DevOps/AWS/Application%20Composer.md)</br>
+┃%20%20%20┗━%20[📁%20Docker](./DevOps/Docker)</br>
+┃%20%20%20┃%20%20%20┗━%20[Docker](./DevOps/Docker/Docker.md)</br>
+┃%20%20%20┗━%20[📁%20Kubernetes](./DevOps/Kubernetes)</br>
+┃%20%20%20┃%20%20%20┗━%20[📁%20exmaples](./DevOps/Kubernetes/exmaples)</br>
+┃%20%20%20┃%20%20%20┃%20%20%20┗━%20[Spring_Boot_App_배포하기](./DevOps/Kubernetes/exmaples/Spring_Boot_App_배포하기.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[ABAC](./DevOps/Kubernetes/ABAC.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[API%20Server](./DevOps/Kubernetes/API%20Server.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Control%20Plane](./DevOps/Kubernetes/Control%20Plane.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Controller%20Manager](./DevOps/Kubernetes/Controller%20Manager.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Deployment](./DevOps/Kubernetes/Deployment.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Helm](./DevOps/Kubernetes/Helm.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Kubelet](./DevOps/Kubernetes/Kubelet.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Kubernetes](./DevOps/Kubernetes/Kubernetes.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Master%20Node](./DevOps/Kubernetes/Master%20Node.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Node%20Agent](./DevOps/Kubernetes/Node%20Agent.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Pod](./DevOps/Kubernetes/Pod.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[RBAC](./DevOps/Kubernetes/RBAC.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[ReplicaSet](./DevOps/Kubernetes/ReplicaSet.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Replication%20Controller](./DevOps/Kubernetes/Replication%20Controller.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Scheduler](./DevOps/Kubernetes/Scheduler.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[StatefulSet](./DevOps/Kubernetes/StatefulSet.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[etcd](./DevOps/Kubernetes/etcd.md)</br>
+┃%20%20%20┗━%20[📁%20Linux](./DevOps/Linux)</br>
+┃%20%20%20┃%20%20%20┗━%20[FileSystem](./DevOps/Linux/FileSystem.md)</br>
+┃%20%20%20┗━%20[📁%20Terraform](./DevOps/Terraform)</br>
+┃%20%20%20┃%20%20%20┗━%20[local](./DevOps/Terraform/local.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[variable](./DevOps/Terraform/variable.md)</br>
+┃%20%20%20┗━%20[CICD](./DevOps/CICD.md)</br>
+┗━%20[📁%20Development━Knowledge](./Development━Knowledge)</br>
+┃%20%20%20┗━%20[OAuth](./Development━Knowledge/OAuth.md)</br>
+┗━%20[📁%20Git](./Git)</br>
+┃%20%20%20┗━%20[\010개념](./Git/\010개념.md)</br>
+┗━%20[📁%20JPA](./JPA)</br>
+┃%20%20%20┗━%20[Flush,Commit](./JPA/Flush,Commit.md)</br>
+┃%20%20%20┗━%20[PersistenceContext](./JPA/PersistenceContext.md)</br>
+┃%20%20%20┗━%20[RelationMapping](./JPA/RelationMapping.md)</br>
+┃%20%20%20┗━%20[RelationalDatabase](./JPA/RelationalDatabase.md)</br>
+┃%20%20%20┗━%20[SpringDataJPA](./JPA/SpringDataJPA.md)</br>
+┃%20%20%20┗━%20[Transaction](./JPA/Transaction.md)</br>
+┃%20%20%20┗━%20[jpa](./JPA/jpa.md)</br>
+┗━%20[📁%20MicroServiceArchitecture](./MicroServiceArchitecture)</br>
+┃%20%20%20┗━%20[📁%20Pattern](./MicroServiceArchitecture/Pattern)</br>
+┃%20%20%20%20%20%20%20┗━%20[SagaPattern](./MicroServiceArchitecture/Pattern/SagaPattern.md)</br>
+┗━%20[📁%20Network](./Network)</br>
+┃%20%20%20┗━%20[📁%20HTTP](./Network/HTTP)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTP━Status](./Network/HTTP/HTTP━Status.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTPBasic](./Network/HTTP/HTTPBasic.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTPHeader](./Network/HTTP/HTTPHeader.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTPMethod(2)](./Network/HTTP/HTTPMethod(2).md)</br>
+┃%20%20%20┃%20%20%20┗━%20[HTTPMethod](./Network/HTTP/HTTPMethod.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[InternetNetwork](./Network/HTTP/InternetNetwork.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[JWT](./Network/HTTP/JWT.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[URI━WebBrowser](./Network/HTTP/URI━WebBrowser.md)</br>
+┃%20%20%20┗━%20[📁%20OSI━7━Layer](./Network/OSI━7━Layer)</br>
+┃%20%20%20%20%20%20%20┗━%20[📁%20L1━Netowrk%20Access%20Layer](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer)</br>
+┃%20%20%20%20%20%20%20┃%20%20%20┗━%20[Network%20Access%20Layer(1)](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer/Network%20Access%20Layer(1).md)</br>
+┃%20%20%20%20%20%20%20┃%20%20%20┗━%20[허브](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer/허브.md)</br>
+┃%20%20%20%20%20%20%20┗━%20[📁%20L2━Link%20Layer](./Network/OSI━7━Layer/L2━Link%20Layer)</br>
+┃%20%20%20%20%20%20%20┃%20%20%20┗━%20[스위치](./Network/OSI━7━Layer/L2━Link%20Layer/스위치.md)</br>
+┃%20%20%20%20%20%20%20┗━%20[📁%20L3━Network%20Layer](./Network/OSI━7━Layer/L3━Network%20Layer)</br>
+┃%20%20%20%20%20%20%20%20%20%20%20┗━%20[IP](./Network/OSI━7━Layer/L3━Network%20Layer/IP.md)</br>
+┃%20%20%20%20%20%20%20%20%20%20%20┗━%20[NAT━PAT](./Network/OSI━7━Layer/L3━Network%20Layer/NAT━PAT.md)</br>
+┗━%20[📁%20School](./School)</br>
+┃%20%20%20┗━%20[ComputerArchitecture](./School/ComputerArchitecture.md)</br>
+┗━%20[📁%20Spring](./Spring)</br>
+┃%20%20%20┗━%20[📁%20Security](./Spring/Security)</br>
+┃%20%20%20┃%20%20%20┗━%20[CustomUserDetails,CustomUserDetailService](./Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Filter](./Spring/Security/Filter.md)</br>
+┃%20%20%20┃%20%20%20┗━%20[Security,JWT](./Spring/Security/Security,JWT.md)</br>
+┃%20%20%20┗━%20[AutowiredFiledQualifierPrimary](./Spring/AutowiredFiledQualifierPrimary.md)</br>
+┃%20%20%20┗━%20[BeanLifeCycle](./Spring/BeanLifeCycle.md)</br>
+┃%20%20%20┗━%20[BeanScope](./Spring/BeanScope.md)</br>
+┃%20%20%20┗━%20[BuilderPattern](./Spring/BuilderPattern.md)</br>
+┃%20%20%20┗━%20[ComponentScan](./Spring/ComponentScan.md)</br>
+┃%20%20%20┗━%20[DispatcherServlet](./Spring/DispatcherServlet.md)</br>
+┃%20%20%20┗━%20[Filter](./Spring/Filter.md)</br>
+┃%20%20%20┗━%20[SpringBean](./Spring/SpringBean.md)</br>
+┗━%20[📁%20image](./image)</br>
+┃%20%20%20┗━%20[📁%20Pasted%20image%2020231029221641.png](./image/Pasted%20image%2020231029221641.png)</br>
+┃%20%20%20┗━%20[📁%20Pasted%20image%2020231029223659.png](./image/Pasted%20image%2020231029223659.png)</br>
+┃%20%20%20┗━%20[📁%20Screenshot%202023━10━28%20at%2012.11.06%20AM.png](./image/Screenshot%202023━10━28%20at%2012.11.06%20AM.png)</br>
+┃%20%20%20┗━%20[📁%20Screenshot%202023━10━29%20at%2012.06.40%20AM.png](./image/Screenshot%202023━10━29%20at%2012.06.40%20AM.png)</br>
+┗━%20[📁%20+autocommit.sh](./+autocommit.sh)</br>
+┗━%20[README](./README.md)</br>
 
 
