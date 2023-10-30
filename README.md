@@ -5,13 +5,14 @@ files            : 74
 
 derectories      : 
 avg_file_length  : 
+
 ```
 
 ./TIL</br>
 ┗━　[📁　Algorithm](./Algorithm)</br>
 ┃　　　┗━　[Cpp　Vector　중복값　제거](./Algorithm/Cpp　Vector　중복값　제거.md)</br>
-┃　　　┗━　[모듈러　연산](./Algorithm/모듈러　연산.md)</br>
 ┃　　　┗━　[이진　트리](./Algorithm/이진　트리.md)</br>
+┃　　　┗━　[모듈러　연산](./Algorithm/모듈러　연산.md)</br>
 ┗━　[📁　ComputerScience](./ComputerScience)</br>
 ┃　　　┗━　[CpuScheduling](./ComputerScience/CpuScheduling.md)</br>
 ┃　　　┗━　[ProcessAndThread](./ComputerScience/ProcessAndThread.md)</br>
@@ -115,8 +116,8 @@ avg_file_length  :
 .
 ┗━　[📁　Algorithm](./Algorithm)</br>
 ┃　　　┗━　[Cpp　Vector　중복값　제거](./Algorithm/Cpp　Vector　중복값　제거.md)</br>
-┃　　　┗━　[모듈러　연산](./Algorithm/모듈러　연산.md)</br>
 ┃　　　┗━　[이진　트리](./Algorithm/이진　트리.md)</br>
+┃　　　┗━　[모듈러　연산](./Algorithm/모듈러　연산.md)</br>
 ┗━　[📁　ComputerScience](./ComputerScience)</br>
 ┃　　　┗━　[CpuScheduling](./ComputerScience/CpuScheduling.md)</br>
 ┃　　　┗━　[ProcessAndThread](./ComputerScience/ProcessAndThread.md)</br>
