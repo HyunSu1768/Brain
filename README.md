@@ -1,11 +1,11 @@
 # TIL
 
 ```
-files            : 70
+files            : 74
 
-derectories      : 39
+derectories      : 40
 
-avg_file_length  : 171742
+avg_file_length  : 162867
 
 ```
 
@@ -33,10 +33,13 @@ avg_file_length  : 171742
 ┃　　　╊━　[Docker](.//DevOps/Docker)</br>
 ┃　　　┃　　　┗━　[Docker.md](.//DevOps/Docker/Docker.md)</br>
 ┃　　　╊━　[Kubernetes](.//DevOps/Kubernetes)</br>
+┃　　　┃　　　╊━　[exmaples](.//DevOps/Kubernetes/exmaples)</br>
+┃　　　┃　　　┃　　　┗━　[Spring_Boot_App_배포하기.md](.//DevOps/Kubernetes/exmaples/Spring_Boot_App_배포하기.md)</br>
 ┃　　　┃　　　╊━　[ABAC.md](.//DevOps/Kubernetes/ABAC.md)</br>
 ┃　　　┃　　　╊━　[API　Server.md](.//DevOps/Kubernetes/API　Server.md)</br>
 ┃　　　┃　　　╊━　[Control　Plane.md](.//DevOps/Kubernetes/Control　Plane.md)</br>
 ┃　　　┃　　　╊━　[Controller　Manager.md](.//DevOps/Kubernetes/Controller　Manager.md)</br>
+┃　　　┃　　　╊━　[Deployment.md](.//DevOps/Kubernetes/Deployment.md)</br>
 ┃　　　┃　　　╊━　[Helm.md](.//DevOps/Kubernetes/Helm.md)</br>
 ┃　　　┃　　　╊━　[Kubelet.md](.//DevOps/Kubernetes/Kubelet.md)</br>
 ┃　　　┃　　　╊━　[Kubernetes.md](.//DevOps/Kubernetes/Kubernetes.md)</br>
@@ -44,8 +47,10 @@ avg_file_length  : 171742
 ┃　　　┃　　　╊━　[Node　Agent.md](.//DevOps/Kubernetes/Node　Agent.md)</br>
 ┃　　　┃　　　╊━　[Pod.md](.//DevOps/Kubernetes/Pod.md)</br>
 ┃　　　┃　　　╊━　[RBAC.md](.//DevOps/Kubernetes/RBAC.md)</br>
+┃　　　┃　　　╊━　[ReplicaSet.md](.//DevOps/Kubernetes/ReplicaSet.md)</br>
+┃　　　┃　　　╊━　[Replication　Controller.md](.//DevOps/Kubernetes/Replication　Controller.md)</br>
 ┃　　　┃　　　╊━　[Scheduler.md](.//DevOps/Kubernetes/Scheduler.md)</br>
-┃　　　┃　　　╊━　[Spring_Boot_App_배포하기.md](.//DevOps/Kubernetes/Spring_Boot_App_배포하기.md)</br>
+┃　　　┃　　　╊━　[StatefulSet.md](.//DevOps/Kubernetes/StatefulSet.md)</br>
 ┃　　　┃　　　┗━　[etcd.md](.//DevOps/Kubernetes/etcd.md)</br>
 ┃　　　╊━　[Linux](.//DevOps/Linux)</br>
 ┃　　　┃　　　┗━　[FileSystem.md](.//DevOps/Linux/FileSystem.md)</br>
@@ -107,6 +112,7 @@ avg_file_length  : 171742
 ┃　　　╊━　[Pasted　image　20231029223659.png](.//image/Pasted　image　20231029223659.png)</br>
 ┃　　　╊━　[Screenshot　2023━10━28　at　12.11.06　AM.png](.//image/Screenshot　2023━10━28　at　12.11.06　AM.png)</br>
 ┃　　　┗━　[Screenshot　2023━10━29　at　12.06.40　AM.png](.//image/Screenshot　2023━10━29　at　12.06.40　AM.png)</br>
+╊━　[+autocommit.sh](.//+autocommit.sh)</br>
 ┗━　[README.md](.//README.md)</br>
 .
 ╊━　[applypatch━msg.sample](./applypatch━msg.sample)</br>
