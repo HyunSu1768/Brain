@@ -3,7 +3,8 @@
 ```
 files            : 74
 
-derectories      : 
+derectories      : 40
+
 avg_file_length  : 
 
 ```
