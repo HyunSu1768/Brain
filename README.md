@@ -113,7 +113,8 @@ avg_file_length  : 162866
 ┃　　　╊━　[Screenshot　2023━10━28　at　12.11.06　AM.png](.//image/Screenshot　2023━10━28　at　12.11.06　AM.png)</br>
 ┃　　　┗━　[Screenshot　2023━10━29　at　12.06.40　AM.png](.//image/Screenshot　2023━10━29　at　12.06.40　AM.png)</br>
 ╊━　[+autocommit.sh](.//+autocommit.sh)</br>
-┗━　[README.md](.//README.md)</br>
+╊━　[README.md](.//README.md)</br>
+┗━　[autocommit.sh](.//autocommit.sh)</br>
 .
 ╊━　[applypatch━msg.sample](./applypatch━msg.sample)</br>
 ╊━　[commit━msg.sample](./commit━msg.sample)</br>
