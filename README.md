@@ -5,7 +5,7 @@ files            : 74
 
 derectories      : 40
 
-avg_file_length  : 163061
+avg_file_length  : 163227
 
 ```
 
@@ -113,8 +113,7 @@ avg_file_length  : 163061
 ┃　　　╊━　[Screenshot　2023━10━28　at　12.11.06　AM.png](.//image/Screenshot　2023━10━28　at　12.11.06　AM.png)</br>
 ┃　　　┗━　[Screenshot　2023━10━29　at　12.06.40　AM.png](.//image/Screenshot　2023━10━29　at　12.06.40　AM.png)</br>
 ╊━　[+autocommit.sh](.//+autocommit.sh)</br>
-╊━　[README.md](.//README.md)</br>
-┗━　[autocommit.sh](.//autocommit.sh)</br>
+┗━　[README.md](.//README.md)</br>
 .
 ╊━　[applypatch━msg.sample](./applypatch━msg.sample)</br>
 ╊━　[commit━msg.sample](./commit━msg.sample)</br>
