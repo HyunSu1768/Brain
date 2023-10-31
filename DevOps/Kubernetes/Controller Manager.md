@@ -4,10 +4,10 @@
 - 사용자가 정의한 상태를 유지하기 위해 조치를 취한다.
 
 # 주요 컨트롤러
-- [[Replication Controller]]
-- [[ReplicaSet]]
-- [[Deployment]]
-- [[StatefulSet]]
+- [Replication Controller](./Replication%20Controller.md)
+- [ReplicaSet](./ReplicaSet.md)
+- [Deployment](./Deployment.md)
+- [StatefulSet](./StatefulSet.md)
 
 ## Kube Controller Manager 의 구성
 - 마스터 노드의 일부로 동작한다.
