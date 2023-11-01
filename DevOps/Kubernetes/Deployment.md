@@ -4,3 +4,4 @@
 - [Pod](./Pod.md)에 대한 기준 Spec을 정의한다.
 - Deployment를 통해서 생성하는 것을 권장하고 있으며, Pod와 ReplicaSet의 기준 정보를 지정할 수 있다.
 - Pod가 Scale in,out 되는 기준을 정의한다.
+- [ReplicaSet](./ReplicaSet)의 기능에서 버전관리 즉 배포전략을 설정할 수 있는 

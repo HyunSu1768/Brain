@@ -1,11 +1,11 @@
 # TIL
 
 ```
-files            : 74
+files            : 76
 
 derectories      : 40
 
-avg_file_length  : 163230
+avg_file_length  : 158885
 
 ```
 
@@ -34,7 +34,8 @@ avg_file_length  : 163230
 ┃   ┃   ┗━━━ [Docker](./DevOps/Docker/Docker.md)</br>
 ┃   ┗━ [📁 Kubernetes](./DevOps/Kubernetes)</br>
 ┃   ┃   ┗━ [📁 exmaples](./DevOps/Kubernetes/exmaples)</br>
-┃   ┃   ┃   ┗━━━ [Spring_Boot_App_배포하기](./DevOps/Kubernetes/exmaples/Spring_Boot_App_배포하기.md)</br>
+┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./DevOps/Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
+┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./DevOps/Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
 ┃   ┃   ┗━ [ABAC](./DevOps/Kubernetes/ABAC.md)</br>
 ┃   ┃   ┗━ [API Server](./DevOps/Kubernetes/API%20Server.md)</br>
 ┃   ┃   ┗━ [Control Plane](./DevOps/Kubernetes/Control%20Plane.md)</br>
@@ -51,7 +52,8 @@ avg_file_length  : 163230
 ┃   ┃   ┗━ [Replication Controller](./DevOps/Kubernetes/Replication%20Controller.md)</br>
 ┃   ┃   ┗━ [Scheduler](./DevOps/Kubernetes/Scheduler.md)</br>
 ┃   ┃   ┗━ [StatefulSet](./DevOps/Kubernetes/StatefulSet.md)</br>
-┃   ┃   ┗━━━ [etcd](./DevOps/Kubernetes/etcd.md)</br>
+┃   ┃   ┗━ [etcd](./DevOps/Kubernetes/etcd.md)</br>
+┃   ┃   ┗━━━ [kubeadm](./DevOps/Kubernetes/kubeadm.md)</br>
 ┃   ┗━ [📁 Linux](./DevOps/Linux)</br>
 ┃   ┃   ┗━━━ [FileSystem](./DevOps/Linux/FileSystem.md)</br>
 ┃   ┗━ [📁 Terraform](./DevOps/Terraform)</br>
@@ -139,7 +141,8 @@ avg_file_length  : 163230
 ┃   ┃   ┗━━━ [Docker](./DevOps/Docker/Docker.md)</br>
 ┃   ┗━ [📁 Kubernetes](./DevOps/Kubernetes)</br>
 ┃   ┃   ┗━ [📁 exmaples](./DevOps/Kubernetes/exmaples)</br>
-┃   ┃   ┃   ┗━━━ [Spring_Boot_App_배포하기](./DevOps/Kubernetes/exmaples/Spring_Boot_App_배포하기.md)</br>
+┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./DevOps/Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
+┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./DevOps/Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
 ┃   ┃   ┗━ [ABAC](./DevOps/Kubernetes/ABAC.md)</br>
 ┃   ┃   ┗━ [API Server](./DevOps/Kubernetes/API%20Server.md)</br>
 ┃   ┃   ┗━ [Control Plane](./DevOps/Kubernetes/Control%20Plane.md)</br>
@@ -156,7 +159,8 @@ avg_file_length  : 163230
 ┃   ┃   ┗━ [Replication Controller](./DevOps/Kubernetes/Replication%20Controller.md)</br>
 ┃   ┃   ┗━ [Scheduler](./DevOps/Kubernetes/Scheduler.md)</br>
 ┃   ┃   ┗━ [StatefulSet](./DevOps/Kubernetes/StatefulSet.md)</br>
-┃   ┃   ┗━━━ [etcd](./DevOps/Kubernetes/etcd.md)</br>
+┃   ┃   ┗━ [etcd](./DevOps/Kubernetes/etcd.md)</br>
+┃   ┃   ┗━━━ [kubeadm](./DevOps/Kubernetes/kubeadm.md)</br>
 ┃   ┗━ [📁 Linux](./DevOps/Linux)</br>
 ┃   ┃   ┗━━━ [FileSystem](./DevOps/Linux/FileSystem.md)</br>
 ┃   ┗━ [📁 Terraform](./DevOps/Terraform)</br>
