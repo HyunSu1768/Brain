@@ -1,11 +1,11 @@
 # TIL
 
 ```
-files            : 76
+files            : 77
 
 derectories      : 40
 
-avg_file_length  : 158885
+avg_file_length  : 156823
 
 ```
 
@@ -43,6 +43,7 @@ avg_file_length  : 158885
 ┃   ┃   ┗━ [Deployment](./DevOps/Kubernetes/Deployment.md)</br>
 ┃   ┃   ┗━ [Helm](./DevOps/Kubernetes/Helm.md)</br>
 ┃   ┃   ┗━ [Kubelet](./DevOps/Kubernetes/Kubelet.md)</br>
+┃   ┃   ┗━ [Kubernetes Pattern](./DevOps/Kubernetes/Kubernetes%20Pattern.md)</br>
 ┃   ┃   ┗━ [Kubernetes](./DevOps/Kubernetes/Kubernetes.md)</br>
 ┃   ┃   ┗━ [Master Node](./DevOps/Kubernetes/Master%20Node.md)</br>
 ┃   ┃   ┗━ [Node Agent](./DevOps/Kubernetes/Node%20Agent.md)</br>
@@ -150,6 +151,7 @@ avg_file_length  : 158885
 ┃   ┃   ┗━ [Deployment](./DevOps/Kubernetes/Deployment.md)</br>
 ┃   ┃   ┗━ [Helm](./DevOps/Kubernetes/Helm.md)</br>
 ┃   ┃   ┗━ [Kubelet](./DevOps/Kubernetes/Kubelet.md)</br>
+┃   ┃   ┗━ [Kubernetes Pattern](./DevOps/Kubernetes/Kubernetes%20Pattern.md)</br>
 ┃   ┃   ┗━ [Kubernetes](./DevOps/Kubernetes/Kubernetes.md)</br>
 ┃   ┃   ┗━ [Master Node](./DevOps/Kubernetes/Master%20Node.md)</br>
 ┃   ┃   ┗━ [Node Agent](./DevOps/Kubernetes/Node%20Agent.md)</br>
