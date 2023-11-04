@@ -1,5 +1,5 @@
 # Brain
-![Second Brain Diagram](/Users/buhyeonsu/Desktop/Brain/0. Knowledge Warehouse/010.etc/011. image/diagram.jpg)
+![Second Brain Diagram](./0. Knowledge Warehouse/010.etc/011. image/diagram.jpg)
 ```
 files            : 84
 
