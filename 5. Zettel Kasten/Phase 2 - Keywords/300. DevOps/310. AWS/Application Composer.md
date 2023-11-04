@@ -35,7 +35,7 @@ tags:
 - ###
 # Application Composer
 - 리소스 연결 및 구성을 통해 애플리케이션 아키텍처 구축
--  AWS Application Composer는 서버리스 애플리케이션의 아키텍처링, 구성, 구축을 간소화하고 빠르게 진행하도록 도와줍니다.
+	-  AWS Application Composer는 서버리스 애플리케이션의 아키텍처링, 구성, 구축을 간소화하고 빠르게 진행하도록 도와줍니다.ㅌ
  ![[Screenshot 2023-10-29 at 12.06.40 AM.png]]
 
 
