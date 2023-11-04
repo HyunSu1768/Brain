@@ -1,4 +1,4 @@
-# TIL
+# Brain
 
 ```
 files            : 77
@@ -111,8 +111,8 @@ avg_file_length  : 156823
 ┃   ┗━ [Filter](./Spring/Filter.md)</br>
 ┃   ┗━━━ [SpringBean](./Spring/SpringBean.md)</br>
 ┗━ [📁 image](./image)</br>
-┃   ┗━ [📁 Pasted image 20231029221641.png](./image/Pasted%20image%2020231029221641.png)</br>
-┃   ┗━ [📁 Pasted image 20231029223659.png](./image/Pasted%20image%2020231029223659.png)</br>
+┃   ┗━ [📁 Pasted image 20231029221641.png](Pasted%20image%2020231029221641.png)</br>
+┃   ┗━ [📁 Pasted image 20231029223659.png](Pasted%20image%2020231029223659.png)</br>
 ┃   ┗━ [📁 Screenshot 2023━10━28 at 12.11.06 AM.png](./image/Screenshot%202023━10━28%20at%2012.11.06%20AM.png)</br>
 ┃   ┗━━━ [📁 Screenshot 2023━10━29 at 12.06.40 AM.png](./image/Screenshot%202023━10━29%20at%2012.06.40%20AM.png)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
@@ -219,8 +219,8 @@ avg_file_length  : 156823
 ┃   ┗━ [Filter](./Spring/Filter.md)</br>
 ┃   ┗━━━ [SpringBean](./Spring/SpringBean.md)</br>
 ┗━ [📁 image](./image)</br>
-┃   ┗━ [📁 Pasted image 20231029221641.png](./image/Pasted%20image%2020231029221641.png)</br>
-┃   ┗━ [📁 Pasted image 20231029223659.png](./image/Pasted%20image%2020231029223659.png)</br>
+┃   ┗━ [📁 Pasted image 20231029221641.png](Pasted%20image%2020231029221641.png)</br>
+┃   ┗━ [📁 Pasted image 20231029223659.png](Pasted%20image%2020231029223659.png)</br>
 ┃   ┗━ [📁 Screenshot 2023━10━28 at 12.11.06 AM.png](./image/Screenshot%202023━10━28%20at%2012.11.06%20AM.png)</br>
 ┃   ┗━━━ [📁 Screenshot 2023━10━29 at 12.06.40 AM.png](./image/Screenshot%202023━10━29%20at%2012.06.40%20AM.png)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
