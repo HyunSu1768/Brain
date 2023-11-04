@@ -1,11 +1,11 @@
 # Brain
-![Second Brain Diagram](/Users/buhyeonsu/Desktop/Brain/0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
+![Second Brain Diagram](/Users/buhyeonsu/Desktop/Brain/0. Knowledge Warehouse/010.etc/011. image/diagram.jpg)
 ```
 files            : 84
 
 derectories      : 55
 
-avg_file_length  : 143466
+avg_file_length  : 143465
 
 ```
 ./Brain</br>
