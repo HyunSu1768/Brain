@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 84
+files            : 82
 
-derectories      : 55
+derectories      : 50
 
-avg_file_length  : 143465
+avg_file_length  : 148791
 
 ```
 ./Brain</br>
@@ -33,111 +33,103 @@ avg_file_length  : 143465
 ┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
 ┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
+┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/100.%20Algorithm)</br>
+┃   ┃   ┃   ┗━ [101. 중복값 제거](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/100.%20Algorithm/101.%20중복값%20제거.md)</br>
+┃   ┃   ┃   ┗━ [102. 모듈러 연산](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/100.%20Algorithm/102.%20모듈러%20연산.md)</br>
+┃   ┃   ┃   ┗━━━ [103. 이진 트리](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/100.%20Algorithm/103.%20이진%20트리.md)</br>
+┃   ┃   ┗━ [📁 200. Database](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database)</br>
+┃   ┃   ┃   ┗━ [📁 DB설계](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/DB설계)</br>
+┃   ┃   ┃   ┃   ┗━━━ [설계과정](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/DB설계/설계과정.md)</br>
+┃   ┃   ┃   ┗━ [ACID](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/ACID.md)</br>
+┃   ┃   ┃   ┗━ [DAO](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/DAO.md)</br>
+┃   ┃   ┃   ┗━ [DTO](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/DTO.md)</br>
+┃   ┃   ┃   ┗━ [Database](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/Database.md)</br>
+┃   ┃   ┃   ┗━ [FK,PK](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/FK,PK.md)</br>
+┃   ┃   ┃   ┗━━━ [VO](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/VO.md)</br>
+┃   ┃   ┗━ [📁 300. DevOps](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps)</br>
+┃   ┃   ┃   ┗━ [📁 310. AWS](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/310.%20AWS)</br>
+┃   ┃   ┃   ┃   ┗━ [AWS BedRock](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/310.%20AWS/AWS%20BedRock.md)</br>
+┃   ┃   ┃   ┃   ┗━ [AWS CodeCommit](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/310.%20AWS/AWS%20CodeCommit.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [Application Composer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/310.%20AWS/Application%20Composer.md)</br>
+┃   ┃   ┃   ┗━ [📁 320. Docker](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/320.%20Docker)</br>
+┃   ┃   ┃   ┃   ┗━━━ [Docker](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/320.%20Docker/Docker.md)</br>
+┃   ┃   ┃   ┗━ [📁 330. Kubernetes](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes)</br>
+┃   ┃   ┃   ┃   ┗━ [📁 exmaples](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/exmaples)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
+┃   ┃   ┃   ┃   ┗━ [ABAC](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/ABAC.md)</br>
+┃   ┃   ┃   ┃   ┗━ [API Server](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/API%20Server.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Control Plane](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Control%20Plane.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Controller Manager](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Controller%20Manager.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Deployment](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Deployment.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Helm](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Helm.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Kubelet](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Kubelet.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Kubernetes%20Pattern.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Kubernetes](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Kubernetes.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Master Node](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Master%20Node.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Node Agent](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Node%20Agent.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Pod](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Pod.md)</br>
+┃   ┃   ┃   ┃   ┗━ [RBAC](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/RBAC.md)</br>
+┃   ┃   ┃   ┃   ┗━ [ReplicaSet](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/ReplicaSet.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Replication Controller](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Replication%20Controller.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Scheduler](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Scheduler.md)</br>
+┃   ┃   ┃   ┃   ┗━ [StatefulSet](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/StatefulSet.md)</br>
+┃   ┃   ┃   ┃   ┗━ [etcd](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/etcd.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [kubeadm](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/kubeadm.md)</br>
+┃   ┃   ┃   ┗━ [📁 Linux](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Linux)</br>
+┃   ┃   ┃   ┃   ┗━━━ [FileSystem](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Linux/FileSystem.md)</br>
+┃   ┃   ┃   ┗━ [📁 Terraform](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Terraform)</br>
+┃   ┃   ┃   ┃   ┗━ [local](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Terraform/local.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [variable](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Terraform/variable.md)</br>
+┃   ┃   ┃   ┗━━━ [CICD](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/CICD.md)</br>
+┃   ┃   ┗━ [📁 400. Git](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/400.%20Git)</br>
+┃   ┃   ┃   ┗━━━ [\010개념](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/400.%20Git/\010개념.md)</br>
+┃   ┃   ┗━ [📁 500. JPA](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA)</br>
+┃   ┃   ┃   ┗━ [Flush,Commit](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/Flush,Commit.md)</br>
+┃   ┃   ┃   ┗━ [PersistenceContext](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/PersistenceContext.md)</br>
+┃   ┃   ┃   ┗━ [RelationMapping](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/RelationMapping.md)</br>
+┃   ┃   ┃   ┗━ [RelationalDatabase](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/RelationalDatabase.md)</br>
+┃   ┃   ┃   ┗━ [SpringDataJPA](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/SpringDataJPA.md)</br>
+┃   ┃   ┃   ┗━ [Transaction](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/Transaction.md)</br>
+┃   ┃   ┃   ┗━━━ [jpa](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/jpa.md)</br>
+┃   ┃   ┗━ [📁 600. Network](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network)</br>
+┃   ┃   ┃   ┗━ [📁 HTTP](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTP━Status](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/HTTP━Status.md)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTPBasic](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/HTTPBasic.md)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTPHeader](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/HTTPHeader.md)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTPMethod(2)](./5. Zettel Kasten/Phase 2 ━ Keywords/600. Network/HTTP/HTTPMethod(2).md)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTPMethod](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/HTTPMethod.md)</br>
+┃   ┃   ┃   ┃   ┗━ [InternetNetwork](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/InternetNetwork.md)</br>
+┃   ┃   ┃   ┃   ┗━ [JWT](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/JWT.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [URI━WebBrowser](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/URI━WebBrowser.md)</br>
+┃   ┃   ┃   ┗━━━ [📁 OSI━7━Layer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer)</br>
+┃   ┃   ┃       ┗━ [📁 L1━Netowrk Access Layer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer)</br>
+┃   ┃   ┃       ┃   ┗━ [Network Access Layer(1)](./5. Zettel Kasten/Phase 2 ━ Keywords/600. Network/OSI━7━Layer/L1━Netowrk Access Layer/Network Access Layer(1).md)</br>
+┃   ┃   ┃       ┃   ┗━━━ [허브](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer/허브.md)</br>
+┃   ┃   ┃       ┗━ [📁 L2━Link Layer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L2━Link%20Layer)</br>
+┃   ┃   ┃       ┃   ┗━━━ [스위치](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L2━Link%20Layer/스위치.md)</br>
+┃   ┃   ┃       ┗━━━ [📁 L3━Network Layer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L3━Network%20Layer)</br>
+┃   ┃   ┃           ┗━ [IP](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L3━Network%20Layer/IP.md)</br>
+┃   ┃   ┃           ┗━━━ [NAT━PAT](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L3━Network%20Layer/NAT━PAT.md)</br>
+┃   ┃   ┗━━━ [📁 700. Spring](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring)</br>
+┃   ┃       ┗━ [📁 Security](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Security)</br>
+┃   ┃       ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
+┃   ┃       ┃   ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Security/Filter.md)</br>
+┃   ┃       ┃   ┗━━━ [Security,JWT](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Security/Security,JWT.md)</br>
+┃   ┃       ┗━ [AutowiredFiledQualifierPrimary](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/AutowiredFiledQualifierPrimary.md)</br>
+┃   ┃       ┗━ [BeanLifeCycle](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/BeanLifeCycle.md)</br>
+┃   ┃       ┗━ [BeanScope](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/BeanScope.md)</br>
+┃   ┃       ┗━ [BuilderPattern](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/BuilderPattern.md)</br>
+┃   ┃       ┗━ [ComponentScan](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/ComponentScan.md)</br>
+┃   ┃       ┗━ [DispatcherServlet](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/DispatcherServlet.md)</br>
+┃   ┃       ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Filter.md)</br>
+┃   ┃       ┗━━━ [SpringBean](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/SpringBean.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
-┗━ [📁 Algorithm](./Algorithm)</br>
-┃   ┗━ [Cpp Vector 중복값 제거](./Algorithm/Cpp%20Vector%20중복값%20제거.md)</br>
-┃   ┗━ [이진 트리](./Algorithm/이진%20트리.md)</br>
-┃   ┗━━━ [모듈러 연산](./Algorithm/모듈러%20연산.md)</br>
-┗━ [📁 ComputerScience](./ComputerScience)</br>
-┃   ┗━ [CpuScheduling](./ComputerScience/CpuScheduling.md)</br>
-┃   ┗━ [ProcessAndThread](./ComputerScience/ProcessAndThread.md)</br>
-┃   ┗━━━ [SchedulingAlgorithm](./ComputerScience/SchedulingAlgorithm.md)</br>
-┗━ [📁 Database](./Database)</br>
-┃   ┗━ [📁 DB설계](./Database/DB설계)</br>
-┃   ┃   ┗━━━ [설계과정](./Database/DB설계/설계과정.md)</br>
-┃   ┗━ [ACID](./Database/ACID.md)</br>
-┃   ┗━ [DAO,DTO,VO](./Database/DAO,DTO,VO.md)</br>
-┃   ┗━ [Database](./Database/Database.md)</br>
-┃   ┗━━━ [FK,PK](./Database/FK,PK.md)</br>
-┗━ [📁 DevOps](./DevOps)</br>
-┃   ┗━ [📁 AWS](./DevOps/AWS)</br>
-┃   ┃   ┗━ [AWS BedRock](./DevOps/AWS/AWS%20BedRock.md)</br>
-┃   ┃   ┗━ [AWS CodeCommit](./DevOps/AWS/AWS%20CodeCommit.md)</br>
-┃   ┃   ┗━━━ [Application Composer](./DevOps/AWS/Application%20Composer.md)</br>
-┃   ┗━ [📁 Docker](./DevOps/Docker)</br>
-┃   ┃   ┗━━━ [Docker](./DevOps/Docker/Docker.md)</br>
-┃   ┗━ [📁 Kubernetes](./DevOps/Kubernetes)</br>
-┃   ┃   ┗━ [📁 exmaples](./DevOps/Kubernetes/exmaples)</br>
-┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./DevOps/Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
-┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./DevOps/Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
-┃   ┃   ┗━ [ABAC](./DevOps/Kubernetes/ABAC.md)</br>
-┃   ┃   ┗━ [API Server](./DevOps/Kubernetes/API%20Server.md)</br>
-┃   ┃   ┗━ [Control Plane](./DevOps/Kubernetes/Control%20Plane.md)</br>
-┃   ┃   ┗━ [Controller Manager](./DevOps/Kubernetes/Controller%20Manager.md)</br>
-┃   ┃   ┗━ [Deployment](./DevOps/Kubernetes/Deployment.md)</br>
-┃   ┃   ┗━ [Helm](./DevOps/Kubernetes/Helm.md)</br>
-┃   ┃   ┗━ [Kubelet](./DevOps/Kubernetes/Kubelet.md)</br>
-┃   ┃   ┗━ [Kubernetes Pattern](./DevOps/Kubernetes/Kubernetes%20Pattern.md)</br>
-┃   ┃   ┗━ [Kubernetes](./DevOps/Kubernetes/Kubernetes.md)</br>
-┃   ┃   ┗━ [Master Node](./DevOps/Kubernetes/Master%20Node.md)</br>
-┃   ┃   ┗━ [Node Agent](./DevOps/Kubernetes/Node%20Agent.md)</br>
-┃   ┃   ┗━ [Pod](./DevOps/Kubernetes/Pod.md)</br>
-┃   ┃   ┗━ [RBAC](./DevOps/Kubernetes/RBAC.md)</br>
-┃   ┃   ┗━ [ReplicaSet](./DevOps/Kubernetes/ReplicaSet.md)</br>
-┃   ┃   ┗━ [Replication Controller](./DevOps/Kubernetes/Replication%20Controller.md)</br>
-┃   ┃   ┗━ [Scheduler](./DevOps/Kubernetes/Scheduler.md)</br>
-┃   ┃   ┗━ [StatefulSet](./DevOps/Kubernetes/StatefulSet.md)</br>
-┃   ┃   ┗━ [etcd](./DevOps/Kubernetes/etcd.md)</br>
-┃   ┃   ┗━━━ [kubeadm](./DevOps/Kubernetes/kubeadm.md)</br>
-┃   ┗━ [📁 Linux](./DevOps/Linux)</br>
-┃   ┃   ┗━━━ [FileSystem](./DevOps/Linux/FileSystem.md)</br>
-┃   ┗━ [📁 Terraform](./DevOps/Terraform)</br>
-┃   ┃   ┗━ [local](./DevOps/Terraform/local.md)</br>
-┃   ┃   ┗━━━ [variable](./DevOps/Terraform/variable.md)</br>
-┃   ┗━━━ [CICD](./DevOps/CICD.md)</br>
-┗━ [📁 Development━Knowledge](./Development━Knowledge)</br>
-┃   ┗━━━ [OAuth](./Development━Knowledge/OAuth.md)</br>
-┗━ [📁 Git](./Git)</br>
-┃   ┗━━━ [\010개념](./Git/\010개념.md)</br>
-┗━ [📁 JPA](./JPA)</br>
-┃   ┗━ [Flush,Commit](./JPA/Flush,Commit.md)</br>
-┃   ┗━ [PersistenceContext](./JPA/PersistenceContext.md)</br>
-┃   ┗━ [RelationMapping](./JPA/RelationMapping.md)</br>
-┃   ┗━ [RelationalDatabase](./JPA/RelationalDatabase.md)</br>
-┃   ┗━ [SpringDataJPA](./JPA/SpringDataJPA.md)</br>
-┃   ┗━ [Transaction](./JPA/Transaction.md)</br>
-┃   ┗━━━ [jpa](./JPA/jpa.md)</br>
-┗━ [📁 MicroServiceArchitecture](./MicroServiceArchitecture)</br>
-┃   ┗━━━ [📁 Pattern](./MicroServiceArchitecture/Pattern)</br>
-┃       ┗━━━ [SagaPattern](./MicroServiceArchitecture/Pattern/SagaPattern.md)</br>
-┗━ [📁 Network](./Network)</br>
-┃   ┗━ [📁 HTTP](./Network/HTTP)</br>
-┃   ┃   ┗━ [HTTP━Status](./Network/HTTP/HTTP━Status.md)</br>
-┃   ┃   ┗━ [HTTPBasic](./Network/HTTP/HTTPBasic.md)</br>
-┃   ┃   ┗━ [HTTPHeader](./Network/HTTP/HTTPHeader.md)</br>
-┃   ┃   ┗━ [HTTPMethod(2)](./Network/HTTP/HTTPMethod(2).md)</br>
-┃   ┃   ┗━ [HTTPMethod](./Network/HTTP/HTTPMethod.md)</br>
-┃   ┃   ┗━ [InternetNetwork](./Network/HTTP/InternetNetwork.md)</br>
-┃   ┃   ┗━ [JWT](./Network/HTTP/JWT.md)</br>
-┃   ┃   ┗━━━ [URI━WebBrowser](./Network/HTTP/URI━WebBrowser.md)</br>
-┃   ┗━━━ [📁 OSI━7━Layer](./Network/OSI━7━Layer)</br>
-┃       ┗━ [📁 L1━Netowrk Access Layer](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer)</br>
-┃       ┃   ┗━ [Network Access Layer(1)](./Network/OSI━7━Layer/L1━Netowrk Access Layer/Network Access Layer(1).md)</br>
-┃       ┃   ┗━━━ [허브](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer/허브.md)</br>
-┃       ┗━ [📁 L2━Link Layer](./Network/OSI━7━Layer/L2━Link%20Layer)</br>
-┃       ┃   ┗━━━ [스위치](./Network/OSI━7━Layer/L2━Link%20Layer/스위치.md)</br>
-┃       ┗━━━ [📁 L3━Network Layer](./Network/OSI━7━Layer/L3━Network%20Layer)</br>
-┃           ┗━ [IP](./Network/OSI━7━Layer/L3━Network%20Layer/IP.md)</br>
-┃           ┗━━━ [NAT━PAT](./Network/OSI━7━Layer/L3━Network%20Layer/NAT━PAT.md)</br>
-┗━ [📁 School](./School)</br>
-┃   ┗━━━ [ComputerArchitecture](./School/ComputerArchitecture.md)</br>
-┗━ [📁 Spring](./Spring)</br>
-┃   ┗━ [📁 Security](./Spring/Security)</br>
-┃   ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
-┃   ┃   ┗━ [Filter](./Spring/Security/Filter.md)</br>
-┃   ┃   ┗━━━ [Security,JWT](./Spring/Security/Security,JWT.md)</br>
-┃   ┗━ [AutowiredFiledQualifierPrimary](./Spring/AutowiredFiledQualifierPrimary.md)</br>
-┃   ┗━ [BeanLifeCycle](./Spring/BeanLifeCycle.md)</br>
-┃   ┗━ [BeanScope](./Spring/BeanScope.md)</br>
-┃   ┗━ [BuilderPattern](./Spring/BuilderPattern.md)</br>
-┃   ┗━ [ComponentScan](./Spring/ComponentScan.md)</br>
-┃   ┗━ [DispatcherServlet](./Spring/DispatcherServlet.md)</br>
-┃   ┗━ [Filter](./Spring/Filter.md)</br>
-┃   ┗━━━ [SpringBean](./Spring/SpringBean.md)</br>
-┗━ [📁 Untitled](./Untitled)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
+┗━ [100 Algorithm](./100%20Algorithm.md)</br>
+┗━ [300 DevOps](./300%20DevOps.md)</br>
 ┗━━━ [README](./README.md)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
@@ -164,111 +156,103 @@ avg_file_length  : 143465
 ┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
 ┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
+┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/100.%20Algorithm)</br>
+┃   ┃   ┃   ┗━ [101. 중복값 제거](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/100.%20Algorithm/101.%20중복값%20제거.md)</br>
+┃   ┃   ┃   ┗━ [102. 모듈러 연산](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/100.%20Algorithm/102.%20모듈러%20연산.md)</br>
+┃   ┃   ┃   ┗━━━ [103. 이진 트리](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/100.%20Algorithm/103.%20이진%20트리.md)</br>
+┃   ┃   ┗━ [📁 200. Database](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database)</br>
+┃   ┃   ┃   ┗━ [📁 DB설계](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/DB설계)</br>
+┃   ┃   ┃   ┃   ┗━━━ [설계과정](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/DB설계/설계과정.md)</br>
+┃   ┃   ┃   ┗━ [ACID](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/ACID.md)</br>
+┃   ┃   ┃   ┗━ [DAO](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/DAO.md)</br>
+┃   ┃   ┃   ┗━ [DTO](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/DTO.md)</br>
+┃   ┃   ┃   ┗━ [Database](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/Database.md)</br>
+┃   ┃   ┃   ┗━ [FK,PK](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/FK,PK.md)</br>
+┃   ┃   ┃   ┗━━━ [VO](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/200.%20Database/VO.md)</br>
+┃   ┃   ┗━ [📁 300. DevOps](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps)</br>
+┃   ┃   ┃   ┗━ [📁 310. AWS](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/310.%20AWS)</br>
+┃   ┃   ┃   ┃   ┗━ [AWS BedRock](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/310.%20AWS/AWS%20BedRock.md)</br>
+┃   ┃   ┃   ┃   ┗━ [AWS CodeCommit](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/310.%20AWS/AWS%20CodeCommit.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [Application Composer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/310.%20AWS/Application%20Composer.md)</br>
+┃   ┃   ┃   ┗━ [📁 320. Docker](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/320.%20Docker)</br>
+┃   ┃   ┃   ┃   ┗━━━ [Docker](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/320.%20Docker/Docker.md)</br>
+┃   ┃   ┃   ┗━ [📁 330. Kubernetes](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes)</br>
+┃   ┃   ┃   ┃   ┗━ [📁 exmaples](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/exmaples)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
+┃   ┃   ┃   ┃   ┗━ [ABAC](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/ABAC.md)</br>
+┃   ┃   ┃   ┃   ┗━ [API Server](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/API%20Server.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Control Plane](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Control%20Plane.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Controller Manager](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Controller%20Manager.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Deployment](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Deployment.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Helm](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Helm.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Kubelet](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Kubelet.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Kubernetes%20Pattern.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Kubernetes](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Kubernetes.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Master Node](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Master%20Node.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Node Agent](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Node%20Agent.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Pod](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Pod.md)</br>
+┃   ┃   ┃   ┃   ┗━ [RBAC](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/RBAC.md)</br>
+┃   ┃   ┃   ┃   ┗━ [ReplicaSet](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/ReplicaSet.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Replication Controller](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Replication%20Controller.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Scheduler](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/Scheduler.md)</br>
+┃   ┃   ┃   ┃   ┗━ [StatefulSet](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/StatefulSet.md)</br>
+┃   ┃   ┃   ┃   ┗━ [etcd](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/etcd.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [kubeadm](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/330.%20Kubernetes/kubeadm.md)</br>
+┃   ┃   ┃   ┗━ [📁 Linux](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Linux)</br>
+┃   ┃   ┃   ┃   ┗━━━ [FileSystem](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Linux/FileSystem.md)</br>
+┃   ┃   ┃   ┗━ [📁 Terraform](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Terraform)</br>
+┃   ┃   ┃   ┃   ┗━ [local](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Terraform/local.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [variable](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/Terraform/variable.md)</br>
+┃   ┃   ┃   ┗━━━ [CICD](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/300.%20DevOps/CICD.md)</br>
+┃   ┃   ┗━ [📁 400. Git](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/400.%20Git)</br>
+┃   ┃   ┃   ┗━━━ [\010개념](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/400.%20Git/\010개념.md)</br>
+┃   ┃   ┗━ [📁 500. JPA](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA)</br>
+┃   ┃   ┃   ┗━ [Flush,Commit](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/Flush,Commit.md)</br>
+┃   ┃   ┃   ┗━ [PersistenceContext](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/PersistenceContext.md)</br>
+┃   ┃   ┃   ┗━ [RelationMapping](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/RelationMapping.md)</br>
+┃   ┃   ┃   ┗━ [RelationalDatabase](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/RelationalDatabase.md)</br>
+┃   ┃   ┃   ┗━ [SpringDataJPA](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/SpringDataJPA.md)</br>
+┃   ┃   ┃   ┗━ [Transaction](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/Transaction.md)</br>
+┃   ┃   ┃   ┗━━━ [jpa](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/500.%20JPA/jpa.md)</br>
+┃   ┃   ┗━ [📁 600. Network](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network)</br>
+┃   ┃   ┃   ┗━ [📁 HTTP](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTP━Status](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/HTTP━Status.md)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTPBasic](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/HTTPBasic.md)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTPHeader](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/HTTPHeader.md)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTPMethod(2)](./5. Zettel Kasten/Phase 2 ━ Keywords/600. Network/HTTP/HTTPMethod(2).md)</br>
+┃   ┃   ┃   ┃   ┗━ [HTTPMethod](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/HTTPMethod.md)</br>
+┃   ┃   ┃   ┃   ┗━ [InternetNetwork](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/InternetNetwork.md)</br>
+┃   ┃   ┃   ┃   ┗━ [JWT](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/JWT.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [URI━WebBrowser](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/HTTP/URI━WebBrowser.md)</br>
+┃   ┃   ┃   ┗━━━ [📁 OSI━7━Layer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer)</br>
+┃   ┃   ┃       ┗━ [📁 L1━Netowrk Access Layer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer)</br>
+┃   ┃   ┃       ┃   ┗━ [Network Access Layer(1)](./5. Zettel Kasten/Phase 2 ━ Keywords/600. Network/OSI━7━Layer/L1━Netowrk Access Layer/Network Access Layer(1).md)</br>
+┃   ┃   ┃       ┃   ┗━━━ [허브](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer/허브.md)</br>
+┃   ┃   ┃       ┗━ [📁 L2━Link Layer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L2━Link%20Layer)</br>
+┃   ┃   ┃       ┃   ┗━━━ [스위치](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L2━Link%20Layer/스위치.md)</br>
+┃   ┃   ┃       ┗━━━ [📁 L3━Network Layer](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L3━Network%20Layer)</br>
+┃   ┃   ┃           ┗━ [IP](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L3━Network%20Layer/IP.md)</br>
+┃   ┃   ┃           ┗━━━ [NAT━PAT](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/600.%20Network/OSI━7━Layer/L3━Network%20Layer/NAT━PAT.md)</br>
+┃   ┃   ┗━━━ [📁 700. Spring](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring)</br>
+┃   ┃       ┗━ [📁 Security](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Security)</br>
+┃   ┃       ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
+┃   ┃       ┃   ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Security/Filter.md)</br>
+┃   ┃       ┃   ┗━━━ [Security,JWT](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Security/Security,JWT.md)</br>
+┃   ┃       ┗━ [AutowiredFiledQualifierPrimary](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/AutowiredFiledQualifierPrimary.md)</br>
+┃   ┃       ┗━ [BeanLifeCycle](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/BeanLifeCycle.md)</br>
+┃   ┃       ┗━ [BeanScope](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/BeanScope.md)</br>
+┃   ┃       ┗━ [BuilderPattern](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/BuilderPattern.md)</br>
+┃   ┃       ┗━ [ComponentScan](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/ComponentScan.md)</br>
+┃   ┃       ┗━ [DispatcherServlet](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/DispatcherServlet.md)</br>
+┃   ┃       ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/Filter.md)</br>
+┃   ┃       ┗━━━ [SpringBean](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/700.%20Spring/SpringBean.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
-┗━ [📁 Algorithm](./Algorithm)</br>
-┃   ┗━ [Cpp Vector 중복값 제거](./Algorithm/Cpp%20Vector%20중복값%20제거.md)</br>
-┃   ┗━ [이진 트리](./Algorithm/이진%20트리.md)</br>
-┃   ┗━━━ [모듈러 연산](./Algorithm/모듈러%20연산.md)</br>
-┗━ [📁 ComputerScience](./ComputerScience)</br>
-┃   ┗━ [CpuScheduling](./ComputerScience/CpuScheduling.md)</br>
-┃   ┗━ [ProcessAndThread](./ComputerScience/ProcessAndThread.md)</br>
-┃   ┗━━━ [SchedulingAlgorithm](./ComputerScience/SchedulingAlgorithm.md)</br>
-┗━ [📁 Database](./Database)</br>
-┃   ┗━ [📁 DB설계](./Database/DB설계)</br>
-┃   ┃   ┗━━━ [설계과정](./Database/DB설계/설계과정.md)</br>
-┃   ┗━ [ACID](./Database/ACID.md)</br>
-┃   ┗━ [DAO,DTO,VO](./Database/DAO,DTO,VO.md)</br>
-┃   ┗━ [Database](./Database/Database.md)</br>
-┃   ┗━━━ [FK,PK](./Database/FK,PK.md)</br>
-┗━ [📁 DevOps](./DevOps)</br>
-┃   ┗━ [📁 AWS](./DevOps/AWS)</br>
-┃   ┃   ┗━ [AWS BedRock](./DevOps/AWS/AWS%20BedRock.md)</br>
-┃   ┃   ┗━ [AWS CodeCommit](./DevOps/AWS/AWS%20CodeCommit.md)</br>
-┃   ┃   ┗━━━ [Application Composer](./DevOps/AWS/Application%20Composer.md)</br>
-┃   ┗━ [📁 Docker](./DevOps/Docker)</br>
-┃   ┃   ┗━━━ [Docker](./DevOps/Docker/Docker.md)</br>
-┃   ┗━ [📁 Kubernetes](./DevOps/Kubernetes)</br>
-┃   ┃   ┗━ [📁 exmaples](./DevOps/Kubernetes/exmaples)</br>
-┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./DevOps/Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
-┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./DevOps/Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
-┃   ┃   ┗━ [ABAC](./DevOps/Kubernetes/ABAC.md)</br>
-┃   ┃   ┗━ [API Server](./DevOps/Kubernetes/API%20Server.md)</br>
-┃   ┃   ┗━ [Control Plane](./DevOps/Kubernetes/Control%20Plane.md)</br>
-┃   ┃   ┗━ [Controller Manager](./DevOps/Kubernetes/Controller%20Manager.md)</br>
-┃   ┃   ┗━ [Deployment](./DevOps/Kubernetes/Deployment.md)</br>
-┃   ┃   ┗━ [Helm](./DevOps/Kubernetes/Helm.md)</br>
-┃   ┃   ┗━ [Kubelet](./DevOps/Kubernetes/Kubelet.md)</br>
-┃   ┃   ┗━ [Kubernetes Pattern](./DevOps/Kubernetes/Kubernetes%20Pattern.md)</br>
-┃   ┃   ┗━ [Kubernetes](./DevOps/Kubernetes/Kubernetes.md)</br>
-┃   ┃   ┗━ [Master Node](./DevOps/Kubernetes/Master%20Node.md)</br>
-┃   ┃   ┗━ [Node Agent](./DevOps/Kubernetes/Node%20Agent.md)</br>
-┃   ┃   ┗━ [Pod](./DevOps/Kubernetes/Pod.md)</br>
-┃   ┃   ┗━ [RBAC](./DevOps/Kubernetes/RBAC.md)</br>
-┃   ┃   ┗━ [ReplicaSet](./DevOps/Kubernetes/ReplicaSet.md)</br>
-┃   ┃   ┗━ [Replication Controller](./DevOps/Kubernetes/Replication%20Controller.md)</br>
-┃   ┃   ┗━ [Scheduler](./DevOps/Kubernetes/Scheduler.md)</br>
-┃   ┃   ┗━ [StatefulSet](./DevOps/Kubernetes/StatefulSet.md)</br>
-┃   ┃   ┗━ [etcd](./DevOps/Kubernetes/etcd.md)</br>
-┃   ┃   ┗━━━ [kubeadm](./DevOps/Kubernetes/kubeadm.md)</br>
-┃   ┗━ [📁 Linux](./DevOps/Linux)</br>
-┃   ┃   ┗━━━ [FileSystem](./DevOps/Linux/FileSystem.md)</br>
-┃   ┗━ [📁 Terraform](./DevOps/Terraform)</br>
-┃   ┃   ┗━ [local](./DevOps/Terraform/local.md)</br>
-┃   ┃   ┗━━━ [variable](./DevOps/Terraform/variable.md)</br>
-┃   ┗━━━ [CICD](./DevOps/CICD.md)</br>
-┗━ [📁 Development━Knowledge](./Development━Knowledge)</br>
-┃   ┗━━━ [OAuth](./Development━Knowledge/OAuth.md)</br>
-┗━ [📁 Git](./Git)</br>
-┃   ┗━━━ [\010개념](./Git/\010개념.md)</br>
-┗━ [📁 JPA](./JPA)</br>
-┃   ┗━ [Flush,Commit](./JPA/Flush,Commit.md)</br>
-┃   ┗━ [PersistenceContext](./JPA/PersistenceContext.md)</br>
-┃   ┗━ [RelationMapping](./JPA/RelationMapping.md)</br>
-┃   ┗━ [RelationalDatabase](./JPA/RelationalDatabase.md)</br>
-┃   ┗━ [SpringDataJPA](./JPA/SpringDataJPA.md)</br>
-┃   ┗━ [Transaction](./JPA/Transaction.md)</br>
-┃   ┗━━━ [jpa](./JPA/jpa.md)</br>
-┗━ [📁 MicroServiceArchitecture](./MicroServiceArchitecture)</br>
-┃   ┗━━━ [📁 Pattern](./MicroServiceArchitecture/Pattern)</br>
-┃       ┗━━━ [SagaPattern](./MicroServiceArchitecture/Pattern/SagaPattern.md)</br>
-┗━ [📁 Network](./Network)</br>
-┃   ┗━ [📁 HTTP](./Network/HTTP)</br>
-┃   ┃   ┗━ [HTTP━Status](./Network/HTTP/HTTP━Status.md)</br>
-┃   ┃   ┗━ [HTTPBasic](./Network/HTTP/HTTPBasic.md)</br>
-┃   ┃   ┗━ [HTTPHeader](./Network/HTTP/HTTPHeader.md)</br>
-┃   ┃   ┗━ [HTTPMethod(2)](./Network/HTTP/HTTPMethod(2).md)</br>
-┃   ┃   ┗━ [HTTPMethod](./Network/HTTP/HTTPMethod.md)</br>
-┃   ┃   ┗━ [InternetNetwork](./Network/HTTP/InternetNetwork.md)</br>
-┃   ┃   ┗━ [JWT](./Network/HTTP/JWT.md)</br>
-┃   ┃   ┗━━━ [URI━WebBrowser](./Network/HTTP/URI━WebBrowser.md)</br>
-┃   ┗━━━ [📁 OSI━7━Layer](./Network/OSI━7━Layer)</br>
-┃       ┗━ [📁 L1━Netowrk Access Layer](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer)</br>
-┃       ┃   ┗━ [Network Access Layer(1)](./Network/OSI━7━Layer/L1━Netowrk Access Layer/Network Access Layer(1).md)</br>
-┃       ┃   ┗━━━ [허브](./Network/OSI━7━Layer/L1━Netowrk%20Access%20Layer/허브.md)</br>
-┃       ┗━ [📁 L2━Link Layer](./Network/OSI━7━Layer/L2━Link%20Layer)</br>
-┃       ┃   ┗━━━ [스위치](./Network/OSI━7━Layer/L2━Link%20Layer/스위치.md)</br>
-┃       ┗━━━ [📁 L3━Network Layer](./Network/OSI━7━Layer/L3━Network%20Layer)</br>
-┃           ┗━ [IP](./Network/OSI━7━Layer/L3━Network%20Layer/IP.md)</br>
-┃           ┗━━━ [NAT━PAT](./Network/OSI━7━Layer/L3━Network%20Layer/NAT━PAT.md)</br>
-┗━ [📁 School](./School)</br>
-┃   ┗━━━ [ComputerArchitecture](./School/ComputerArchitecture.md)</br>
-┗━ [📁 Spring](./Spring)</br>
-┃   ┗━ [📁 Security](./Spring/Security)</br>
-┃   ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
-┃   ┃   ┗━ [Filter](./Spring/Security/Filter.md)</br>
-┃   ┃   ┗━━━ [Security,JWT](./Spring/Security/Security,JWT.md)</br>
-┃   ┗━ [AutowiredFiledQualifierPrimary](./Spring/AutowiredFiledQualifierPrimary.md)</br>
-┃   ┗━ [BeanLifeCycle](./Spring/BeanLifeCycle.md)</br>
-┃   ┗━ [BeanScope](./Spring/BeanScope.md)</br>
-┃   ┗━ [BuilderPattern](./Spring/BuilderPattern.md)</br>
-┃   ┗━ [ComponentScan](./Spring/ComponentScan.md)</br>
-┃   ┗━ [DispatcherServlet](./Spring/DispatcherServlet.md)</br>
-┃   ┗━ [Filter](./Spring/Filter.md)</br>
-┃   ┗━━━ [SpringBean](./Spring/SpringBean.md)</br>
-┗━ [📁 Untitled](./Untitled)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
+┗━ [100 Algorithm](./100%20Algorithm.md)</br>
+┗━ [300 DevOps](./300%20DevOps.md)</br>
 ┗━━━ [README](./README.md)</br>
 
 
