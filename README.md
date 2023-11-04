@@ -1,15 +1,41 @@
 # Brain
+![Second Brain Diagram](/Users/buhyeonsu/Desktop/Brain/0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
+```
+files            : 84
+
+derectories      : 55
+
+avg_file_length  : 143465
 
 ```
-files            : 77
-
-derectories      : 40
-
-avg_file_length  : 156823
-
-```
-
-./TIL</br>
+./Brain</br>
+┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
+┃   ┗━ [📁 010. etc](./0.%20Knowledge%20Warehouse/010.%20etc)</br>
+┃   ┃   ┗━━━ [📁 011. image](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image)</br>
+┃   ┃       ┗━ [📁 Pasted image 20231029221641.png](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/Pasted%20image%2020231029221641.png)</br>
+┃   ┃       ┗━ [📁 Pasted image 20231029223659.png](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/Pasted%20image%2020231029223659.png)</br>
+┃   ┃       ┗━ [📁 Screenshot 2023━10━28 at 12.11.06 AM.png](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/Screenshot%202023━10━28%20at%2012.11.06%20AM.png)</br>
+┃   ┃       ┗━ [📁 Screenshot 2023━10━29 at 12.06.40 AM.png](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/Screenshot%202023━10━29%20at%2012.06.40%20AM.png)</br>
+┃   ┃       ┗━━━ [📁 diagram.jpg](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)</br>
+┃   ┗━ [📁 020. template](./0.%20Knowledge%20Warehouse/020.%20template)</br>
+┃   ┃   ┗━ [021. Daily Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/021.%20Daily%20Notes%20Template.md)</br>
+┃   ┃   ┗━ [022. Literature Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/022.%20Literature%20Notes%20Template.md)</br>
+┃   ┃   ┗━ [023. Permanent Storage Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/023.%20Permanent%20Storage%20Notes%20Template.md)</br>
+┃   ┃   ┗━ [024. Keyword Template](./0.%20Knowledge%20Warehouse/020.%20template/024.%20Keyword%20Template.md)</br>
+┃   ┃   ┗━ [025. Opinion Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/025.%20Opinion%20Notes%20Template.md)</br>
+┃   ┃   ┗━ [026. Arguments Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/026.%20Arguments%20Notes%20Template.md)</br>
+┃   ┃   ┗━━━ [027. Second Brain Template](./0.%20Knowledge%20Warehouse/020.%20template/027.%20Second%20Brain%20Template.md)</br>
+┃   ┗━━━ [📁 030. tag](./0.%20Knowledge%20Warehouse/030.%20tag)</br>
+┗━ [📁 1. Personal](./1.%20Personal)</br>
+┗━ [📁 2. Work](./2.%20Work)</br>
+┗━ [📁 3. Self Improvement](./3.%20Self%20Improvement)</br>
+┗━ [📁 4. Daily Notes](./4.%20Daily%20Notes)</br>
+┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
+┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
+┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
+┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
+┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
+┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
 ┗━ [📁 Algorithm](./Algorithm)</br>
 ┃   ┗━ [Cpp Vector 중복값 제거](./Algorithm/Cpp%20Vector%20중복값%20제거.md)</br>
 ┃   ┗━ [이진 트리](./Algorithm/이진%20트리.md)</br>
@@ -110,14 +136,37 @@ avg_file_length  : 156823
 ┃   ┗━ [DispatcherServlet](./Spring/DispatcherServlet.md)</br>
 ┃   ┗━ [Filter](./Spring/Filter.md)</br>
 ┃   ┗━━━ [SpringBean](./Spring/SpringBean.md)</br>
-┗━ [📁 image](./image)</br>
-┃   ┗━ [📁 Pasted image 20231029221641.png](Pasted%20image%2020231029221641.png)</br>
-┃   ┗━ [📁 Pasted image 20231029223659.png](Pasted%20image%2020231029223659.png)</br>
-┃   ┗━ [📁 Screenshot 2023━10━28 at 12.11.06 AM.png](./image/Screenshot%202023━10━28%20at%2012.11.06%20AM.png)</br>
-┃   ┗━━━ [📁 Screenshot 2023━10━29 at 12.06.40 AM.png](./image/Screenshot%202023━10━29%20at%2012.06.40%20AM.png)</br>
+┗━ [📁 Untitled](./Untitled)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
 ┗━━━ [README](./README.md)</br>
 .
+┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
+┃   ┗━ [📁 010. etc](./0.%20Knowledge%20Warehouse/010.%20etc)</br>
+┃   ┃   ┗━━━ [📁 011. image](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image)</br>
+┃   ┃       ┗━ [📁 Pasted image 20231029221641.png](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/Pasted%20image%2020231029221641.png)</br>
+┃   ┃       ┗━ [📁 Pasted image 20231029223659.png](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/Pasted%20image%2020231029223659.png)</br>
+┃   ┃       ┗━ [📁 Screenshot 2023━10━28 at 12.11.06 AM.png](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/Screenshot%202023━10━28%20at%2012.11.06%20AM.png)</br>
+┃   ┃       ┗━ [📁 Screenshot 2023━10━29 at 12.06.40 AM.png](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/Screenshot%202023━10━29%20at%2012.06.40%20AM.png)</br>
+┃   ┃       ┗━━━ [📁 diagram.jpg](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)</br>
+┃   ┗━ [📁 020. template](./0.%20Knowledge%20Warehouse/020.%20template)</br>
+┃   ┃   ┗━ [021. Daily Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/021.%20Daily%20Notes%20Template.md)</br>
+┃   ┃   ┗━ [022. Literature Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/022.%20Literature%20Notes%20Template.md)</br>
+┃   ┃   ┗━ [023. Permanent Storage Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/023.%20Permanent%20Storage%20Notes%20Template.md)</br>
+┃   ┃   ┗━ [024. Keyword Template](./0.%20Knowledge%20Warehouse/020.%20template/024.%20Keyword%20Template.md)</br>
+┃   ┃   ┗━ [025. Opinion Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/025.%20Opinion%20Notes%20Template.md)</br>
+┃   ┃   ┗━ [026. Arguments Notes Template](./0.%20Knowledge%20Warehouse/020.%20template/026.%20Arguments%20Notes%20Template.md)</br>
+┃   ┃   ┗━━━ [027. Second Brain Template](./0.%20Knowledge%20Warehouse/020.%20template/027.%20Second%20Brain%20Template.md)</br>
+┃   ┗━━━ [📁 030. tag](./0.%20Knowledge%20Warehouse/030.%20tag)</br>
+┗━ [📁 1. Personal](./1.%20Personal)</br>
+┗━ [📁 2. Work](./2.%20Work)</br>
+┗━ [📁 3. Self Improvement](./3.%20Self%20Improvement)</br>
+┗━ [📁 4. Daily Notes](./4.%20Daily%20Notes)</br>
+┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
+┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
+┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
+┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
+┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
+┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
 ┗━ [📁 Algorithm](./Algorithm)</br>
 ┃   ┗━ [Cpp Vector 중복값 제거](./Algorithm/Cpp%20Vector%20중복값%20제거.md)</br>
 ┃   ┗━ [이진 트리](./Algorithm/이진%20트리.md)</br>
@@ -218,11 +267,7 @@ avg_file_length  : 156823
 ┃   ┗━ [DispatcherServlet](./Spring/DispatcherServlet.md)</br>
 ┃   ┗━ [Filter](./Spring/Filter.md)</br>
 ┃   ┗━━━ [SpringBean](./Spring/SpringBean.md)</br>
-┗━ [📁 image](./image)</br>
-┃   ┗━ [📁 Pasted image 20231029221641.png](Pasted%20image%2020231029221641.png)</br>
-┃   ┗━ [📁 Pasted image 20231029223659.png](Pasted%20image%2020231029223659.png)</br>
-┃   ┗━ [📁 Screenshot 2023━10━28 at 12.11.06 AM.png](./image/Screenshot%202023━10━28%20at%2012.11.06%20AM.png)</br>
-┃   ┗━━━ [📁 Screenshot 2023━10━29 at 12.06.40 AM.png](./image/Screenshot%202023━10━29%20at%2012.06.40%20AM.png)</br>
+┗━ [📁 Untitled](./Untitled)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
 ┗━━━ [README](./README.md)</br>
 
