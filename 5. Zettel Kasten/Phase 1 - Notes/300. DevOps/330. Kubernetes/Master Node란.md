@@ -1,6 +1,9 @@
 ---
-aliases: 
+aliases:
+  - Kubernetes
 tags:
+  - 문헌메모
+  - 진행중
 ---
 
 
@@ -14,7 +17,7 @@ URL :
 
 
 ### Link of Thoughts
-Area :
+Area : #300-DevOps/330-Kubernetes 
 
 Keywords :
 - 
