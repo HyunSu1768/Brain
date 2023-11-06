@@ -19,12 +19,6 @@ URL :
 - Kubernetes에 배포되는 Container를 관리하기 위한 구성요소들은 Control Plane이라고 함
 - Master Node 에 배포되며 minion node의 Kubelet과 통신하면서 Container를 관리한다.
 
-## Control Plane의 구성요소
-- etcd
-- API Server
-- Controller Manager란
-- Scheduler
-
 
 ### Link of Thoughts
 Area : #300-DevOps/330-Kubernetes 

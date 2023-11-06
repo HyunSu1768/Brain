@@ -19,16 +19,8 @@ URL :
 - 컨트롤러는 클러스터 내의 리소스 상태를 검사한다
 - 사용자가 정의한 상태를 유지하기 위해 조치를 취한다.
 
-# 주요 컨트롤러
-- Replication Controller
-- ReplicaSet
-- Deployment
-- StatefulSet
 
-## Kube Controller Manager 의 구성
-- 마스터 노드의 일부로 동작한다.
-- 쿠버네티스 클러스터 생성 시 자동으로 마스터노드에 배포된다.
-- 기본적으로 필요한 컨트롤러는 모두 활성화되며 필요시에 비활성화, 추가할 수 있다.
+
 
 ## Kube Controller Manager의 중요성
 - 클러스터의 안정성과 가용성을 유지하는 데 중요한 역할을 한다

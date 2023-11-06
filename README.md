@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 86
+files            : 89
 
 derectories      : 49
 
-avg_file_length  : 141880
+avg_file_length  : 137107
 
 ```
 ./Brain</br>
@@ -30,14 +30,6 @@ avg_file_length  : 141880
 ┗━ [📁 2. Work](./2.%20Work)</br>
 ┗━ [📁 3. Self Improvement](./3.%20Self%20Improvement)</br>
 ┗━ [📁 4. Daily Notes](./4.%20Daily%20Notes)</br>
-┃   ┗━━━ [📁 500. JPA](./4.%20Daily%20Notes/500.%20JPA)</br>
-┃       ┗━ [Flush,Commit](./4.%20Daily%20Notes/500.%20JPA/Flush,Commit.md)</br>
-┃       ┗━ [PersistenceContext](./4.%20Daily%20Notes/500.%20JPA/PersistenceContext.md)</br>
-┃       ┗━ [RelationMapping](./4.%20Daily%20Notes/500.%20JPA/RelationMapping.md)</br>
-┃       ┗━ [RelationalDatabase](./4.%20Daily%20Notes/500.%20JPA/RelationalDatabase.md)</br>
-┃       ┗━ [SpringDataJPA](./4.%20Daily%20Notes/500.%20JPA/SpringDataJPA.md)</br>
-┃       ┗━ [Transaction](./4.%20Daily%20Notes/500.%20JPA/Transaction.md)</br>
-┃       ┗━━━ [jpa](./4.%20Daily%20Notes/500.%20JPA/jpa.md)</br>
 ┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
 ┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
 ┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm)</br>
@@ -65,8 +57,11 @@ avg_file_length  : 141880
 ┃   ┃   ┃   ┃   ┃   ┗━ [Pod 사용 예시](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/Pod%20사용%20예시.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [ABAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/ABAC란.md)</br>
+┃   ┃   ┃   ┃   ┗━ [API Server의 주요 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/API%20Server의%20주요%20기능.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [API Server란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/API%20Server란.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Control Plane의 구성요소](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Control%20Plane의%20구성요소.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Control%20Plane란.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Controller%20Manager란.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Deployment란.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Helm란.md)</br>
@@ -109,19 +104,27 @@ avg_file_length  : 141880
 ┃   ┃   ┃       ┗━━━ [📁 L3━Network Layer](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network/OSI%207%20Layer/L3━Network%20Layer)</br>
 ┃   ┃   ┃           ┗━ [IP](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network/OSI%207%20Layer/L3━Network%20Layer/IP.md)</br>
 ┃   ┃   ┃           ┗━━━ [NAT━PAT](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network/OSI%207%20Layer/L3━Network%20Layer/NAT━PAT.md)</br>
-┃   ┃   ┗━━━ [📁 600. Spring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring)</br>
-┃   ┃       ┗━ [📁 Security](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security)</br>
-┃   ┃       ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
-┃   ┃       ┃   ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/Filter.md)</br>
-┃   ┃       ┃   ┗━━━ [Security,JWT](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/Security,JWT.md)</br>
-┃   ┃       ┗━ [AutowiredFiledQualifierPrimary](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/AutowiredFiledQualifierPrimary.md)</br>
-┃   ┃       ┗━ [BeanLifeCycle](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BeanLifeCycle.md)</br>
-┃   ┃       ┗━ [BeanScope](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BeanScope.md)</br>
-┃   ┃       ┗━ [BuilderPattern](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BuilderPattern.md)</br>
-┃   ┃       ┗━ [ComponentScan](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/ComponentScan.md)</br>
-┃   ┃       ┗━ [DispatcherServlet](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/DispatcherServlet.md)</br>
-┃   ┃       ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Filter.md)</br>
-┃   ┃       ┗━━━ [SpringBean](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/SpringBean.md)</br>
+┃   ┃   ┗━ [📁 600. Spring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring)</br>
+┃   ┃   ┃   ┗━ [📁 Security](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security)</br>
+┃   ┃   ┃   ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/Filter.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [Security,JWT](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/Security,JWT.md)</br>
+┃   ┃   ┃   ┗━ [AutowiredFiledQualifierPrimary](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/AutowiredFiledQualifierPrimary.md)</br>
+┃   ┃   ┃   ┗━ [BeanLifeCycle](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BeanLifeCycle.md)</br>
+┃   ┃   ┃   ┗━ [BeanScope](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BeanScope.md)</br>
+┃   ┃   ┃   ┗━ [BuilderPattern](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BuilderPattern.md)</br>
+┃   ┃   ┃   ┗━ [ComponentScan](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/ComponentScan.md)</br>
+┃   ┃   ┃   ┗━ [DispatcherServlet](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/DispatcherServlet.md)</br>
+┃   ┃   ┃   ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Filter.md)</br>
+┃   ┃   ┃   ┗━━━ [SpringBean](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/SpringBean.md)</br>
+┃   ┃   ┗━━━ [📁 700. JPA](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA)</br>
+┃   ┃       ┗━ [Flush,Commit](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/Flush,Commit.md)</br>
+┃   ┃       ┗━ [PersistenceContext](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/PersistenceContext.md)</br>
+┃   ┃       ┗━ [RelationMapping](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/RelationMapping.md)</br>
+┃   ┃       ┗━ [RelationalDatabase](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/RelationalDatabase.md)</br>
+┃   ┃       ┗━ [SpringDataJPA](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/SpringDataJPA.md)</br>
+┃   ┃       ┗━ [Transaction](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/Transaction.md)</br>
+┃   ┃       ┗━━━ [jpa](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/jpa.md)</br>
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
@@ -156,14 +159,6 @@ avg_file_length  : 141880
 ┗━ [📁 2. Work](./2.%20Work)</br>
 ┗━ [📁 3. Self Improvement](./3.%20Self%20Improvement)</br>
 ┗━ [📁 4. Daily Notes](./4.%20Daily%20Notes)</br>
-┃   ┗━━━ [📁 500. JPA](./4.%20Daily%20Notes/500.%20JPA)</br>
-┃       ┗━ [Flush,Commit](./4.%20Daily%20Notes/500.%20JPA/Flush,Commit.md)</br>
-┃       ┗━ [PersistenceContext](./4.%20Daily%20Notes/500.%20JPA/PersistenceContext.md)</br>
-┃       ┗━ [RelationMapping](./4.%20Daily%20Notes/500.%20JPA/RelationMapping.md)</br>
-┃       ┗━ [RelationalDatabase](./4.%20Daily%20Notes/500.%20JPA/RelationalDatabase.md)</br>
-┃       ┗━ [SpringDataJPA](./4.%20Daily%20Notes/500.%20JPA/SpringDataJPA.md)</br>
-┃       ┗━ [Transaction](./4.%20Daily%20Notes/500.%20JPA/Transaction.md)</br>
-┃       ┗━━━ [jpa](./4.%20Daily%20Notes/500.%20JPA/jpa.md)</br>
 ┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
 ┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
 ┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm)</br>
@@ -191,8 +186,11 @@ avg_file_length  : 141880
 ┃   ┃   ┃   ┃   ┃   ┗━ [Pod 사용 예시](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/Pod%20사용%20예시.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [ABAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/ABAC란.md)</br>
+┃   ┃   ┃   ┃   ┗━ [API Server의 주요 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/API%20Server의%20주요%20기능.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [API Server란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/API%20Server란.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Control Plane의 구성요소](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Control%20Plane의%20구성요소.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Control%20Plane란.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Controller%20Manager란.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Deployment란.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Helm란.md)</br>
@@ -235,19 +233,27 @@ avg_file_length  : 141880
 ┃   ┃   ┃       ┗━━━ [📁 L3━Network Layer](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network/OSI%207%20Layer/L3━Network%20Layer)</br>
 ┃   ┃   ┃           ┗━ [IP](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network/OSI%207%20Layer/L3━Network%20Layer/IP.md)</br>
 ┃   ┃   ┃           ┗━━━ [NAT━PAT](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network/OSI%207%20Layer/L3━Network%20Layer/NAT━PAT.md)</br>
-┃   ┃   ┗━━━ [📁 600. Spring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring)</br>
-┃   ┃       ┗━ [📁 Security](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security)</br>
-┃   ┃       ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
-┃   ┃       ┃   ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/Filter.md)</br>
-┃   ┃       ┃   ┗━━━ [Security,JWT](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/Security,JWT.md)</br>
-┃   ┃       ┗━ [AutowiredFiledQualifierPrimary](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/AutowiredFiledQualifierPrimary.md)</br>
-┃   ┃       ┗━ [BeanLifeCycle](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BeanLifeCycle.md)</br>
-┃   ┃       ┗━ [BeanScope](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BeanScope.md)</br>
-┃   ┃       ┗━ [BuilderPattern](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BuilderPattern.md)</br>
-┃   ┃       ┗━ [ComponentScan](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/ComponentScan.md)</br>
-┃   ┃       ┗━ [DispatcherServlet](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/DispatcherServlet.md)</br>
-┃   ┃       ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Filter.md)</br>
-┃   ┃       ┗━━━ [SpringBean](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/SpringBean.md)</br>
+┃   ┃   ┗━ [📁 600. Spring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring)</br>
+┃   ┃   ┃   ┗━ [📁 Security](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security)</br>
+┃   ┃   ┃   ┃   ┗━ [CustomUserDetails,CustomUserDetailService](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/CustomUserDetails,CustomUserDetailService.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/Filter.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [Security,JWT](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Security/Security,JWT.md)</br>
+┃   ┃   ┃   ┗━ [AutowiredFiledQualifierPrimary](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/AutowiredFiledQualifierPrimary.md)</br>
+┃   ┃   ┃   ┗━ [BeanLifeCycle](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BeanLifeCycle.md)</br>
+┃   ┃   ┃   ┗━ [BeanScope](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BeanScope.md)</br>
+┃   ┃   ┃   ┗━ [BuilderPattern](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/BuilderPattern.md)</br>
+┃   ┃   ┃   ┗━ [ComponentScan](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/ComponentScan.md)</br>
+┃   ┃   ┃   ┗━ [DispatcherServlet](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/DispatcherServlet.md)</br>
+┃   ┃   ┃   ┗━ [Filter](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/Filter.md)</br>
+┃   ┃   ┃   ┗━━━ [SpringBean](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/600.%20Spring/SpringBean.md)</br>
+┃   ┃   ┗━━━ [📁 700. JPA](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA)</br>
+┃   ┃       ┗━ [Flush,Commit](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/Flush,Commit.md)</br>
+┃   ┃       ┗━ [PersistenceContext](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/PersistenceContext.md)</br>
+┃   ┃       ┗━ [RelationMapping](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/RelationMapping.md)</br>
+┃   ┃       ┗━ [RelationalDatabase](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/RelationalDatabase.md)</br>
+┃   ┃       ┗━ [SpringDataJPA](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/SpringDataJPA.md)</br>
+┃   ┃       ┗━ [Transaction](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/Transaction.md)</br>
+┃   ┃       ┗━━━ [jpa](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/jpa.md)</br>
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
