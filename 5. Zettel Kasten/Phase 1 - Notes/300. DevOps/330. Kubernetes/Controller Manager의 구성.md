@@ -19,7 +19,7 @@ URL :
 - 기본적으로 필요한 컨트롤러는 모두 활성화되며 필요시에 비활성화, 추가할 수 있다.
 
 # 주요 컨트롤러
-- Replication Controller
+- [[Replication Controller]]
 - ReplicaSet
 - Deployment
 - StatefulSet

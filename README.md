@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 89
+files            : 90
 
 derectories      : 49
 
-avg_file_length  : 137101
+avg_file_length  : 135584
 
 ```
 ./Brain</br>
@@ -136,7 +136,8 @@ avg_file_length  : 137101
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
-┗━━━ [README](./README.md)</br>
+┗━ [README](./README.md)</br>
+┗━━━ [Replication Controller](./Replication%20Controller.md)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
 ┃   ┗━ [📁 010. etc](./0.%20Knowledge%20Warehouse/010.%20etc)</br>
@@ -265,6 +266,7 @@ avg_file_length  : 137101
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
-┗━━━ [README](./README.md)</br>
+┗━ [README](./README.md)</br>
+┗━━━ [Replication Controller](./Replication%20Controller.md)</br>
 
 
