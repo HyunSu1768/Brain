@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 90
+files            : 94
 
-derectories      : 49
+derectories      : 50
 
-avg_file_length  : 135583
+avg_file_length  : 129816
 
 ```
 ./Brain</br>
@@ -78,11 +78,16 @@ avg_file_length  : 135583
 ┃   ┃   ┃   ┃   ┗━ [StatefulSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/StatefulSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/etcd란.md)</br>
 ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/kubeadm이란.md)</br>
-┃   ┃   ┃   ┗━ [📁 Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Linux)</br>
-┃   ┃   ┃   ┃   ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Linux/FileSystem이란.md)</br>
-┃   ┃   ┃   ┗━━━ [📁 Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Terraform)</br>
-┃   ┃   ┃       ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Terraform/local%20variable이란.md)</br>
-┃   ┃   ┃       ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Terraform/variable이란.md)</br>
+┃   ┃   ┃   ┗━ [📁 340. Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Linux)</br>
+┃   ┃   ┃   ┃   ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Linux/FileSystem이란.md)</br>
+┃   ┃   ┃   ┗━ [📁 350. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform)</br>
+┃   ┃   ┃   ┃   ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform/local%20variable이란.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform/variable이란.md)</br>
+┃   ┃   ┃   ┗━━━ [📁 360. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy)</br>
+┃   ┃   ┃       ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy%20기본%20개념.md)</br>
+┃   ┃   ┃       ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy의%20목적.md)</br>
+┃   ┃   ┃       ┗━ [Envoy란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy란?.md)</br>
+┃   ┃   ┃       ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
 ┃   ┃   ┗━ [📁 400. Git](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/400.%20Git)</br>
 ┃   ┃   ┃   ┗━━━ [Git이란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/400.%20Git/Git이란?.md)</br>
 ┃   ┃   ┗━ [📁 500. Network](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network)</br>
@@ -208,11 +213,16 @@ avg_file_length  : 135583
 ┃   ┃   ┃   ┃   ┗━ [StatefulSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/StatefulSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/etcd란.md)</br>
 ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/kubeadm이란.md)</br>
-┃   ┃   ┃   ┗━ [📁 Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Linux)</br>
-┃   ┃   ┃   ┃   ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Linux/FileSystem이란.md)</br>
-┃   ┃   ┃   ┗━━━ [📁 Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Terraform)</br>
-┃   ┃   ┃       ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Terraform/local%20variable이란.md)</br>
-┃   ┃   ┃       ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/Terraform/variable이란.md)</br>
+┃   ┃   ┃   ┗━ [📁 340. Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Linux)</br>
+┃   ┃   ┃   ┃   ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Linux/FileSystem이란.md)</br>
+┃   ┃   ┃   ┗━ [📁 350. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform)</br>
+┃   ┃   ┃   ┃   ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform/local%20variable이란.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform/variable이란.md)</br>
+┃   ┃   ┃   ┗━━━ [📁 360. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy)</br>
+┃   ┃   ┃       ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy%20기본%20개념.md)</br>
+┃   ┃   ┃       ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy의%20목적.md)</br>
+┃   ┃   ┃       ┗━ [Envoy란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy란?.md)</br>
+┃   ┃   ┃       ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
 ┃   ┃   ┗━ [📁 400. Git](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/400.%20Git)</br>
 ┃   ┃   ┃   ┗━━━ [Git이란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/400.%20Git/Git이란?.md)</br>
 ┃   ┃   ┗━ [📁 500. Network](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network)</br>

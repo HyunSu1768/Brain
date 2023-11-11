@@ -3,3 +3,4 @@
 #300-DevOps/330-Kubernetes
 #300-DevOps/340-Linux
 #300-DevOps/350-Terraform
+#300-DevOps/360-Envoy
