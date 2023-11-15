@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 94
+files            : 100
 
-derectories      : 50
+derectories      : 58
 
-avg_file_length  : 129816
+avg_file_length  : 122040
 
 ```
 ./Brain</br>
@@ -45,49 +45,62 @@ avg_file_length  : 129816
 ┃   ┃   ┃   ┗━ [FK,PK란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database/FK,PK란.md)</br>
 ┃   ┃   ┃   ┗━━━ [VO란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database/VO란.md)</br>
 ┃   ┃   ┗━ [📁 300. DevOps](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps)</br>
-┃   ┃   ┃   ┗━ [📁 310. AWS](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20AWS)</br>
-┃   ┃   ┃   ┃   ┗━ [AWS BedRock이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20AWS/AWS%20BedRock이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [AWS CodeCommit이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20AWS/AWS%20CodeCommit이란.md)</br>
-┃   ┃   ┃   ┃   ┗━━━ [Application Composer란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20AWS/Application%20Composer란.md)</br>
-┃   ┃   ┃   ┗━ [📁 320. Docker](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Docker)</br>
-┃   ┃   ┃   ┃   ┗━━━ [Docker란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Docker/Docker란.md)</br>
-┃   ┃   ┃   ┗━ [📁 330. Kubernetes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes)</br>
-┃   ┃   ┃   ┃   ┗━ [📁 exmaples](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples)</br>
-┃   ┃   ┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
-┃   ┃   ┃   ┃   ┃   ┗━ [Pod 사용 예시](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/Pod%20사용%20예시.md)</br>
-┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
-┃   ┃   ┃   ┃   ┗━ [ABAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/ABAC란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [API Server의 주요 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/API%20Server의%20주요%20기능.md)</br>
-┃   ┃   ┃   ┃   ┗━ [API Server란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/API%20Server란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Control Plane의 구성요소](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Control%20Plane의%20구성요소.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Control%20Plane란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Controller%20Manager란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Deployment란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Helm란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Kubelet이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Kubernetes%20Pattern이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Kubernetes란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Master Node란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Master%20Node란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Node%20Agent란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Pod란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/RBAC란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/ReplicaSet이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Replication%20Controller란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Scheduler란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [StatefulSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/StatefulSet이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/etcd란.md)</br>
-┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/kubeadm이란.md)</br>
-┃   ┃   ┃   ┗━ [📁 340. Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Linux)</br>
-┃   ┃   ┃   ┃   ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Linux/FileSystem이란.md)</br>
-┃   ┃   ┃   ┗━ [📁 350. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform)</br>
-┃   ┃   ┃   ┃   ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform/local%20variable이란.md)</br>
-┃   ┃   ┃   ┃   ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform/variable이란.md)</br>
-┃   ┃   ┃   ┗━━━ [📁 360. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy)</br>
-┃   ┃   ┃       ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy%20기본%20개념.md)</br>
-┃   ┃   ┃       ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy의%20목적.md)</br>
-┃   ┃   ┃       ┗━ [Envoy란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy란?.md)</br>
-┃   ┃   ┃       ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
+┃   ┃   ┃   ┗━ [📁 310. Cloud Flatform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 311. AWS](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform/311.%20AWS)</br>
+┃   ┃   ┃   ┃       ┗━ [AWS BedRock이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform/311.%20AWS/AWS%20BedRock이란.md)</br>
+┃   ┃   ┃   ┃       ┗━ [AWS CodeCommit이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform/311.%20AWS/AWS%20CodeCommit이란.md)</br>
+┃   ┃   ┃   ┃       ┗━━━ [Application Composer란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform/311.%20AWS/Application%20Composer란.md)</br>
+┃   ┃   ┃   ┗━ [📁 320. Container & Orchestration](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration)</br>
+┃   ┃   ┃   ┃   ┗━ [📁 321. Docker](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Docker)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [Docker란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Docker/Docker란.md)</br>
+┃   ┃   ┃   ┃   ┗━ [📁 321. Kubernetes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [📁 exmaples](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━ [Pod 사용 예시](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/Pod%20사용%20예시.md)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ABAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ABAC란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [API Server의 주요 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/API%20Server의%20주요%20기능.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [API Server란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/API%20Server란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Control Plane의 구성요소](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Control%20Plane의%20구성요소.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Control%20Plane란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Deployment란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Helm란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubelet이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes%20Pattern이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Master Node란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Master%20Node란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20Agent란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Pod란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/RBAC란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [StatefulSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/StatefulSet이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/etcd란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 322. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy)</br>
+┃   ┃   ┃   ┃       ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy%20기본%20개념.md)</br>
+┃   ┃   ┃   ┃       ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy의%20목적.md)</br>
+┃   ┃   ┃   ┃       ┗━ [Envoy란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy란?.md)</br>
+┃   ┃   ┃   ┃       ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
+┃   ┃   ┃   ┗━ [📁 330. Operating System](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 331. Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux)</br>
+┃   ┃   ┃   ┃       ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux/FileSystem이란.md)</br>
+┃   ┃   ┃   ┗━ [📁 340. Provisioning](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 341. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform)</br>
+┃   ┃   ┃   ┃       ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/local%20variable이란.md)</br>
+┃   ┃   ┃   ┃       ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/variable이란.md)</br>
+┃   ┃   ┃   ┗━━━ [📁 350. Monitoring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring)</br>
+┃   ┃   ┃       ┗━ [📁 351. Datadog](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/351.%20Datadog)</br>
+┃   ┃   ┃       ┃   ┗━ [Datadog Agent이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/351.%20Datadog/Datadog%20Agent이란.md)</br>
+┃   ┃   ┃       ┃   ┗━ [Datadog Integration이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/351.%20Datadog/Datadog%20Integration이란.md)</br>
+┃   ┃   ┃       ┃   ┗━━━ [Datadog 이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/351.%20Datadog/Datadog%20이란.md)</br>
+┃   ┃   ┃       ┗━━━ [📁 352. Fluentd](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/352.%20Fluentd)</br>
+┃   ┃   ┃           ┗━ [Fluentd 로그 수집 아키텍처](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/352.%20Fluentd/Fluentd%20로그%20수집%20아키텍처.md)</br>
+┃   ┃   ┃           ┗━ [Fluentd를 써야하는 이유](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/352.%20Fluentd/Fluentd를%20써야하는%20이유.md)</br>
+┃   ┃   ┃           ┗━━━ [Fluentd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/352.%20Fluentd/Fluentd란.md)</br>
 ┃   ┃   ┗━ [📁 400. Git](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/400.%20Git)</br>
 ┃   ┃   ┃   ┗━━━ [Git이란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/400.%20Git/Git이란?.md)</br>
 ┃   ┃   ┗━ [📁 500. Network](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network)</br>
@@ -134,6 +147,7 @@ avg_file_length  : 129816
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
+┗━ [📁 Monitoring](./Monitoring)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
 ┗━ [100 Algorithm](./100%20Algorithm.md)</br>
 ┗━ [200 Database](./200%20Database.md)</br>
@@ -180,49 +194,62 @@ avg_file_length  : 129816
 ┃   ┃   ┃   ┗━ [FK,PK란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database/FK,PK란.md)</br>
 ┃   ┃   ┃   ┗━━━ [VO란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database/VO란.md)</br>
 ┃   ┃   ┗━ [📁 300. DevOps](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps)</br>
-┃   ┃   ┃   ┗━ [📁 310. AWS](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20AWS)</br>
-┃   ┃   ┃   ┃   ┗━ [AWS BedRock이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20AWS/AWS%20BedRock이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [AWS CodeCommit이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20AWS/AWS%20CodeCommit이란.md)</br>
-┃   ┃   ┃   ┃   ┗━━━ [Application Composer란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20AWS/Application%20Composer란.md)</br>
-┃   ┃   ┃   ┗━ [📁 320. Docker](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Docker)</br>
-┃   ┃   ┃   ┃   ┗━━━ [Docker란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Docker/Docker란.md)</br>
-┃   ┃   ┃   ┗━ [📁 330. Kubernetes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes)</br>
-┃   ┃   ┃   ┃   ┗━ [📁 exmaples](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples)</br>
-┃   ┃   ┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
-┃   ┃   ┃   ┃   ┃   ┗━ [Pod 사용 예시](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/Pod%20사용%20예시.md)</br>
-┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
-┃   ┃   ┃   ┃   ┗━ [ABAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/ABAC란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [API Server의 주요 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/API%20Server의%20주요%20기능.md)</br>
-┃   ┃   ┃   ┃   ┗━ [API Server란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/API%20Server란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Control Plane의 구성요소](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Control%20Plane의%20구성요소.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Control%20Plane란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Controller%20Manager란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Deployment란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Helm란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Kubelet이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Kubernetes%20Pattern이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Kubernetes란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Master Node란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Master%20Node란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Node%20Agent란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Pod란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/RBAC란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/ReplicaSet이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Replication%20Controller란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/Scheduler란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [StatefulSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/StatefulSet이란.md)</br>
-┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/etcd란.md)</br>
-┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Kubernetes/kubeadm이란.md)</br>
-┃   ┃   ┃   ┗━ [📁 340. Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Linux)</br>
-┃   ┃   ┃   ┃   ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Linux/FileSystem이란.md)</br>
-┃   ┃   ┃   ┗━ [📁 350. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform)</br>
-┃   ┃   ┃   ┃   ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform/local%20variable이란.md)</br>
-┃   ┃   ┃   ┃   ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Terraform/variable이란.md)</br>
-┃   ┃   ┃   ┗━━━ [📁 360. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy)</br>
-┃   ┃   ┃       ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy%20기본%20개념.md)</br>
-┃   ┃   ┃       ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy의%20목적.md)</br>
-┃   ┃   ┃       ┗━ [Envoy란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Envoy란?.md)</br>
-┃   ┃   ┃       ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/360.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
+┃   ┃   ┃   ┗━ [📁 310. Cloud Flatform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 311. AWS](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform/311.%20AWS)</br>
+┃   ┃   ┃   ┃       ┗━ [AWS BedRock이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform/311.%20AWS/AWS%20BedRock이란.md)</br>
+┃   ┃   ┃   ┃       ┗━ [AWS CodeCommit이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform/311.%20AWS/AWS%20CodeCommit이란.md)</br>
+┃   ┃   ┃   ┃       ┗━━━ [Application Composer란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/310.%20Cloud%20Flatform/311.%20AWS/Application%20Composer란.md)</br>
+┃   ┃   ┃   ┗━ [📁 320. Container & Orchestration](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration)</br>
+┃   ┃   ┃   ┃   ┗━ [📁 321. Docker](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Docker)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [Docker란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Docker/Docker란.md)</br>
+┃   ┃   ┃   ┃   ┗━ [📁 321. Kubernetes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [📁 exmaples](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━ [Pod 사용 예시](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/Pod%20사용%20예시.md)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ABAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ABAC란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [API Server의 주요 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/API%20Server의%20주요%20기능.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [API Server란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/API%20Server란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Control Plane의 구성요소](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Control%20Plane의%20구성요소.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Control%20Plane란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Deployment란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Helm란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubelet이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes%20Pattern이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Master Node란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Master%20Node란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20Agent란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Pod란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/RBAC란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [StatefulSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/StatefulSet이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/etcd란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 322. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy)</br>
+┃   ┃   ┃   ┃       ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy%20기본%20개념.md)</br>
+┃   ┃   ┃   ┃       ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy의%20목적.md)</br>
+┃   ┃   ┃   ┃       ┗━ [Envoy란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy란?.md)</br>
+┃   ┃   ┃   ┃       ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
+┃   ┃   ┃   ┗━ [📁 330. Operating System](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 331. Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux)</br>
+┃   ┃   ┃   ┃       ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux/FileSystem이란.md)</br>
+┃   ┃   ┃   ┗━ [📁 340. Provisioning](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 341. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform)</br>
+┃   ┃   ┃   ┃       ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/local%20variable이란.md)</br>
+┃   ┃   ┃   ┃       ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/variable이란.md)</br>
+┃   ┃   ┃   ┗━━━ [📁 350. Monitoring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring)</br>
+┃   ┃   ┃       ┗━ [📁 351. Datadog](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/351.%20Datadog)</br>
+┃   ┃   ┃       ┃   ┗━ [Datadog Agent이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/351.%20Datadog/Datadog%20Agent이란.md)</br>
+┃   ┃   ┃       ┃   ┗━ [Datadog Integration이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/351.%20Datadog/Datadog%20Integration이란.md)</br>
+┃   ┃   ┃       ┃   ┗━━━ [Datadog 이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/351.%20Datadog/Datadog%20이란.md)</br>
+┃   ┃   ┃       ┗━━━ [📁 352. Fluentd](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/352.%20Fluentd)</br>
+┃   ┃   ┃           ┗━ [Fluentd 로그 수집 아키텍처](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/352.%20Fluentd/Fluentd%20로그%20수집%20아키텍처.md)</br>
+┃   ┃   ┃           ┗━ [Fluentd를 써야하는 이유](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/352.%20Fluentd/Fluentd를%20써야하는%20이유.md)</br>
+┃   ┃   ┃           ┗━━━ [Fluentd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring/352.%20Fluentd/Fluentd란.md)</br>
 ┃   ┃   ┗━ [📁 400. Git](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/400.%20Git)</br>
 ┃   ┃   ┃   ┗━━━ [Git이란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/400.%20Git/Git이란?.md)</br>
 ┃   ┃   ┗━ [📁 500. Network](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/500.%20Network)</br>
@@ -269,6 +296,7 @@ avg_file_length  : 129816
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
+┗━ [📁 Monitoring](./Monitoring)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
 ┗━ [100 Algorithm](./100%20Algorithm.md)</br>
 ┗━ [200 Database](./200%20Database.md)</br>
