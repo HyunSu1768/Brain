@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 100
+files            : 101
 
 derectories      : 58
 
-avg_file_length  : 122037
+avg_file_length  : 120823
 
 ```
 ./Brain</br>
@@ -144,6 +144,7 @@ avg_file_length  : 122037
 ┃   ┃       ┗━ [Transaction](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/Transaction.md)</br>
 ┃   ┃       ┗━━━ [jpa](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/jpa.md)</br>
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
+┃   ┃   ┗━━━ [개발자에게 인프라를 제공하는 방법](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/개발자에게%20인프라를%20제공하는%20방법.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
@@ -293,6 +294,7 @@ avg_file_length  : 122037
 ┃   ┃       ┗━ [Transaction](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/Transaction.md)</br>
 ┃   ┃       ┗━━━ [jpa](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/jpa.md)</br>
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
+┃   ┃   ┗━━━ [개발자에게 인프라를 제공하는 방법](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/개발자에게%20인프라를%20제공하는%20방법.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
