@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 101
+files            : 103
 
-derectories      : 58
+derectories      : 60
 
-avg_file_length  : 120823
+avg_file_length  : 118472
 
 ```
 ./Brain</br>
@@ -32,7 +32,10 @@ avg_file_length  : 120823
 ┗━ [📁 4. Daily Notes](./4.%20Daily%20Notes)</br>
 ┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
 ┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
+┃   ┃   ┗━ [📁 000. Language](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language)</br>
+┃   ┃   ┃   ┗━━━ [📁 010. Go](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/010.%20Go)</br>
 ┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm)</br>
+┃   ┃   ┃   ┗━ [BOJ 3197](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/BOJ%203197.md)</br>
 ┃   ┃   ┃   ┗━ [이진 트리란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/이진%20트리란.md)</br>
 ┃   ┃   ┃   ┗━ [중복값 제거 하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/중복값%20제거%20하는법.md)</br>
 ┃   ┃   ┃   ┗━ [모듈러 연산](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/모듈러%20연산.md)</br>
@@ -147,7 +150,8 @@ avg_file_length  : 120823
 ┃   ┃   ┗━━━ [개발자에게 인프라를 제공하는 방법](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/개발자에게%20인프라를%20제공하는%20방법.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
-┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
+┃   ┗━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
+┃   ┗━━━ [000 Language](./5.%20Zettel%20Kasten/000%20Language.md)</br>
 ┗━ [📁 Monitoring](./Monitoring)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
 ┗━ [100 Algorithm](./100%20Algorithm.md)</br>
@@ -182,7 +186,10 @@ avg_file_length  : 120823
 ┗━ [📁 4. Daily Notes](./4.%20Daily%20Notes)</br>
 ┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
 ┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
+┃   ┃   ┗━ [📁 000. Language](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language)</br>
+┃   ┃   ┃   ┗━━━ [📁 010. Go](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/010.%20Go)</br>
 ┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm)</br>
+┃   ┃   ┃   ┗━ [BOJ 3197](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/BOJ%203197.md)</br>
 ┃   ┃   ┃   ┗━ [이진 트리란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/이진%20트리란.md)</br>
 ┃   ┃   ┃   ┗━ [중복값 제거 하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/중복값%20제거%20하는법.md)</br>
 ┃   ┃   ┃   ┗━ [모듈러 연산](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/모듈러%20연산.md)</br>
@@ -297,7 +304,8 @@ avg_file_length  : 120823
 ┃   ┃   ┗━━━ [개발자에게 인프라를 제공하는 방법](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/개발자에게%20인프라를%20제공하는%20방법.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
-┃   ┗━━━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
+┃   ┗━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
+┃   ┗━━━ [000 Language](./5.%20Zettel%20Kasten/000%20Language.md)</br>
 ┗━ [📁 Monitoring](./Monitoring)</br>
 ┗━ [📁 +autocommit.sh](./+autocommit.sh)</br>
 ┗━ [100 Algorithm](./100%20Algorithm.md)</br>
