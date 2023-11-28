@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 103
+files            : 105
 
 derectories      : 60
 
-avg_file_length  : 118471
+avg_file_length  : 116220
 
 ```
 ./Brain</br>
@@ -93,6 +93,8 @@ avg_file_length  : 118471
 ┃   ┃   ┃   ┃       ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux/FileSystem이란.md)</br>
 ┃   ┃   ┃   ┗━ [📁 340. Provisioning](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning)</br>
 ┃   ┃   ┃   ┃   ┗━━━ [📁 341. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform)</br>
+┃   ┃   ┃   ┃       ┗━ [Count란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/Count란.md)</br>
+┃   ┃   ┃   ┃       ┗━ [Output이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/Output이란.md)</br>
 ┃   ┃   ┃   ┃       ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/local%20variable이란.md)</br>
 ┃   ┃   ┃   ┃       ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/variable이란.md)</br>
 ┃   ┃   ┃   ┗━━━ [📁 350. Monitoring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring)</br>
@@ -247,6 +249,8 @@ avg_file_length  : 118471
 ┃   ┃   ┃   ┃       ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux/FileSystem이란.md)</br>
 ┃   ┃   ┃   ┗━ [📁 340. Provisioning](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning)</br>
 ┃   ┃   ┃   ┃   ┗━━━ [📁 341. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform)</br>
+┃   ┃   ┃   ┃       ┗━ [Count란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/Count란.md)</br>
+┃   ┃   ┃   ┃       ┗━ [Output이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/Output이란.md)</br>
 ┃   ┃   ┃   ┃       ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/local%20variable이란.md)</br>
 ┃   ┃   ┃   ┃       ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/variable이란.md)</br>
 ┃   ┃   ┃   ┗━━━ [📁 350. Monitoring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring)</br>

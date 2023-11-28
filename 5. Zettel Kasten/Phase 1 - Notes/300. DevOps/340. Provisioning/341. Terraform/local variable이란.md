@@ -1,13 +1,16 @@
 ---
-aliases: 
+aliases:
+  - Terraform
 tags:
+  - 완료
+  - 문헌메모
 ---
 
 
 ---
 
 
-Source :
+Source : 테라폼으로 시작하는 IaC
 Author : 
 URL :
 
