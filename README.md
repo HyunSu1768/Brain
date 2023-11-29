@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 105
+files            : 108
 
 derectories      : 60
 
-avg_file_length  : 116220
+avg_file_length  : 112997
 
 ```
 ./Brain</br>
@@ -77,6 +77,8 @@ avg_file_length  : 116220
 ┃   ┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20Agent란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Pod란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/RBAC란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet의 작동방식](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet의%20작동방식.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet삭제 시 RelicaSet만 삭제하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet삭제%20시%20RelicaSet만%20삭제하는법.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
@@ -95,6 +97,7 @@ avg_file_length  : 116220
 ┃   ┃   ┃   ┃   ┗━━━ [📁 341. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform)</br>
 ┃   ┃   ┃   ┃       ┗━ [Count란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/Count란.md)</br>
 ┃   ┃   ┃   ┃       ┗━ [Output이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/Output이란.md)</br>
+┃   ┃   ┃   ┃       ┗━ [for_each란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/for_each란.md)</br>
 ┃   ┃   ┃   ┃       ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/local%20variable이란.md)</br>
 ┃   ┃   ┃   ┃       ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/variable이란.md)</br>
 ┃   ┃   ┃   ┗━━━ [📁 350. Monitoring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring)</br>
@@ -233,6 +236,8 @@ avg_file_length  : 116220
 ┃   ┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20Agent란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Pod란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/RBAC란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet의 작동방식](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet의%20작동방식.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet삭제 시 RelicaSet만 삭제하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet삭제%20시%20RelicaSet만%20삭제하는법.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
@@ -251,6 +256,7 @@ avg_file_length  : 116220
 ┃   ┃   ┃   ┃   ┗━━━ [📁 341. Terraform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform)</br>
 ┃   ┃   ┃   ┃       ┗━ [Count란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/Count란.md)</br>
 ┃   ┃   ┃   ┃       ┗━ [Output이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/Output이란.md)</br>
+┃   ┃   ┃   ┃       ┗━ [for_each란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/for_each란.md)</br>
 ┃   ┃   ┃   ┃       ┗━ [local variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/local%20variable이란.md)</br>
 ┃   ┃   ┃   ┃       ┗━━━ [variable이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/340.%20Provisioning/341.%20Terraform/variable이란.md)</br>
 ┃   ┃   ┃   ┗━━━ [📁 350. Monitoring](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/350.%20Monitoring)</br>

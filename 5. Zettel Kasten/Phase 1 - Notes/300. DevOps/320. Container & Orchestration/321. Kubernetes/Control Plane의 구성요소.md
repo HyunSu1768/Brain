@@ -1,7 +1,9 @@
 ---
 aliases:
-  - K
+  - Kubernetes
 tags:
+  - 완료
+  - 문헌메모
 ---
 
 

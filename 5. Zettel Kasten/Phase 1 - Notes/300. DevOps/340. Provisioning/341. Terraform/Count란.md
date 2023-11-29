@@ -19,7 +19,7 @@ URL :
 - count에서 생성되는 참조값은 count.index로 index는 0부터 시작해 1씩 증가한다.
 
 ### Link of Thoughts
-Area :
+Area : #300-DevOps/340-Provisioning 
 
 Keywords :
 - 

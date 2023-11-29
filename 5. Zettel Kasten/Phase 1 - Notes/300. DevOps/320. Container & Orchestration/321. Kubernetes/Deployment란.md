@@ -3,7 +3,7 @@ aliases:
   - Kubernetes
 tags:
   - 문헌메모
-  - 진행중
+  - 완료
 ---
 
 
