@@ -15,10 +15,10 @@ Author :
 URL : https://kubernetes.io/ko/docs/concepts/workloads/controllers/replicaset/
 
 ## ReplicaSet만 삭제하는법
-- kubectl delete 옵션에 --cascade=orphan
+- kubectl delete 옵션에 --cascade=orphan 옵션을 사용하면 파드에 영향을 주지 않고 ReplicaSet만 삭제할 수 있음
 
 ### Link of Thoughts
-Area :
+Area : #300-DevOps/320-Container-Orchestration 
 
 Keywords :
 - 

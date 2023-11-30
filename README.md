@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 108
+files            : 110
 
 derectories      : 60
 
-avg_file_length  : 112997
+avg_file_length  : 110906
 
 ```
 ./Brain</br>
@@ -77,8 +77,10 @@ avg_file_length  : 112997
 ┃   ┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20Agent란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Pod란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/RBAC란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet의 Scaling](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet의%20Scaling.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet의 작동방식](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet의%20작동방식.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet삭제 시 RelicaSet만 삭제하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet삭제%20시%20RelicaSet만%20삭제하는법.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet에서 파드를 격리하는 방법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet에서%20파드를%20격리하는%20방법.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
@@ -236,8 +238,10 @@ avg_file_length  : 112997
 ┃   ┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20Agent란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Pod란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/RBAC란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet의 Scaling](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet의%20Scaling.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet의 작동방식](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet의%20작동방식.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet삭제 시 RelicaSet만 삭제하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet삭제%20시%20RelicaSet만%20삭제하는법.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet에서 파드를 격리하는 방법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet에서%20파드를%20격리하는%20방법.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
