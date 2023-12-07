@@ -1,6 +1,9 @@
 ---
-aliases: 
+aliases:
+  - Kubernetes
 tags:
+  - 문헌메모
+  - 완료
 ---
 
 

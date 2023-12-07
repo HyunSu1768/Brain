@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 110
+files            : 112
 
 derectories      : 60
 
-avg_file_length  : 110905
+avg_file_length  : 108926
 
 ```
 ./Brain</br>
@@ -68,6 +68,8 @@ avg_file_length  : 110905
 ┃   ┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Control%20Plane란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet의 사용 용도](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet의%20사용%20용도.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Deployment란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Helm란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubelet이란.md)</br>
@@ -229,6 +231,8 @@ avg_file_length  : 110905
 ┃   ┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Control%20Plane란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet의 사용 용도](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet의%20사용%20용도.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Deployment란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Helm란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubelet이란.md)</br>
