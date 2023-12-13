@@ -170,8 +170,7 @@ avg_file_length  : 108925
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
 ┗━ [README](./README.md)</br>
-┗━ [Replication Controller](./Replication%20Controller.md)</br>
-┗━━━ [📁 XXIQ2Z1m](./XXIQ2Z1m)</br>
+┗━━━ [Replication Controller](./Replication%20Controller.md)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
 ┃   ┗━ [📁 010. etc](./0.%20Knowledge%20Warehouse/010.%20etc)</br>
@@ -334,7 +333,6 @@ avg_file_length  : 108925
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
 ┗━ [README](./README.md)</br>
-┗━ [Replication Controller](./Replication%20Controller.md)</br>
-┗━━━ [📁 XXIQ2Z1m](./XXIQ2Z1m)</br>
+┗━━━ [Replication Controller](./Replication%20Controller.md)</br>
 
 
