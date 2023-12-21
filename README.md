@@ -333,7 +333,6 @@ avg_file_length  : 108925
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
 ┗━ [README](./README.md)</br>
-┗━ [Replication Controller](./Replication%20Controller.md)</br>
-┗━━━ [📁 XXuqypiy](./XXuqypiy)</br>
+┗━━━ [Replication Controller](./Replication%20Controller.md)</br>
 
 
