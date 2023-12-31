@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 114
+files            : 139
 
-derectories      : 60
+derectories      : 62
 
-avg_file_length  : 107015
+avg_file_length  : 87742
 
 ```
 ./Brain</br>
@@ -33,6 +33,26 @@ avg_file_length  : 107015
 ┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
 ┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
 ┃   ┃   ┗━ [📁 000. Language](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language)</br>
+┃   ┃   ┃   ┗━ [📁 000. English](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English)</br>
+┃   ┃   ┃   ┃   ┗━ [Aggregate](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Aggregate.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Compose](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Compose.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Consist](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Consist.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Distribute](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Distribute.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Efficient](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Efficient.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Enforce](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Enforce.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Enhance](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Enhance.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Ingest](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Ingest.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Issuance](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Issuance.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Operate](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Operate.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Response](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Response.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Resume](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Resume.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Simple](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Simple.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Specify](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Specify.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Suspend](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Suspend.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Telemetry](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Telemetry.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Track](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Track.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Transparent](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Transparent.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [Uniform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Uniform.md)</br>
 ┃   ┃   ┃   ┗━━━ [📁 010. Go](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/010.%20Go)</br>
 ┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm)</br>
 ┃   ┃   ┃   ┗━ [BOJ 3197](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/BOJ%203197.md)</br>
@@ -72,6 +92,7 @@ avg_file_length  : 107015
 ┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Deployment란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Helm란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Job이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Job이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubelet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes%20Pattern이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes란.md)</br>
@@ -91,11 +112,15 @@ avg_file_length  : 107015
 ┃   ┃   ┃   ┃   ┃   ┗━ [Workload란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Workload란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/etcd란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
-┃   ┃   ┃   ┃   ┗━━━ [📁 322. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy)</br>
-┃   ┃   ┃   ┃       ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy%20기본%20개념.md)</br>
-┃   ┃   ┃   ┃       ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy의%20목적.md)</br>
-┃   ┃   ┃   ┃       ┗━ [Envoy란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy란?.md)</br>
-┃   ┃   ┃   ┃       ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
+┃   ┃   ┃   ┃   ┗━ [📁 322. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy%20기본%20개념.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy의%20목적.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Envoy란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 323. Istio](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/323.%20Istio)</br>
+┃   ┃   ┃   ┃       ┗━ [Istio Operator란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/323.%20Istio/Istio%20Operator란.md)</br>
+┃   ┃   ┃   ┃       ┗━ [Istiod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/323.%20Istio/Istiod란.md)</br>
+┃   ┃   ┃   ┃       ┗━━━ [Istio란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/323.%20Istio/Istio란.md)</br>
 ┃   ┃   ┃   ┗━ [📁 330. Operating System](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System)</br>
 ┃   ┃   ┃   ┃   ┗━━━ [📁 331. Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux)</br>
 ┃   ┃   ┃   ┃       ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux/FileSystem이란.md)</br>
@@ -172,7 +197,9 @@ avg_file_length  : 107015
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
 ┗━ [README](./README.md)</br>
-┗━━━ [Replication Controller](./Replication%20Controller.md)</br>
+┗━ [Replication Controller](./Replication%20Controller.md)</br>
+┗━ [Untitled 1](./Untitled%201.md)</br>
+┗━━━ [Untitled](./Untitled.md)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
 ┃   ┗━ [📁 010. etc](./0.%20Knowledge%20Warehouse/010.%20etc)</br>
@@ -198,6 +225,26 @@ avg_file_length  : 107015
 ┗━ [📁 5. Zettel Kasten](./5.%20Zettel%20Kasten)</br>
 ┃   ┗━ [📁 Phase 1 ━ Notes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes)</br>
 ┃   ┃   ┗━ [📁 000. Language](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language)</br>
+┃   ┃   ┃   ┗━ [📁 000. English](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English)</br>
+┃   ┃   ┃   ┃   ┗━ [Aggregate](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Aggregate.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Compose](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Compose.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Consist](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Consist.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Distribute](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Distribute.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Efficient](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Efficient.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Enforce](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Enforce.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Enhance](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Enhance.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Ingest](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Ingest.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Issuance](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Issuance.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Operate](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Operate.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Response](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Response.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Resume](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Resume.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Simple](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Simple.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Specify](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Specify.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Suspend](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Suspend.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Telemetry](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Telemetry.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Track](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Track.md)</br>
+┃   ┃   ┃   ┃   ┗━ [Transparent](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Transparent.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [Uniform](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Uniform.md)</br>
 ┃   ┃   ┃   ┗━━━ [📁 010. Go](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/010.%20Go)</br>
 ┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm)</br>
 ┃   ┃   ┃   ┗━ [BOJ 3197](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/BOJ%203197.md)</br>
@@ -237,6 +284,7 @@ avg_file_length  : 107015
 ┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Deployment란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Helm란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Job이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Job이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubelet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes%20Pattern이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes란.md)</br>
@@ -256,11 +304,15 @@ avg_file_length  : 107015
 ┃   ┃   ┃   ┃   ┃   ┗━ [Workload란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Workload란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/etcd란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
-┃   ┃   ┃   ┃   ┗━━━ [📁 322. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy)</br>
-┃   ┃   ┃   ┃       ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy%20기본%20개념.md)</br>
-┃   ┃   ┃   ┃       ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy의%20목적.md)</br>
-┃   ┃   ┃   ┃       ┗━ [Envoy란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy란?.md)</br>
-┃   ┃   ┃   ┃       ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
+┃   ┃   ┃   ┃   ┗━ [📁 322. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy%20기본%20개념.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy의%20목적.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Envoy란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [Reverse Proxy가 제공하는 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Reverse%20Proxy가%20제공하는%20기능.md)</br>
+┃   ┃   ┃   ┃   ┗━━━ [📁 323. Istio](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/323.%20Istio)</br>
+┃   ┃   ┃   ┃       ┗━ [Istio Operator란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/323.%20Istio/Istio%20Operator란.md)</br>
+┃   ┃   ┃   ┃       ┗━ [Istiod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/323.%20Istio/Istiod란.md)</br>
+┃   ┃   ┃   ┃       ┗━━━ [Istio란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/323.%20Istio/Istio란.md)</br>
 ┃   ┃   ┃   ┗━ [📁 330. Operating System](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System)</br>
 ┃   ┃   ┃   ┃   ┗━━━ [📁 331. Linux](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux)</br>
 ┃   ┃   ┃   ┃       ┗━━━ [FileSystem이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/330.%20Operating%20System/331.%20Linux/FileSystem이란.md)</br>
@@ -337,6 +389,8 @@ avg_file_length  : 107015
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
 ┗━ [README](./README.md)</br>
-┗━━━ [Replication Controller](./Replication%20Controller.md)</br>
+┗━ [Replication Controller](./Replication%20Controller.md)</br>
+┗━ [Untitled 1](./Untitled%201.md)</br>
+┗━━━ [Untitled](./Untitled.md)</br>
 
 
