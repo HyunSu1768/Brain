@@ -12,7 +12,7 @@ tags:
 
 Source :
 Author : 
-URL :
+URL : 뭄샤드 아저씨의 강의
 
 # Kubelet
 ![[Pasted image 20231029221641.png]]
@@ -20,7 +20,8 @@ URL :
 - [API Server란](API%20Server란.md)와 통신한다.
 - Worker Node가 배라면 kubelet은 선장이다.
 - 노드에서 컨테이너가 동작하도록 관리해 주는 핵심 요소
-
+- 워커노드의 에이전트이다.
+- 주기적으로 container의 상태를 API Server에 보고함
 ## 작동방식
 1. 쿠버네티스 파드를 관리하기 위해 YAML을 작성한다.
 2. kubectl 명령어를 통해 해당 명령을 쿠버네티스 클러스터에 적용한다.
@@ -40,5 +41,7 @@ Keywords :
 - 
 
 Related Notes : 
-- 
+- [[Control Plane란]]
+- [[API Server란]]
+- [[Node Agent란]]
 
