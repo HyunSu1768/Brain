@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 153
+files            : 151
 
 derectories      : 62
 
-avg_file_length  : 79717
+avg_file_length  : 80779
 
 ```
 ./Brain</br>
@@ -107,6 +107,7 @@ avg_file_length  : 79717
 ┃   ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Helm란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Ingress란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Ingress란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Job이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Job이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Kube Proxy란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kube%20Proxy란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubelet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes%20Pattern이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes란.md)</br>
@@ -210,10 +211,7 @@ avg_file_length  : 79717
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
-┗━ [README](./README.md)</br>
-┗━ [Replication Controller](./Replication%20Controller.md)</br>
-┗━ [Untitled 1](./Untitled%201.md)</br>
-┗━━━ [Untitled](./Untitled.md)</br>
+┗━━━ [README](./README.md)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
 ┃   ┗━ [📁 010. etc](./0.%20Knowledge%20Warehouse/010.%20etc)</br>
@@ -313,6 +311,7 @@ avg_file_length  : 79717
 ┃   ┃   ┃   ┃   ┃   ┗━ [Helm란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Helm란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Ingress란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Ingress란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Job이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Job이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Kube Proxy란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kube%20Proxy란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubelet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubelet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes Pattern이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes%20Pattern이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes란.md)</br>
@@ -416,9 +415,6 @@ avg_file_length  : 79717
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
-┗━ [README](./README.md)</br>
-┗━ [Replication Controller](./Replication%20Controller.md)</br>
-┗━ [Untitled 1](./Untitled%201.md)</br>
-┗━━━ [Untitled](./Untitled.md)</br>
+┗━━━ [README](./README.md)</br>
 
 
