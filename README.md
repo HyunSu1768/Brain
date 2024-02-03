@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 154
+files            : 155
 
 derectories      : 62
 
-avg_file_length  : 79207
+avg_file_length  : 78684
 
 ```
 ./Brain</br>
@@ -123,6 +123,7 @@ avg_file_length  : 79207
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet에서 파드를 격리하는 방법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet에서%20파드를%20격리하는%20방법.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler 없이 노드에 파드 할당하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler%20없이%20노드에%20파드%20할당하기.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Service란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Service란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [StatefulSet의 사용](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/StatefulSet의%20사용.md)</br>
@@ -330,6 +331,7 @@ avg_file_length  : 79207
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet에서 파드를 격리하는 방법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet에서%20파드를%20격리하는%20방법.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ReplicaSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ReplicaSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler 없이 노드에 파드 할당하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler%20없이%20노드에%20파드%20할당하기.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Service란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Service란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [StatefulSet의 사용](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/StatefulSet의%20사용.md)</br>
