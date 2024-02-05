@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 155
+files            : 159
 
 derectories      : 62
 
-avg_file_length  : 78684
+avg_file_length  : 76703
 
 ```
 ./Brain</br>
@@ -114,6 +114,7 @@ avg_file_length  : 78684
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [LoadBalancer란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/LoadBalancer란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Master Node란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Master%20Node란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Node  Label이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20%20Label이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20Agent란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Pod란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/RBAC란.md)</br>
@@ -125,9 +126,11 @@ avg_file_length  : 78684
 ┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler 없이 노드에 파드 할당하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler%20없이%20노드에%20파드%20할당하기.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Secret envFrom 은 뭘까](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Secret%20envFrom%20은%20뭘까.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Service란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Service란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [StatefulSet의 사용](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/StatefulSet의%20사용.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [StatefulSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/StatefulSet이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Taint와 Toleration](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Taint와%20Toleration.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Workload란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Workload란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/etcd란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
@@ -215,7 +218,8 @@ avg_file_length  : 78684
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
-┗━━━ [README](./README.md)</br>
+┗━ [README](./README.md)</br>
+┗━━━ [Untitled](./Untitled.md)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
 ┃   ┗━ [📁 010. etc](./0.%20Knowledge%20Warehouse/010.%20etc)</br>
@@ -322,6 +326,7 @@ avg_file_length  : 78684
 ┃   ┃   ┃   ┃   ┃   ┗━ [Kubernetes란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Kubernetes란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [LoadBalancer란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/LoadBalancer란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Master Node란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Master%20Node란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Node  Label이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20%20Label이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Node Agent란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Node%20Agent란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Pod란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Pod란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [RBAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/RBAC란.md)</br>
@@ -333,9 +338,11 @@ avg_file_length  : 78684
 ┃   ┃   ┃   ┃   ┃   ┗━ [Replication Controller란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Replication%20Controller란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler 없이 노드에 파드 할당하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler%20없이%20노드에%20파드%20할당하기.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Scheduler란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Scheduler란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Secret envFrom 은 뭘까](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Secret%20envFrom%20은%20뭘까.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Service란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Service란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [StatefulSet의 사용](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/StatefulSet의%20사용.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [StatefulSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/StatefulSet이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Taint와 Toleration](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Taint와%20Toleration.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Workload란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Workload란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/etcd란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
@@ -423,6 +430,7 @@ avg_file_length  : 78684
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
-┗━━━ [README](./README.md)</br>
+┗━ [README](./README.md)</br>
+┗━━━ [Untitled](./Untitled.md)</br>
 
 
