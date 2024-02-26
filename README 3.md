@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 161
+files            : 159
 
 derectories      : 62
 
-avg_file_length  : 75753
+avg_file_length  : 76703
 
 ```
 ./Brain</br>
@@ -218,11 +218,8 @@ avg_file_length  : 75753
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
-┗━ [README 2](./README%202.md)</br>
-┗━ [README 3](./README%203.md)</br>
 ┗━ [README](./README.md)</br>
-┗━ [Untitled](./Untitled.md)</br>
-┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
+┗━━━ [Untitled](./Untitled.md)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
 ┃   ┗━ [📁 010. etc](./0.%20Knowledge%20Warehouse/010.%20etc)</br>
@@ -433,10 +430,7 @@ avg_file_length  : 75753
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
-┗━ [README 2](./README%202.md)</br>
-┗━ [README 3](./README%203.md)</br>
 ┗━ [README](./README.md)</br>
-┗━ [Untitled](./Untitled.md)</br>
-┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
+┗━━━ [Untitled](./Untitled.md)</br>
 
 
