@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 158
+files            : 161
 
 derectories      : 62
 
-avg_file_length  : 77191
+avg_file_length  : 75754
 
 ```
 ./Brain</br>
@@ -91,6 +91,9 @@ avg_file_length  : 77191
 ┃   ┃   ┃   ┃   ┃   ┗━━━ [Docker란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Docker/Docker란.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [📁 321. Kubernetes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [📁 exmaples](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━ [Pod 사용 예시](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/Pod%20사용%20예시.md)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ABAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ABAC란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [API Server의 주요 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/API%20Server의%20주요%20기능.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [API Server란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/API%20Server란.md)</br>
@@ -219,7 +222,6 @@ avg_file_length  : 77191
 ┗━ [README 3](./README%203.md)</br>
 ┗━ [README](./README.md)</br>
 ┗━ [Untitled](./Untitled.md)</br>
-┗━ [📁 XXjNPdqo](./XXjNPdqo)</br>
 ┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
@@ -304,6 +306,9 @@ avg_file_length  : 77191
 ┃   ┃   ┃   ┃   ┃   ┗━━━ [Docker란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Docker/Docker란.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [📁 321. Kubernetes](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [📁 exmaples](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━ [HPA 사용해서 AutoScaling 해보기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/HPA%20사용해서%20AutoScaling%20해보기.md)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━ [Pod 사용 예시](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/Pod%20사용%20예시.md)</br>
+┃   ┃   ┃   ┃   ┃   ┃   ┗━━━ [Spring Boot App 배포하기](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/exmaples/Spring%20Boot%20App%20배포하기.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [ABAC란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/ABAC란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [API Server의 주요 기능](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/API%20Server의%20주요%20기능.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [API Server란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/API%20Server란.md)</br>
@@ -432,7 +437,6 @@ avg_file_length  : 77191
 ┗━ [README 3](./README%203.md)</br>
 ┗━ [README](./README.md)</br>
 ┗━ [Untitled](./Untitled.md)</br>
-┗━ [📁 XXjNPdqo](./XXjNPdqo)</br>
 ┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
 
 
