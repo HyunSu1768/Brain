@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 161
+files            : 164
 
 derectories      : 62
 
-avg_file_length  : 75755
+avg_file_length  : 74374
 
 ```
 ./Brain</br>
@@ -133,7 +133,8 @@ avg_file_length  : 75755
 ┃   ┃   ┃   ┃   ┃   ┗━ [Taint와 Toleration](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Taint와%20Toleration.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Workload란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Workload란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/etcd란.md)</br>
-┃   ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [쿠버네티스의 장점](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/쿠버네티스의%20장점.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [📁 322. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy%20기본%20개념.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy의%20목적.md)</br>
@@ -205,8 +206,9 @@ avg_file_length  : 75755
 ┃   ┃       ┗━ [Transaction](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/Transaction.md)</br>
 ┃   ┃       ┗━━━ [jpa](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/jpa.md)</br>
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
-┃   ┃   ┗━━━ [개발자에게 인프라를 제공하는 방법](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/개발자에게%20인프라를%20제공하는%20방법.md)</br>
+┃   ┃   ┗━━━ [Kubernetes](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/Kubernetes.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
+┃   ┃   ┗━━━ [Kubernetes Controller가 Watch하는 리소스들이 많아진다면 그에대한 부하는 늘어날 것이다](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion/Kubernetes%20Controller가%20Watch하는%20리소스들이%20많아진다면%20그에대한%20부하는%20늘어날%20것이다.md)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
 ┃   ┗━━━ [000 Language](./5.%20Zettel%20Kasten/000%20Language.md)</br>
@@ -218,6 +220,7 @@ avg_file_length  : 75755
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
+┗━ [Kubernetes](./Kubernetes.md)</br>
 ┗━ [README 2](./README%202.md)</br>
 ┗━ [README 3](./README%203.md)</br>
 ┗━ [README](./README.md)</br>
@@ -348,7 +351,8 @@ avg_file_length  : 75755
 ┃   ┃   ┃   ┃   ┃   ┗━ [Taint와 Toleration](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Taint와%20Toleration.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Workload란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Workload란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [etcd란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/etcd란.md)</br>
-┃   ┃   ┃   ┃   ┃   ┗━━━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [kubeadm이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/kubeadm이란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━━━ [쿠버네티스의 장점](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/쿠버네티스의%20장점.md)</br>
 ┃   ┃   ┃   ┃   ┗━ [📁 322. Envoy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Envoy 기본 개념](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy%20기본%20개념.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Envoy의 목적](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/322.%20Envoy/Envoy의%20목적.md)</br>
@@ -420,8 +424,9 @@ avg_file_length  : 75755
 ┃   ┃       ┗━ [Transaction](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/Transaction.md)</br>
 ┃   ┃       ┗━━━ [jpa](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/700.%20JPA/jpa.md)</br>
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
-┃   ┃   ┗━━━ [개발자에게 인프라를 제공하는 방법](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/개발자에게%20인프라를%20제공하는%20방법.md)</br>
+┃   ┃   ┗━━━ [Kubernetes](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/Kubernetes.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
+┃   ┃   ┗━━━ [Kubernetes Controller가 Watch하는 리소스들이 많아진다면 그에대한 부하는 늘어날 것이다](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion/Kubernetes%20Controller가%20Watch하는%20리소스들이%20많아진다면%20그에대한%20부하는%20늘어날%20것이다.md)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
 ┃   ┗━━━ [000 Language](./5.%20Zettel%20Kasten/000%20Language.md)</br>
@@ -433,10 +438,12 @@ avg_file_length  : 75755
 ┗━ [400 Git](./400%20Git.md)</br>
 ┗━ [500 Network](./500%20Network.md)</br>
 ┗━ [600 Spring](./600%20Spring.md)</br>
+┗━ [Kubernetes](./Kubernetes.md)</br>
 ┗━ [README 2](./README%202.md)</br>
 ┗━ [README 3](./README%203.md)</br>
 ┗━ [README](./README.md)</br>
 ┗━ [Untitled](./Untitled.md)</br>
+┗━ [📁 XXTk9B9Z](./XXTk9B9Z)</br>
 ┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
 
 
