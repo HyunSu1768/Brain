@@ -1,16 +1,14 @@
 ---
-aliases:
-  - DevOps
+aliases: 
 tags:
-  - 진행중
 ---
 
 ---
 
-# 개발자에게 인프라를 제공하는 방법
+# {{title}}
 
 ## Definition
-- area : #300-DevOps 
+- area :
 - -
 
 ### 3W
