@@ -1,12 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 165
+files            : 164
 
 derectories      : 62
 
-avg_file_length  : 73923
-
+avg_file_length  : __AVG_FILE_LEGNTH__
 ```
 ./Brain</br>
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
@@ -223,7 +222,6 @@ avg_file_length  : 73923
 ┗━ [Kubernetes](./Kubernetes.md)</br>
 ┗━ [README 2](./README%202.md)</br>
 ┗━ [README 3](./README%203.md)</br>
-┗━ [README 4](./README%204.md)</br>
 ┗━ [README](./README.md)</br>
 ┗━ [Untitled](./Untitled.md)</br>
 ┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
@@ -442,10 +440,9 @@ avg_file_length  : 73923
 ┗━ [Kubernetes](./Kubernetes.md)</br>
 ┗━ [README 2](./README%202.md)</br>
 ┗━ [README 3](./README%203.md)</br>
-┗━ [README 4](./README%204.md)</br>
 ┗━ [README](./README.md)</br>
 ┗━ [Untitled](./Untitled.md)</br>
-┗━ [📁 XX6Qopph](./XX6Qopph)</br>
+┗━ [📁 XXTk9B9Z](./XXTk9B9Z)</br>
 ┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
 
 
