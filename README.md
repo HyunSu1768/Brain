@@ -226,7 +226,6 @@ avg_file_length  : 73923
 ┗━ [README 4](./README%204.md)</br>
 ┗━ [README](./README.md)</br>
 ┗━ [Untitled](./Untitled.md)</br>
-┗━ [📁 XXOkPMzC](./XXOkPMzC)</br>
 ┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
 .
 ┗━ [📁 0. Knowledge Warehouse](./0.%20Knowledge%20Warehouse)</br>
@@ -446,7 +445,6 @@ avg_file_length  : 73923
 ┗━ [README 4](./README%204.md)</br>
 ┗━ [README](./README.md)</br>
 ┗━ [Untitled](./Untitled.md)</br>
-┗━ [📁 XXOkPMzC](./XXOkPMzC)</br>
 ┗━━━ [📁 vault━auth.yaml](./vault━auth.yaml)</br>
 
 
