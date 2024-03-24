@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 165
+files            : 167
 
 derectories      : 62
 
-avg_file_length  : 73923
+avg_file_length  : 73037
 
 ```
 ./Brain</br>
@@ -102,6 +102,8 @@ avg_file_length  : 73923
 ┃   ┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Control%20Plane란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Controller 란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20란?.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Controller의 구성요소](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller의%20구성요소.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet의 사용 용도](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet의%20사용%20용도.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Deployment란.md)</br>
@@ -208,7 +210,7 @@ avg_file_length  : 73923
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
 ┃   ┃   ┗━━━ [Kubernetes](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/Kubernetes.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
-┃   ┃   ┗━━━ [Kubernetes Controller가 Watch하는 리소스들이 많아진다면 그에대한 부하는 늘어날 것이다](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion/Kubernetes%20Controller가%20Watch하는%20리소스들이%20많아진다면%20그에대한%20부하는%20늘어날%20것이다.md)</br>
+┃   ┃   ┗━━━ [Kubernetes Controller가 감시하는 리소스들이 많아진다면 그에대한 부하는 늘어나지 않을까?](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion/Kubernetes%20Controller가%20감시하는%20리소스들이%20많아진다면%20그에대한%20부하는%20늘어나지%20않을까?.md)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
 ┃   ┗━━━ [000 Language](./5.%20Zettel%20Kasten/000%20Language.md)</br>
@@ -321,6 +323,8 @@ avg_file_length  : 73923
 ┃   ┃   ┃   ┃   ┃   ┗━ [Control Plane란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Control%20Plane란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager의 구성](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager의%20구성.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Controller Manager란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20Manager란.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Controller 란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller%20란?.md)</br>
+┃   ┃   ┃   ┃   ┃   ┗━ [Controller의 구성요소](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Controller의%20구성요소.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet의 사용 용도](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet의%20사용%20용도.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [DaemonSet이란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/DaemonSet이란.md)</br>
 ┃   ┃   ┃   ┃   ┃   ┗━ [Deployment란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/300.%20DevOps/320.%20Container%20&%20Orchestration/321.%20Kubernetes/Deployment란.md)</br>
@@ -427,7 +431,7 @@ avg_file_length  : 73923
 ┃   ┗━ [📁 Phase 2 ━ Keywords](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords)</br>
 ┃   ┃   ┗━━━ [Kubernetes](./5.%20Zettel%20Kasten/Phase%202%20━%20Keywords/Kubernetes.md)</br>
 ┃   ┗━ [📁 Phase 3 ━ Opinion](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion)</br>
-┃   ┃   ┗━━━ [Kubernetes Controller가 Watch하는 리소스들이 많아진다면 그에대한 부하는 늘어날 것이다](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion/Kubernetes%20Controller가%20Watch하는%20리소스들이%20많아진다면%20그에대한%20부하는%20늘어날%20것이다.md)</br>
+┃   ┃   ┗━━━ [Kubernetes Controller가 감시하는 리소스들이 많아진다면 그에대한 부하는 늘어나지 않을까?](./5.%20Zettel%20Kasten/Phase%203%20━%20Opinion/Kubernetes%20Controller가%20감시하는%20리소스들이%20많아진다면%20그에대한%20부하는%20늘어나지%20않을까?.md)</br>
 ┃   ┗━ [📁 Phase 4 ━ Arguments](./5.%20Zettel%20Kasten/Phase%204%20━%20Arguments)</br>
 ┃   ┗━ [📁 Phase 5 ━ Second Brain](./5.%20Zettel%20Kasten/Phase%205%20━%20Second%20Brain)</br>
 ┃   ┗━━━ [000 Language](./5.%20Zettel%20Kasten/000%20Language.md)</br>
