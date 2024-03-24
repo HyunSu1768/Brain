@@ -29,7 +29,7 @@ node-role.kubernetes.io=master:NoSchedule
 Area : #300-DevOps/320-Container-Orchestration 
 
 Keywords :
-- 
+- [[5. Zettel Kasten/Phase 2 - Keywords/Kubernetes|Kubernetes]]
 
 Related Notes : 
 - 

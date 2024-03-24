@@ -25,9 +25,10 @@ tags:
 ### Expanded Thinking
 - 5. Opinion
 	- 5-1
-		- [[Kubernetes Controller가 Watch하는 리소스들이 많아진다면 그에대한 부하는 늘어날 것이다]]
+		- [[Kubernetes Controller가 감시하는 리소스들이 많아진다면 그에대한 부하는 늘어나지 않을까?]]
 - 6. Argument
 	- 6-1
+		- 
 - 7. Second Brain
 
 ### Related Notes

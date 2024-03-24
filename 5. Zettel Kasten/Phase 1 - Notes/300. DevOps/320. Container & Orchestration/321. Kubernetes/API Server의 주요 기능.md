@@ -35,7 +35,7 @@ URL :
 Area : #300-DevOps/320-Container-Orchestration 
 
 Keywords :
-- 
+- [[5. Zettel Kasten/Phase 2 - Keywords/Kubernetes|Kubernetes]]
 
 Related Notes : 
 - [[API Server란]]

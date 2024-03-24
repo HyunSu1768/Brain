@@ -23,7 +23,7 @@ URL : 뭄샤드 아저씨의 강의와 블로그
 Area : #300-DevOps/320-Container-Orchestration 
 
 Keywords :
-- 
+- [[5. Zettel Kasten/Phase 2 - Keywords/Kubernetes|Kubernetes]]
 
 Related Notes : 
 - [[DaemonSet이란]]
