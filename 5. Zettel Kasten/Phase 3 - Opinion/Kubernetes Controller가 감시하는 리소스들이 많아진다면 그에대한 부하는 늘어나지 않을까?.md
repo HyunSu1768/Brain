@@ -27,10 +27,10 @@ Related Notes :
 - [[Controller의 구성요소]]
 
 Same Opinion :
-- 
+-
 
 Opposite Opinion :
-- 
+-
 
 Question :
 - Kubernetes Controller가 감시하는 리소스들이 많아진다면 그에대한 부하는 늘어나지 않을까?
