@@ -1,11 +1,11 @@
 # Brain
 ![Second Brain Diagram](./0.%20Knowledge%20Warehouse/010.%20etc/011.%20image/diagram.jpg)
 ```
-files            : 167
+files            : 169
 
-derectories      : 62
+derectories      : 69
 
-avg_file_length  : 73036
+avg_file_length  : 72173
 
 ```
 ./Brain</br>
@@ -68,11 +68,20 @@ avg_file_length  : 73036
 ┃   ┃   ┃   ┃   ┗━━━ [Untitled](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Untitled.md)</br>
 ┃   ┃   ┃   ┗━━━ [📁 010. Go](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/010.%20Go)</br>
 ┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm)</br>
-┃   ┃   ┃   ┗━ [BOJ 3197](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/BOJ%203197.md)</br>
-┃   ┃   ┃   ┗━ [이진 트리란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/이진%20트리란.md)</br>
-┃   ┃   ┃   ┗━ [중복값 제거 하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/중복값%20제거%20하는법.md)</br>
-┃   ┃   ┃   ┗━ [모듈러 연산](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/모듈러%20연산.md)</br>
-┃   ┃   ┃   ┗━━━ [중복값 제거란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/중복값%20제거란.md)</br>
+┃   ┃   ┃   ┗━ [📁 DP](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/DP)</br>
+┃   ┃   ┃   ┗━ [📁 Greedy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Greedy)</br>
+┃   ┃   ┃   ┗━ [📁 Programmers](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Programmers)</br>
+┃   ┃   ┃   ┃   ┗━━━ [PCCE 10](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Programmers/PCCE%2010.md)</br>
+┃   ┃   ┃   ┗━ [📁 Search](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Search)</br>
+┃   ┃   ┃   ┗━ [📁 Sort](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Sort)</br>
+┃   ┃   ┃   ┗━ [📁 Two dimesions](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Two%20dimesions)</br>
+┃   ┃   ┃   ┗━━━ [📁 etc](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc)</br>
+┃   ┃   ┃       ┗━ [BOJ 3197](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/BOJ%203197.md)</br>
+┃   ┃   ┃       ┗━ [이진 트리란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/이진%20트리란.md)</br>
+┃   ┃   ┃       ┗━ [중복값 제거 하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/중복값%20제거%20하는법.md)</br>
+┃   ┃   ┃       ┗━ [모듈러 연산](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/모듈러%20연산.md)</br>
+┃   ┃   ┃       ┗━ [중복값 제거란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/중복값%20제거란.md)</br>
+┃   ┃   ┃       ┗━━━ [컴퓨팅 사고력이란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/컴퓨팅%20사고력이란?.md)</br>
 ┃   ┃   ┗━ [📁 200. Database](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database)</br>
 ┃   ┃   ┃   ┗━ [ACID란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database/ACID란.md)</br>
 ┃   ┃   ┃   ┗━ [DAO란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database/DAO란.md)</br>
@@ -289,11 +298,20 @@ avg_file_length  : 73036
 ┃   ┃   ┃   ┃   ┗━━━ [Untitled](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/000.%20English/Untitled.md)</br>
 ┃   ┃   ┃   ┗━━━ [📁 010. Go](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/000.%20Language/010.%20Go)</br>
 ┃   ┃   ┗━ [📁 100. Algorithm](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm)</br>
-┃   ┃   ┃   ┗━ [BOJ 3197](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/BOJ%203197.md)</br>
-┃   ┃   ┃   ┗━ [이진 트리란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/이진%20트리란.md)</br>
-┃   ┃   ┃   ┗━ [중복값 제거 하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/중복값%20제거%20하는법.md)</br>
-┃   ┃   ┃   ┗━ [모듈러 연산](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/모듈러%20연산.md)</br>
-┃   ┃   ┃   ┗━━━ [중복값 제거란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/중복값%20제거란.md)</br>
+┃   ┃   ┃   ┗━ [📁 DP](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/DP)</br>
+┃   ┃   ┃   ┗━ [📁 Greedy](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Greedy)</br>
+┃   ┃   ┃   ┗━ [📁 Programmers](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Programmers)</br>
+┃   ┃   ┃   ┃   ┗━━━ [PCCE 10](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Programmers/PCCE%2010.md)</br>
+┃   ┃   ┃   ┗━ [📁 Search](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Search)</br>
+┃   ┃   ┃   ┗━ [📁 Sort](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Sort)</br>
+┃   ┃   ┃   ┗━ [📁 Two dimesions](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/Two%20dimesions)</br>
+┃   ┃   ┃   ┗━━━ [📁 etc](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc)</br>
+┃   ┃   ┃       ┗━ [BOJ 3197](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/BOJ%203197.md)</br>
+┃   ┃   ┃       ┗━ [이진 트리란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/이진%20트리란.md)</br>
+┃   ┃   ┃       ┗━ [중복값 제거 하는법](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/중복값%20제거%20하는법.md)</br>
+┃   ┃   ┃       ┗━ [모듈러 연산](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/모듈러%20연산.md)</br>
+┃   ┃   ┃       ┗━ [중복값 제거란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/중복값%20제거란.md)</br>
+┃   ┃   ┃       ┗━━━ [컴퓨팅 사고력이란?](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/100.%20Algorithm/etc/컴퓨팅%20사고력이란?.md)</br>
 ┃   ┃   ┗━ [📁 200. Database](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database)</br>
 ┃   ┃   ┃   ┗━ [ACID란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database/ACID란.md)</br>
 ┃   ┃   ┃   ┗━ [DAO란](./5.%20Zettel%20Kasten/Phase%201%20━%20Notes/200.%20Database/DAO란.md)</br>
