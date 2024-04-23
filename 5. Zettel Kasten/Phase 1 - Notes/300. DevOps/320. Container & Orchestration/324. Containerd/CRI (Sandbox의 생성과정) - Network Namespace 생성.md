@@ -18,7 +18,7 @@ URL :
 ```go
 func (c *criService) RunPodSandbox(ctx context.Context, r *runtime.RunPodSandboxRequest) (_ *runtime.RunPodSandboxResponse, retErr error)
 ```
-Sandbox는 완벽하게 환경을 격리해야 하기 때문에 네트워크 통신 부분도 분리합니다.
+PodSandbox는 완벽하게 외부환경으로부터 격리해야 하기 때문에 네트워크 통신 부분도 분리합니다.
 ```go
 if !hostNetwork(config) && !userNsEnabled {
 ...
