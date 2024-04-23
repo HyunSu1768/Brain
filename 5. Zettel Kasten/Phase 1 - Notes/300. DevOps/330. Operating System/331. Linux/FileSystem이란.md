@@ -61,7 +61,7 @@ URL :
 Area : #300-DevOps/330-Operating-System 
 
 Keywords :
-- 
+- [[Linux]]
 
 Related Notes : 
 - 

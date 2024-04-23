@@ -5,9 +5,7 @@ tags:
 
 ---
 
-
-
-# {{title}}
+# Linux
 
 ## Definition
 - area :
