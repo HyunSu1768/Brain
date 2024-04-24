@@ -30,7 +30,7 @@ if !hostNetwork(config) && !userNsEnabled {
 ...
 }
 ```
-k8s의 pod spec에서 hostNetwork를 설정할 수 있는데 해당 옵션이 비활성화 되어 있는 경우에는 네트워크를 격리하기 위해 network namespace 를 생성한다.
+k8s의 pod spec에서 hostNetwork를 설정할 수 있는데 해당 옵션이 비활성화 되어 있는 경우에는 네트워크를 격리하기 위해 network namespace 를 생성합니다.
 
 ## 눈으로 확인하기
 눈으로 확인해 보기 위해 k8s node 에 접속하여 /var/run/netns 에 존재하는 디렉토리 개수를 확인합니다.
@@ -49,9 +49,9 @@ Network Namespace 가 4개로 나뉘어져 있고
 k get pod -o wide -A | grep ip-10-0-7-118.ap-northeast-2.compute.internal | wc -l
        6
 ```
-실제로 해당 노드에서의 파드 개수는 6개이다. 아까 말했던 것처럼 hostNetork가 활성화 되어있는 경우에는 network namespace를 생성하지 않기 때문에 kube-proxy와 aws-ebs-node 파드를 제외하면 4개가 맞다.
+실제로 해당 노드에서의 파드 개수는 6개입니다. 아까 말했던 것처럼 hostNetork가 활성화 되어있는 경우에는 network namespace를 생성하지 않기 때문에 kube-proxy와 aws-ebs-node 파드를 제외하면 4개가 맞습니다.
 
-그러면 옛날에 생성되었던 network namespace는 어떻게 될까?
+그러면 옛날에 생성되었던 network namespace는 어떻게 될까요?
 
 ```go
 defer func() {  
@@ -65,7 +65,7 @@ defer func() {
     }  
 }()
 ```
-그 부분은 containerd 코드에서 파드가 종료되면 생성했던 network namespace를 삭제하도록 작성되었기 때문에 삭제된다.
+그 부분은 containerd 코드에서 파드가 종료되면 생성했던 network namespace를 삭제하도록 작성되었기 때문에 삭제됩니다.
 ### Link of Thoughts
 Area : #300-DevOps/320-Container-Orchestration 
 
