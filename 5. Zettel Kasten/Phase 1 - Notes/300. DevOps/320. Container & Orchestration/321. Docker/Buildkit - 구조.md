@@ -58,3 +58,4 @@ Keywords :
 
 Related Notes : 
 - [[Buildkit - 개념]]
+- [[Buildkit - 컨텐츠 기반 주소 지정 - CAS(Content Addressable Storage)]]
