@@ -1,0 +1,1 @@
+suspended : 정지된
