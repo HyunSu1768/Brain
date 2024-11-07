@@ -27,6 +27,20 @@ https://docs.google.com/document/d/1LpnMjGNsQyHOuVHMktIrjZsdRw9aKZ8djt354nAno6M/
 - 여러 L3캐시에 걸친 파드는 캐시 간 접근 지연 시간으로 인해 성능 저하
 성능 테스트 결과, TPCC/MySQL 워크로드에서 기존 동작 대비 18% 성능 향상, Stream 워크로드에서는 약 20%의 성능 향상을 보임
 
+## 목표
+1. 파드와 컨테이너 범위에서 동일한 L3 캐시 그룹 내에서 CPU를 할당하는 새로운 CPU Manager 정책 옵션 추가
+2. 서로 다른 L3 캐시 그룹에서의 CPU 자원 할당 최소화
+3. 멀티 소켓 시스템 자원 추가
+
+## 목표가 아닌 것
+1. CPU Manager 정책이 'none'으로 설정된 경우는 수정하기 않는다.
+2. fill-pcpus-only와 같은 기존 정적 정책 옵션의 동작은 변경하지 않음
+
+## Proposal
+
+
+
+
 ### Link of Thoughts
 Area : #300-DevOps/320-Container-Orchestration 
 
