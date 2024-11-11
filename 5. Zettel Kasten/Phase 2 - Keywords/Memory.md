@@ -1,6 +1,6 @@
 ---
 aliases:
-  - CPU
+  - Memory
 tags:
   - 키워드메모
   - 진행중
@@ -8,10 +8,10 @@ tags:
 
 ---
 
-# CPU
+# Memory
 
 ## Definition
-- area : #1000-Computer-Architecture/1001-CPU 
+- area : #1000-Computer-Architecture/1002-Memory 
 - -
 
 ### 3W
