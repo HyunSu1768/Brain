@@ -20,7 +20,7 @@ URL : https://docs.bitnami.com/tutorials/a-deep-dive-into-kubernetes-controllers
 ## Informer/SharedInformer
 - informer/sharedinformer는 kubernetes의 개체의 상태에 대한 변화를 감지하고 WorkerQueue에 이벤트를 전달합니다.
 ### Informer
-여기서 컨트롤러는 개체애 대한 상태를 검색하기 위해 API Server에 요청을 보냅니다.
+여기서 컨트롤러는 개채에 대한 상태를 검색하기 위해 API Server에 요청을 보냅니다.
 하지만 API Server에 반복적으로 요청을 보낸다면 서버에대한 부하와 비용이 많이 부과될 수 있습니다. 따라서 client-go에서 제공하는 캐시를 사용합니다. 또한 컨트롤러는 개체에 대해 계속 요청을 보내고싶지 않습니다. 생성 수정 삭제될 때의 이벤트에만 관심이 있습니다. 따라서 client-go에서는 초기 목록을 수행하고 특정 리소스에 대한 감시를 시작하는 ListWatcher 인터페이스를 제공합니다. 현재 Kubernetes에서는 Informer는 많이 사용되지 않고, SharedInformer가 많이 사용됩니다.
 ### SharedInformer
 Informer는 해당 컨트롤러에서만 사용되는 캐시 집합을 생성합니다. Kubernetes는 하나의 리소스에 대해 여러개의 컨트롤러가 존재할 수 있습니다. 이 말은 즉슨 중복된 캐시가 있을 수 있다는 것입니다. SharedInformer는 하나의 컨트롤러에 대한 캐시 집합을 생성하는것이 아닌, 공유될 수 있는 캐시 집합을 생성하여 메모리 오버헤드를 줄입니다. 또한 SharedInformer는 다운스트림 서버의 개수와 상관없이 업스트림 서버에 대한 단일 감시만 생성하여, 업스트림 서버에 대한 부하를 줄여줍니다.

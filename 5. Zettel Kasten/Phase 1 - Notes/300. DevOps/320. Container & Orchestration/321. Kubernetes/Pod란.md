@@ -31,4 +31,5 @@ Keywords :
 
 Related Notes : 
 - [[Pod 사용 예시]]
+- [[Pod Network Interface]]
 
