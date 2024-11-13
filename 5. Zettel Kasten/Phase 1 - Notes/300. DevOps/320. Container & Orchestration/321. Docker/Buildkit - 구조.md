@@ -60,3 +60,4 @@ Related Notes :
 - [[Buildkit - 개념]]
 - [[Buildkit - 컨텐츠 기반 주소 지정 - CAS(Content Addressable Storage)]]
 - [[Buildkit - LLB (Low Level Build)]]
+- [[Open Container Initiative ( OCI )]]
