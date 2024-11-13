@@ -23,5 +23,4 @@ Keywords :
 
 Related Notes : 
 - [[Docker란]]
-- [[Namespace란?]]
-- [[Namespace의 종류]]
+- [[Namespace]]
