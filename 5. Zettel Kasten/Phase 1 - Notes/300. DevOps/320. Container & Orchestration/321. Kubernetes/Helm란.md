@@ -32,4 +32,4 @@ Keywords :
 - [[5. Zettel Kasten/Phase 2 - Keywords/Kubernetes|Kubernetes]]
 
 Related Notes : 
-- 
+- [[Helm이 무엇이고, 어떤 장점이 있나요?]]
