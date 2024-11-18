@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Kubernetes
+  - Interview
 tags:
   - 문헌메모
   - 완료
