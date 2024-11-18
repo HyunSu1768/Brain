@@ -18,9 +18,8 @@ URL :
 
 ### Link of Thoughts
 Area : #1110-Interview/DevOps 
-
 Keywords :
-- 
+- Terraform
 
 Related Notes : 
 - 
