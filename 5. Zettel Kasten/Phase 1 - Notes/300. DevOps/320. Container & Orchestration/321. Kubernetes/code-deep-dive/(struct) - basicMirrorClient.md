@@ -44,8 +44,6 @@ Mirror Client는 kubelet의 구성요소로 kubelet은 노드에 배치된 Pod�
 
 해당 함수는 kubelet의 SyncPod() 함수 내에서 Pod를 Sync할 때 Pod가 static pod라면 Mirror Pod를 생성해 동기화 한다.
 
-
-
 ### Link of Thoughts
 Area : #300-DevOps/320-Container-Orchestration 
 
