@@ -24,10 +24,9 @@ URL :
 	- lo : 루프백 인터페이스
 	- docker0 : 도커의 기본 네트워크 브릿지
 	- 소프트웨어로 생성된 가상의 인터페이스
-	- 
 
 ### Link of Thoughts
-Area :
+Area : #500-Network 
 
 Keywords :
 - 
