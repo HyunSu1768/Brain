@@ -27,4 +27,4 @@ Keywords :
 
 Related Notes : 
 - [[Host OS란?]]
-- [[Container 기술의 철학]]
+- [[Container 기술의 철학과 진화]]
