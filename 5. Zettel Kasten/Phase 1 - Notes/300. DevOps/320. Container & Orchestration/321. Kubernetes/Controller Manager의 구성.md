@@ -20,9 +20,9 @@ URL :
 
 # 주요 컨트롤러
 - [[Replication Controller]]
-- ReplicaSet
-- Deployment
-- StatefulSet
+- ReplicaSet Controller
+- Deployment Controller
+- StatefulSet Controller
 
 ### Link of Thoughts
 Area : #300-DevOps/320-Container-Orchestration 
